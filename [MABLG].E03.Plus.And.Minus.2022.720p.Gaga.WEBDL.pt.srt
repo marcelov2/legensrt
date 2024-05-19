@@ -1,0 +1,1851 @@
+1
+00:01:21,200 --> 00:01:25,700
+Mais menos
+
+2
+00:01:27,967 --> 00:01:29,400
+(Episódio 3: Slope Intercept Form)
+Por que está tão lotado no Jian's?
+
+3
+00:01:29,500 --> 00:01:31,100
+Tenho tolerado sua música estúpida e alta.
+
+4
+00:01:31,200 --> 00:01:32,567
+E agora você bloqueia a entrada da minha loja?
+
+5
+00:01:32,667 --> 00:01:33,800
+Que entrada?
+
+6
+00:01:33,900 --> 00:01:35,400
+Eu sou o dono desta lavanderia.
+
+7
+00:01:35,500 --> 00:01:36,433
+Como você pode fazer isso?
+
+8
+00:01:36,533 --> 00:01:37,267
+Então?
+
+9
+00:01:37,367 --> 00:01:39,367
+Talvez devêssemos chamar a polícia.
+
+10
+00:01:39,467 --> 00:01:42,400
+Então o culpado culpa a vítima, não é?
+
+11
+00:01:42,500 --> 00:01:44,333
+Qual é o seu problema?
+
+12
+00:01:44,433 --> 00:01:45,900
+Você é quem está bloqueando nossa entrada.
+
+13
+00:01:46,000 --> 00:01:47,033
+E não nos decepcionar.
+
+14
+00:01:47,133 --> 00:01:48,267
+Isso é um crime.
+
+15
+00:01:48,367 --> 00:01:49,267
+Podemos processar você, sabe?
+
+16
+00:01:49,367 --> 00:01:49,667
+Você--
+
+17
+00:01:49,767 --> 00:01:50,867
+Você está nos impedindo de fazer negócios.
+
+18
+00:01:50,967 --> 00:01:52,167
+Você--
+
+19
+00:02:04,100 --> 00:02:05,433
+O que você está fazendo, Yuki?
+
+20
+00:02:08,933 --> 00:02:09,700
+Sem problemas.
+
+21
+00:02:09,800 --> 00:02:11,200
+Vamos apenas limpar isso.
+
+22
+00:02:26,833 --> 00:02:28,300
+Você pode segurar a pá de lixo para mim?
+
+23
+00:02:38,400 --> 00:02:39,500
+Eu entendi.
+
+24
+00:02:39,600 --> 00:02:40,700
+Obrigado.
+
+25
+00:02:46,367 --> 00:02:47,567
+Sr.
+
+26
+00:02:47,667 --> 00:02:49,267
+Você está bem?
+
+27
+00:02:51,667 --> 00:02:53,267
+Estou bem.
+
+28
+00:02:53,367 --> 00:02:55,000
+Desculpe pelo barulho.
+
+29
+00:03:00,567 --> 00:03:01,600
+Yuki.
+
+30
+00:03:01,700 --> 00:03:03,567
+Está tudo bem aqui?
+
+31
+00:03:04,267 --> 00:03:05,533
+Alguém ficou muito bêbado ontem.
+
+32
+00:03:05,633 --> 00:03:07,033
+E fez uma bagunça.
+
+33
+00:03:07,133 --> 00:03:08,633
+Está bem.
+
+34
+00:03:09,967 --> 00:03:11,133
+Por que você chegou tão cedo hoje?
+
+35
+00:03:11,233 --> 00:03:13,667
+Estávamos apenas de passagem.
+
+36
+00:03:13,767 --> 00:03:15,367
+Quer uma bebida?
+
+37
+00:03:15,467 --> 00:03:17,167
+Não pode.  Ocupado esta noite.
+
+38
+00:04:14,933 --> 00:04:16,467
+Final terrível!
+
+39
+00:04:16,567 --> 00:04:17,767
+Como assim?
+
+40
+00:04:17,867 --> 00:04:19,500
+Obviamente há uma próxima temporada.
+
+41
+00:04:19,600 --> 00:04:21,600
+Então eles nos deram um suspense clichê.
+
+42
+00:04:21,700 --> 00:04:24,067
+É uma merda.
+
+43
+00:04:24,167 --> 00:04:25,467
+Concordo.
+
+44
+00:04:25,567 --> 00:04:28,000
+Devemos cancelar nossa assinatura?
+
+45
+00:04:32,333 --> 00:04:33,767
+Tem certeza?
+
+46
+00:04:33,867 --> 00:04:35,600
+Você ficaria entediado.
+
+47
+00:04:35,700 --> 00:04:37,500
+Eu não me importo.
+
+48
+00:04:38,367 --> 00:04:40,100
+Então por que você não cancelou?
+
+49
+00:04:46,267 --> 00:04:47,367
+Por minha causa?
+
+50
+00:04:47,467 --> 00:04:49,167
+Claro que não.
+
+51
+00:04:51,400 --> 00:04:54,667
+Você é o melhor.
+
+52
+00:05:02,333 --> 00:05:03,767
+Está um pouco vazio...
+
+53
+00:05:08,967 --> 00:05:10,933
+Você entendeu a última parte?
+
+54
+00:05:11,033 --> 00:05:13,933
+Por que o policial escreveu "±"?
+
+55
+00:05:15,433 --> 00:05:17,467
+Esse é um sinal de mais-menos.
+
+56
+00:05:21,667 --> 00:05:23,400
+Eu pensei que era um personagem.
+
+57
+00:05:53,633 --> 00:05:54,633
+Direito Penal, Artigo 325.º
+
+58
+00:05:54,733 --> 00:05:55,533
+Parágrafo 1.
+
+59
+00:05:55,633 --> 00:05:57,233
+Uma pessoa que
+rouba bens móveis de
+
+60
+00:05:57,333 --> 00:05:58,133
+outra pessoa para
+possuí-los ilegalmente…
+
+61
+00:05:58,233 --> 00:05:59,933
+para si ou para terceiros...
+
+62
+00:06:00,033 --> 00:06:01,600
+será condenado à prisão.
+
+63
+00:06:01,700 --> 00:06:03,367
+O que há com a gagueira?
+
+64
+00:06:08,533 --> 00:06:10,167
+Não posso dar uma olhada?
+
+65
+00:06:10,733 --> 00:06:13,067
+Barato.
+
+66
+00:06:23,100 --> 00:06:24,667
+O que?
+
+67
+00:06:24,767 --> 00:06:25,833
+Ok, peço desculpas.
+
+68
+00:06:25,933 --> 00:06:27,833
+Não fique bravo.
+
+69
+00:06:28,733 --> 00:06:30,600
+Estou pensando na Sra. Ke.
+
+70
+00:06:31,600 --> 00:06:32,133
+Você já não arquivou...
+
+71
+00:06:32,233 --> 00:06:34,333
+uma ordem de restrição para ela?
+
+72
+00:06:35,300 --> 00:06:37,167
+(Sr. Fu, estou sendo seguido de novo!)
+
+73
+00:06:40,133 --> 00:06:41,900
+A Sra. Ke tem uma ordem de restrição.
+
+74
+00:06:42,000 --> 00:06:43,133
+Mas você não.
+
+75
+00:06:43,233 --> 00:06:44,267
+Por quê?
+
+76
+00:06:44,367 --> 00:06:45,833
+Ele não se atreverá a me tocar.
+
+77
+00:06:45,933 --> 00:06:46,767
+Quem ele pensa que é, afinal?
+
+78
+00:06:46,867 --> 00:06:48,333
+Eu sou um...
+
+79
+00:06:50,167 --> 00:06:51,933
+Você tem que ter cuidado.
+
+80
+00:06:53,200 --> 00:06:55,133
+Tudo bem, eu ouço você.
+
+81
+00:07:05,000 --> 00:07:06,267
+Estranho.
+
+82
+00:07:06,367 --> 00:07:08,567
+Fu Li Gong está estranho hoje.
+
+83
+00:07:12,667 --> 00:07:14,900
+Espero que Ze Shou não tenha visto…
+
+84
+00:07:15,000 --> 00:07:16,767
+o que havia dentro.
+
+85
+00:07:24,300 --> 00:07:25,000
+Vem vem.
+
+86
+00:07:25,100 --> 00:07:27,033
+Todos foram abençoados
+pelo deus do amor.
+
+87
+00:07:27,133 --> 00:07:27,933
+Contanto que você tenha um par…
+
+88
+00:07:28,033 --> 00:07:30,367
+vocês ficarão juntos para sempre.
+
+89
+00:07:32,800 --> 00:07:34,067
+Obrigado?
+
+90
+00:07:34,567 --> 00:07:36,300
+Você gosta disso?
+
+91
+00:07:36,400 --> 00:07:38,267
+Não.  Apenas olhando por aí.
+
+92
+00:07:46,700 --> 00:07:48,933
+Lin Lin, fique perto.
+
+93
+00:07:55,833 --> 00:07:56,500
+Você está bem?
+
+94
+00:07:56,600 --> 00:07:57,133
+Desculpe.
+
+95
+00:07:57,233 --> 00:07:58,633
+Sinto muito.
+
+96
+00:07:59,967 --> 00:08:01,333
+É você.
+
+97
+00:08:05,600 --> 00:08:07,000
+Desculpe, garoto.
+
+98
+00:08:07,100 --> 00:08:09,333
+Minhas roupas comeram seu sorvete.
+
+99
+00:08:11,900 --> 00:08:13,367
+Isto é para você.
+
+100
+00:08:17,067 --> 00:08:19,000
+Obrigado, senhor.
+
+101
+00:08:20,267 --> 00:08:21,833
+Obrigado.
+
+102
+00:08:21,933 --> 00:08:23,433
+Desculpe pelas suas roupas.
+
+103
+00:08:25,400 --> 00:08:28,067
+Vou te pagar.  Tanto para
+as roupas quanto para o bolo.
+
+104
+00:08:29,333 --> 00:08:31,267
+Você não é o dono da lavanderia?
+
+105
+00:08:35,700 --> 00:08:36,900
+Vou deixar isso para você, então.
+
+106
+00:08:49,333 --> 00:08:50,333
+Advogado Zheng.
+
+107
+00:08:50,433 --> 00:08:51,333
+Quer almoçar conosco?
+
+108
+00:08:51,433 --> 00:08:52,300
+Estou bem.  Vá em frente.
+
+109
+00:08:52,400 --> 00:08:53,400
+Vamos.
+
+110
+00:08:53,500 --> 00:08:55,100
+Tchau.
+
+111
+00:08:58,100 --> 00:08:59,400
+Almoço.
+
+112
+00:09:00,767 --> 00:09:02,200
+Você está entregando de novo?
+
+113
+00:09:02,300 --> 00:09:04,067
+Venha ver se você foi preguiçoso.
+
+114
+00:09:04,167 --> 00:09:06,400
+Claro que não.
+
+115
+00:09:06,500 --> 00:09:08,500
+Por que você está tão feliz?
+
+116
+00:09:08,933 --> 00:09:10,300
+Senhor Zheng!
+
+117
+00:09:10,400 --> 00:09:12,467
+Muito obrigado…
+
+118
+00:09:12,567 --> 00:09:13,133
+por entregar almoço todas as vezes.
+
+119
+00:09:13,233 --> 00:09:16,167
+Não.  Nenhum problema.
+
+120
+00:09:16,267 --> 00:09:19,867
+Gong, não se esqueça de comer.
+
+121
+00:09:19,967 --> 00:09:21,133
+Obrigado.
+
+122
+00:09:21,233 --> 00:09:22,533
+Mas, Sr. Zheng…
+
+123
+00:09:22,633 --> 00:09:24,600
+Já dei palestras para eles.
+
+124
+00:09:24,700 --> 00:09:26,267
+Honestamente…
+
+125
+00:09:26,367 --> 00:09:28,733
+Você não tem que se preocupar.
+
+126
+00:09:28,833 --> 00:09:29,833
+Talvez…
+
+127
+00:09:29,933 --> 00:09:32,367
+Todos eles têm alguém em mente.
+
+128
+00:09:32,467 --> 00:09:34,300
+Nós simplesmente não sabemos disso.
+
+129
+00:09:34,400 --> 00:09:35,833
+Seu filho, Gong…
+
+130
+00:09:35,933 --> 00:09:38,567
+Não há preocupação com ele.
+
+131
+00:09:38,667 --> 00:09:39,667
+Mas olhe para este…
+
+132
+00:09:39,767 --> 00:09:41,333
+Podemos não falar sobre isso aqui?
+
+133
+00:09:41,433 --> 00:09:42,633
+Guarde-o para o ano novo chinês.
+
+134
+00:09:42,733 --> 00:09:44,433
+O Sr. Wang estava apenas conversando.
+
+135
+00:09:44,533 --> 00:09:45,200
+Como você saberia…
+
+136
+00:09:45,300 --> 00:09:47,500
+Se Fu Li Gong tivesse uma queda?
+
+137
+00:09:51,267 --> 00:09:52,000
+Sem chance.
+
+138
+00:09:52,100 --> 00:09:54,400
+Você realmente quer?
+
+139
+00:09:54,500 --> 00:09:56,467
+Claro que não.
+
+140
+00:09:56,567 --> 00:09:58,667
+Ei, isso não é jeito de ser amigo!
+
+141
+00:09:58,767 --> 00:10:00,133
+Eu disse que não tenho um.
+
+142
+00:10:00,233 --> 00:10:01,333
+Não é à toa que você está agindo...
+
+143
+00:10:01,433 --> 00:10:03,167
+tudo misterioso ultimamente.
+
+144
+00:10:03,267 --> 00:10:04,400
+Gongo.
+
+145
+00:10:04,500 --> 00:10:07,533
+Você deve trazer sua garota para minha loja.
+
+146
+00:10:07,633 --> 00:10:09,833
+Vou preparar uma mesa cheia de comida para você.
+
+147
+00:10:09,933 --> 00:10:11,033
+Quanto a mim?
+
+148
+00:10:11,133 --> 00:10:12,833
+Você?
+
+149
+00:10:13,767 --> 00:10:15,967
+Se você estivesse saindo com alguém…
+
+150
+00:10:16,067 --> 00:10:17,667
+Vou organizar um banquete.
+
+151
+00:10:17,767 --> 00:10:20,200
+E convide o mundo inteiro.
+
+152
+00:10:21,033 --> 00:10:21,933
+Certifique-se de terminar.
+
+153
+00:10:22,033 --> 00:10:22,700
+Tenho coisas para fazer na loja.
+
+154
+00:10:22,800 --> 00:10:23,467
+Eu tenho que ir.
+
+155
+00:10:23,567 --> 00:10:24,333
+Eu vou te acompanhar.
+
+156
+00:10:24,433 --> 00:10:25,267
+Não há necessidade, por favor.
+
+157
+00:10:25,367 --> 00:10:26,000
+Devo.
+
+158
+00:10:26,100 --> 00:10:27,000
+Estou bem.
+
+159
+00:10:27,100 --> 00:10:27,467
+Tchau, pai.
+
+160
+00:10:27,567 --> 00:10:28,933
+Tudo bem tchau.
+
+161
+00:10:36,500 --> 00:10:38,333
+Como está o caso da Sra. Ke?
+
+162
+00:10:39,100 --> 00:10:41,500
+Nenhuma atualização ainda.
+
+163
+00:10:41,600 --> 00:10:42,600
+São boas noticias.
+
+164
+00:10:42,700 --> 00:10:44,933
+Basta passar esta semana e ficaremos bem.
+
+165
+00:10:46,467 --> 00:10:47,667
+E o seu?
+
+166
+00:10:47,767 --> 00:10:48,600
+É o seguinte.
+
+167
+00:10:48,700 --> 00:10:50,267
+Meus amigos são super eficientes.
+
+168
+00:10:50,367 --> 00:10:52,500
+Adivinha o que Chi Tian fez?
+
+169
+00:10:52,600 --> 00:10:54,067
+Danos corporais, ameaças...
+
+170
+00:10:54,167 --> 00:10:55,600
+Ele fez tudo.
+
+171
+00:10:55,700 --> 00:10:58,100
+A melhor parte é que todos
+vêm testemunhar contra ele.
+
+172
+00:10:58,200 --> 00:11:00,333
+Como está o seu caso?
+
+173
+00:11:00,433 --> 00:11:02,667
+A Sra. Ke obteve seu atestado de lesão.
+
+174
+00:11:02,767 --> 00:11:03,833
+Além das evidências que você tem.
+
+175
+00:11:03,933 --> 00:11:05,333
+Deve acelerar o processo de divórcio.
+
+176
+00:11:05,433 --> 00:11:06,667
+Você também é bastante eficiente.
+
+177
+00:11:06,767 --> 00:11:08,333
+Bom trabalho.
+
+178
+00:11:12,667 --> 00:11:13,667
+Por favor, seja cuidadoso.
+
+179
+00:11:13,767 --> 00:11:15,800
+Você me escuta?
+
+180
+00:11:15,900 --> 00:11:16,700
+O que?
+
+181
+00:11:16,800 --> 00:11:18,267
+Vamos comer.
+
+182
+00:11:37,833 --> 00:11:39,167
+Aí está você.
+
+183
+00:11:39,833 --> 00:11:41,233
+Manhã.
+
+184
+00:11:43,167 --> 00:11:44,633
+Onde está sua etiqueta?
+
+185
+00:11:47,533 --> 00:11:50,867
+Esqueci de trazer.
+
+186
+00:11:51,933 --> 00:11:53,867
+Você não deixou na casa de alguém?
+
+187
+00:11:54,967 --> 00:11:56,500
+Onde estão minhas coisas?
+
+188
+00:12:03,600 --> 00:12:05,133
+Que coisas?
+
+189
+00:12:06,933 --> 00:12:09,000
+Pedi para você pegar o bolo para mim.
+
+190
+00:12:09,100 --> 00:12:10,700
+Você se esqueceu disso também?
+
+191
+00:12:10,800 --> 00:12:12,100
+Obtê-lo agora.
+
+192
+00:12:12,867 --> 00:12:14,200
+Eu, er...
+
+193
+00:12:16,800 --> 00:12:20,800
+Eu estava com fome, então comi.
+
+194
+00:12:22,833 --> 00:12:25,233
+Você comeu o bolo inteiro?
+
+195
+00:12:30,500 --> 00:12:32,300
+Eu tentei para você.
+
+196
+00:12:32,400 --> 00:12:34,233
+Foi fantástico.
+
+197
+00:12:39,533 --> 00:12:40,567
+Aquele bolo…
+
+198
+00:12:40,667 --> 00:12:42,733
+foi uma edição limitada.
+
+199
+00:12:42,833 --> 00:12:44,467
+Eles fazem exatamente três deles por dia.
+
+200
+00:12:44,567 --> 00:12:45,867
+Encomendei semana passada...
+
+201
+00:12:45,967 --> 00:12:47,000
+assim que estivesse disponível.
+
+202
+00:12:47,100 --> 00:12:49,533
+E você me conta que comeu tudo?
+
+203
+00:12:51,900 --> 00:12:53,933
+Não fique chateado.
+
+204
+00:12:54,033 --> 00:12:55,867
+Vou pedir outro para você.
+
+205
+00:12:55,967 --> 00:12:57,433
+Como diabos você é!
+
+206
+00:12:57,533 --> 00:12:58,200
+Os ingredientes são limitados.
+
+207
+00:12:58,300 --> 00:12:59,233
+Pode esgotar a qualquer momento!
+
+208
+00:12:59,333 --> 00:13:01,200
+A próxima vez pode demorar muito!
+
+209
+00:13:01,300 --> 00:13:03,100
+É melhor você cuspir!
+
+210
+00:13:20,600 --> 00:13:22,033
+Está bem.
+
+211
+00:13:24,567 --> 00:13:25,933
+Confie em mim.
+
+212
+00:13:26,033 --> 00:13:27,333
+Tem que haver outra maneira.
+
+213
+00:13:27,433 --> 00:13:28,500
+Sua maquiagem parece boa hoje.
+
+214
+00:13:28,600 --> 00:13:30,067
+Não me dê isso.
+
+215
+00:13:35,800 --> 00:13:36,767
+Yuki.
+
+216
+00:13:36,867 --> 00:13:39,133
+Traga duas caixas de cerveja
+depois de terminar de usar o banheiro.
+
+217
+00:13:39,233 --> 00:13:40,533
+OK.
+
+218
+00:13:48,367 --> 00:13:49,733
+Tem certeza que você vai?
+
+219
+00:13:49,833 --> 00:13:50,700
+Fizemos um acordo.
+
+220
+00:13:50,800 --> 00:13:53,033
+Xiao Yu e outros estão
+esperando por nós no telhado.
+
+221
+00:13:53,133 --> 00:13:54,100
+Mas ainda é cedo.
+
+222
+00:13:54,200 --> 00:13:55,067
+Tem certeza que?
+
+223
+00:13:55,167 --> 00:13:56,067
+Se eles não vierem ao nosso encontro...
+
+224
+00:13:56,167 --> 00:13:57,667
+Como vamos subir?
+
+225
+00:13:57,767 --> 00:13:58,633
+De qualquer forma.  Comer!
+
+226
+00:13:58,733 --> 00:14:00,133
+Temos bolo para comer mais tarde.
+
+227
+00:14:06,733 --> 00:14:08,967
+Eu ganho um presente de aniversário?
+
+228
+00:14:09,067 --> 00:14:10,200
+Quem faz perguntas como essa?
+
+229
+00:14:10,300 --> 00:14:12,567
+Não vai machucar ninguém.
+
+230
+00:14:15,467 --> 00:14:17,367
+Pare de ser tão misterioso.
+
+231
+00:14:17,467 --> 00:14:18,867
+Eu vou te contar isso.
+
+232
+00:14:18,967 --> 00:14:20,400
+Com certeza você vai adorar…
+
+233
+00:14:20,500 --> 00:14:22,167
+o presente que eu ganhei para você.
+
+234
+00:14:22,267 --> 00:14:23,300
+Fu Li Gong.
+
+235
+00:14:24,067 --> 00:14:26,700
+Fu Li Gong
+
+236
+00:14:26,800 --> 00:14:29,133
+Não fique aí sentado.  Venha ajudar!
+
+237
+00:14:36,233 --> 00:14:37,933
+Obrigado.
+
+238
+00:14:40,633 --> 00:14:42,133
+Esta loja é tão antiga…
+
+239
+00:14:42,233 --> 00:14:44,267
+já que ainda estávamos na escola.  Lembrar?
+
+240
+00:14:44,367 --> 00:14:45,933
+Não mudou nada.
+
+241
+00:14:46,033 --> 00:14:47,600
+Mas agora estamos todos crescidos.
+
+242
+00:14:48,233 --> 00:14:49,867
+Você tem certeza disso?
+
+243
+00:14:49,967 --> 00:14:52,167
+Sr. três anos de idade.
+
+244
+00:14:53,933 --> 00:14:56,133
+Coma seu macarrão.
+
+245
+00:15:02,533 --> 00:15:03,233
+O sabor não mudou.
+
+246
+00:15:03,333 --> 00:15:04,267
+Certo?
+
+247
+00:15:04,367 --> 00:15:05,667
+De volta ao ensino médio…
+
+248
+00:15:05,767 --> 00:15:06,933
+Não sei o que deu em você.
+
+249
+00:15:07,033 --> 00:15:08,000
+Você tinha que vir aqui para comer macarrão.
+
+250
+00:15:08,100 --> 00:15:09,700
+Todos os dias depois da escola.
+
+251
+00:15:09,800 --> 00:15:11,000
+Mesmo assim, seu pai preparava o jantar todos os dias.
+
+252
+00:15:11,100 --> 00:15:13,400
+Sim, e ele me daria um inferno se eu não comesse.
+
+253
+00:15:13,500 --> 00:15:14,500
+Então eu me senti tão cheio...
+
+254
+00:15:14,600 --> 00:15:17,233
+toda noite.
+
+255
+00:15:17,333 --> 00:15:18,333
+Você sempre foi assim.
+
+256
+00:15:18,433 --> 00:15:20,667
+Aqui está, seu acompanhamento.
+
+257
+00:15:20,767 --> 00:15:22,833
+Obrigado, minha linda senhora.
+
+258
+00:15:22,933 --> 00:15:25,267
+Faz anos que não sou linda!
+
+259
+00:15:25,367 --> 00:15:27,133
+Quer mais acompanhamentos?  É por minha conta.
+
+260
+00:15:27,233 --> 00:15:28,533
+Temos mais do que suficiente.
+
+261
+00:15:28,633 --> 00:15:29,467
+Obrigado!
+
+262
+00:15:29,567 --> 00:15:30,700
+Bem, aproveite sua refeição.
+
+263
+00:15:30,800 --> 00:15:31,500
+Sim, faremos isso.
+
+264
+00:15:31,600 --> 00:15:33,267
+Obrigado.
+
+265
+00:15:33,367 --> 00:15:35,433
+Não consegue nem tirar
+as mãos do dono agora?
+
+266
+00:15:36,000 --> 00:15:37,233
+O que há de errado com isso?
+
+267
+00:15:37,333 --> 00:15:39,400
+Recebo um suprimento infinito
+de acompanhamentos e macarrão.
+
+268
+00:15:39,500 --> 00:15:40,500
+Ciúmes?
+
+269
+00:15:40,600 --> 00:15:42,900
+Isso aí.
+
+270
+00:15:45,000 --> 00:15:46,267
+Quem é?
+
+271
+00:15:49,400 --> 00:15:49,767
+Olá?
+
+272
+00:15:49,867 --> 00:15:51,267
+Zheng!
+
+273
+00:15:51,367 --> 00:15:52,000
+O que se passa?
+
+274
+00:15:52,100 --> 00:15:53,867
+Temos um caso de coração partido aqui.
+
+275
+00:15:53,967 --> 00:15:55,833
+Pensei em sair para tomar uma bebida.
+
+276
+00:15:55,933 --> 00:15:59,300
+Você está livre amanhã à noite?
+
+277
+00:15:59,400 --> 00:16:00,367
+Claro, estou dentro.
+
+278
+00:16:00,467 --> 00:16:02,167
+Li Gong se juntará a nós?
+
+279
+00:16:02,267 --> 00:16:04,033
+Ele?
+
+280
+00:16:06,067 --> 00:16:08,100
+Ele também está dentro.
+
+281
+00:16:08,200 --> 00:16:09,400
+Ok, até mais.
+
+282
+00:16:09,500 --> 00:16:10,800
+Tchau.
+
+283
+00:16:11,367 --> 00:16:12,933
+O que é?
+
+284
+00:16:13,767 --> 00:16:15,533
+A merda ficou real.
+
+285
+00:16:31,733 --> 00:16:32,733
+Oi.
+
+286
+00:16:36,233 --> 00:16:37,100
+Desculpe.
+
+287
+00:16:37,533 --> 00:16:38,533
+Aqui.
+
+288
+00:16:39,300 --> 00:16:41,667
+Desculpe.  Fui a várias lojas diferentes.
+
+289
+00:16:41,767 --> 00:16:44,500
+Este foi o mais parecido que consegui encontrar.
+
+290
+00:16:44,600 --> 00:16:46,467
+Não consegui encontrar o mesmo.
+
+291
+00:16:46,567 --> 00:16:48,333
+Sinto muito.
+
+292
+00:16:48,433 --> 00:16:50,100
+Mana, ele não é...
+
+293
+00:16:50,200 --> 00:16:53,000
+o cara da lavanderia lá de cima?
+
+294
+00:16:53,100 --> 00:16:54,033
+Você.
+
+295
+00:16:54,133 --> 00:16:55,933
+Ainda não estamos abertos.  O que você quer!
+
+296
+00:16:56,033 --> 00:16:59,400
+Desculpe.  Última vez…
+
+297
+00:16:59,500 --> 00:17:01,100
+Eu estava fora de controle.
+
+298
+00:17:01,200 --> 00:17:03,567
+Eu sinto muito mesmo.
+
+299
+00:17:05,200 --> 00:17:07,667
+Multar.  vou perguntar aos meus clientes...
+
+300
+00:17:07,767 --> 00:17:09,767
+não deixar lixo em sua loja.
+
+301
+00:17:11,667 --> 00:17:13,400
+Obrigado por ter vindo.
+
+302
+00:17:13,500 --> 00:17:16,333
+Sentar.  Tome uma bebida.
+
+303
+00:17:16,433 --> 00:17:19,967
+Tudo bem.  Eu realmente não bebo.
+
+304
+00:17:22,733 --> 00:17:25,033
+Nunca é tarde para começar.
+
+305
+00:17:25,133 --> 00:17:27,700
+Vou esperar até você fazer isso.
+
+306
+00:17:31,167 --> 00:17:34,500
+Bom, então vou indo.
+
+307
+00:17:35,567 --> 00:17:37,067
+Tchau.
+
+308
+00:17:44,667 --> 00:17:48,167
+De uma chance.  Talvez tenha um gosto melhor.
+
+309
+00:17:52,633 --> 00:17:54,167
+Ir trabalhar.
+
+310
+00:17:58,433 --> 00:17:59,667
+Não fique aí parado.
+
+311
+00:17:59,767 --> 00:18:00,933
+Trabalhar!
+
+312
+00:18:03,200 --> 00:18:05,533
+Sra. Ke, temos a ordem de restrição agora.
+
+313
+00:18:05,633 --> 00:18:08,267
+Por enquanto, você não tem nada com que se preocupar.
+
+314
+00:18:08,367 --> 00:18:09,733
+Além disso, temos o certificado de lesão.
+
+315
+00:18:09,833 --> 00:18:11,733
+Isso provaria violência doméstica.
+
+316
+00:18:11,833 --> 00:18:13,967
+Atende ao artigo 1.052 do Código Civil.
+
+317
+00:18:14,067 --> 00:18:14,967
+“Quando o marido ou a esposa...
+
+318
+00:18:15,067 --> 00:18:17,367
+torna a vida comum intolerável.”
+
+319
+00:18:17,467 --> 00:18:19,400
+Nosso caso de divórcio seria fácil.
+
+320
+00:18:19,500 --> 00:18:21,633
+Realmente?
+
+321
+00:18:21,733 --> 00:18:25,267
+Isso é maravilhoso.  Eu estou tão agradecido.
+
+322
+00:18:25,367 --> 00:18:26,867
+Mas há mais uma coisa.
+
+323
+00:18:26,967 --> 00:18:28,333
+Se o Sr. Chi for atrás…
+
+324
+00:18:28,433 --> 00:18:29,800
+para outros casos…
+
+325
+00:18:29,900 --> 00:18:32,533
+Precisamos que você testemunhe contra ele.
+
+326
+00:18:33,533 --> 00:18:35,233
+Sr. Fu, posso perguntar…
+
+327
+00:18:35,333 --> 00:18:36,267
+você conhece o advogado...
+
+328
+00:18:36,367 --> 00:18:39,200
+quem meu marido contratou originalmente?
+
+329
+00:18:40,967 --> 00:18:44,267
+Ele é... um homem de princípios.
+
+330
+00:18:45,533 --> 00:18:48,633
+Então você sabe os motivos para…
+
+331
+00:18:48,733 --> 00:18:50,933
+por que meu marido está sendo investigado?
+
+332
+00:18:51,033 --> 00:18:53,767
+Pessoas más atraem atenção.
+
+333
+00:18:53,867 --> 00:18:55,767
+Não é incomum.
+
+334
+00:18:55,867 --> 00:18:57,367
+Você realmente não precisa se preocupar.
+
+335
+00:18:57,467 --> 00:18:58,633
+Ele não vai pensar que é você.
+
+336
+00:18:58,733 --> 00:19:00,400
+Nem ele se vingaria.
+
+337
+00:19:01,400 --> 00:19:03,533
+OK eu entendi.
+
+338
+00:19:03,633 --> 00:19:05,100
+Obrigado.
+
+339
+00:19:05,200 --> 00:19:06,367
+Eu vou sair.
+
+340
+00:19:06,467 --> 00:19:08,400
+Não se preocupe.  Deixe o resto para nós.
+
+341
+00:19:13,267 --> 00:19:15,967
+Um homem de princípios, hein?
+
+342
+00:19:16,567 --> 00:19:18,700
+Como está o caso do Sr. Chi?
+
+343
+00:19:18,800 --> 00:19:20,633
+Ele não nos viu chegando.
+
+344
+00:19:20,733 --> 00:19:23,467
+E ele correu para destruir as evidências.
+
+345
+00:19:23,567 --> 00:19:27,600
+Infelizmente, vestígios foram encontrados.
+
+346
+00:19:31,000 --> 00:19:32,733
+Parece que encerrar o caso não será um problema.
+
+347
+00:19:32,833 --> 00:19:36,000
+Claro que é.  Você teve minha ajuda.
+
+348
+00:19:38,400 --> 00:19:41,733
+Para que possamos ficar chapados na festa hoje à noite!
+
+349
+00:19:41,833 --> 00:19:42,833
+Que festa?
+
+350
+00:19:42,933 --> 00:19:44,467
+Com nossos colegas juniores.
+
+351
+00:19:44,567 --> 00:19:46,000
+Para comemorar estar solteiro novamente.
+
+352
+00:19:46,100 --> 00:19:48,633
+Esse é o seu negócio.  Não é meu.
+
+353
+00:19:51,700 --> 00:19:54,233
+Vamos, eu já disse sim.
+
+354
+00:19:54,333 --> 00:19:56,233
+Qual é o sentido de comemorar?
+
+355
+00:19:56,333 --> 00:19:57,733
+Claro que há um ponto.
+
+356
+00:19:57,833 --> 00:20:00,200
+Sair do relacionamento sem amor.
+
+357
+00:20:00,300 --> 00:20:03,000
+Claro que precisa de uma celebração.
+
+358
+00:20:03,833 --> 00:20:05,767
+Então, quando você terminar...
+
+359
+00:20:05,867 --> 00:20:08,133
+você comemoraria assim também?
+
+360
+00:20:08,233 --> 00:20:10,500
+EU...
+
+361
+00:20:10,600 --> 00:20:11,933
+Eu saberei quando chegar a hora.
+
+362
+00:20:12,033 --> 00:20:14,500
+Vamos, entra ou não?
+
+363
+00:20:14,600 --> 00:20:16,000
+Não.
+
+364
+00:20:18,667 --> 00:20:21,700
+Você vai ficar bem, cara feia.
+
+365
+00:20:21,800 --> 00:20:23,533
+Beber.
+
+366
+00:20:24,767 --> 00:20:27,400
+Não posso acreditar que Li Gong está aqui.
+
+367
+00:20:27,500 --> 00:20:29,100
+O frio príncipe encantado.
+
+368
+00:20:29,200 --> 00:20:30,767
+Que surpresa.
+
+369
+00:20:30,867 --> 00:20:32,233
+Espere.
+
+370
+00:20:32,333 --> 00:20:33,933
+Príncipe encantado?
+
+371
+00:20:34,033 --> 00:20:35,600
+Fu Li Gong?
+
+372
+00:20:36,533 --> 00:20:39,300
+Não seja ciumento.
+
+373
+00:20:39,400 --> 00:20:39,900
+Você me perguntou, só porque...
+
+374
+00:20:40,000 --> 00:20:42,700
+você queria que Fu Li Gong viesse?
+
+375
+00:20:43,667 --> 00:20:46,333
+E pensar que sou tão legal com você.
+
+376
+00:20:46,433 --> 00:20:48,533
+Isto é muito devastador!
+
+377
+00:20:49,733 --> 00:20:52,567
+E por que você está sorrindo?
+
+378
+00:20:52,667 --> 00:20:54,200
+Se você é o príncipe encantado, então o que eu sou?
+
+379
+00:20:54,300 --> 00:20:56,167
+O taiwanês Tom Cruise?
+
+380
+00:20:56,267 --> 00:20:59,900
+Claro, Sr. Cruise.  Nós te amamos.
+
+381
+00:21:00,000 --> 00:21:01,167
+Sr. Cruise, quem é esse?
+
+382
+00:21:01,267 --> 00:21:03,300
+Você conhece ele?
+
+383
+00:21:04,200 --> 00:21:06,467
+Que multidão!
+
+384
+00:21:06,567 --> 00:21:08,900
+O grande advogado Zheng trouxe seus amigos.
+
+385
+00:21:09,000 --> 00:21:10,633
+É uma festa única.
+
+386
+00:21:10,733 --> 00:21:13,567
+Não pensei que o Sr. Fu
+viria a uma festa como esta.
+
+387
+00:21:13,667 --> 00:21:16,033
+Você o conhece?
+
+388
+00:21:16,133 --> 00:21:19,133
+Parece que você e ele…
+
+389
+00:21:19,233 --> 00:21:21,033
+são o mesmo tipo de pessoas.
+
+390
+00:21:22,167 --> 00:21:23,400
+Que tipo?
+
+391
+00:21:25,467 --> 00:21:26,500
+Que tipo?
+
+392
+00:21:27,433 --> 00:21:29,167
+Sr. Zheng, Sr.
+
+393
+00:21:29,267 --> 00:21:30,267
+Essas fotos são por minha conta.
+
+394
+00:21:30,367 --> 00:21:33,667
+Yuki, seus novos fãs.
+
+395
+00:21:33,767 --> 00:21:35,267
+Obrigado.
+
+396
+00:21:35,367 --> 00:21:38,033
+Por que as pessoas ao seu redor são tão fofas?
+
+397
+00:21:38,133 --> 00:21:40,067
+Ouvi dizer que você está comemorando estar solteiro novamente.
+
+398
+00:21:40,167 --> 00:21:41,967
+Sim, estou solteiro agora.
+
+399
+00:21:42,067 --> 00:21:44,133
+Venha sentar ao meu lado.
+
+400
+00:21:46,433 --> 00:21:48,333
+Parece que você é "o homem" hoje.
+
+401
+00:21:48,433 --> 00:21:49,467
+Vamos jogar um jogo.
+
+402
+00:21:49,567 --> 00:21:52,033
+Claro, que jogo?
+
+403
+00:21:52,300 --> 00:21:53,000
+“O jogo do rei”.
+
+404
+00:21:53,267 --> 00:21:54,100
+A pessoa que é rei…
+
+405
+00:21:54,200 --> 00:21:55,700
+consegue designar duas pessoas para fazer uma tarefa.
+
+406
+00:21:55,800 --> 00:21:57,367
+Se você não conseguir executar a tarefa…
+
+407
+00:21:57,467 --> 00:21:58,633
+Você dá um tiro.
+
+408
+00:21:59,433 --> 00:22:00,200
+Claro?
+
+409
+00:22:00,300 --> 00:22:01,400
+Claro.
+
+410
+00:22:04,867 --> 00:22:07,133
+Quem é o rei?
+
+411
+00:22:08,367 --> 00:22:10,367
+Você tem...
+
+412
+00:22:11,033 --> 00:22:14,600
+Ás e 3 de Espadas…
+
+413
+00:22:14,700 --> 00:22:16,133
+Faça uma careta.
+
+414
+00:22:16,233 --> 00:22:18,533
+Você é péssimo nisso.
+
+415
+00:22:22,233 --> 00:22:24,033
+Ainda estamos no ensino médio aqui.
+
+416
+00:22:24,133 --> 00:22:25,600
+Ouviu isso?  Ensino fundamental.
+
+417
+00:22:25,700 --> 00:22:26,667
+Não é assim que se joga em um bar.
+
+418
+00:22:26,767 --> 00:22:27,933
+As pessoas vão rir.
+
+419
+00:22:28,033 --> 00:22:28,833
+Relaxe!
+
+420
+00:22:28,933 --> 00:22:31,033
+Vamos, próxima rodada.
+
+421
+00:22:34,467 --> 00:22:35,533
+Quem é o rei?
+
+422
+00:22:35,633 --> 00:22:37,867
+Esse sou eu.  Preste atenção, pessoal.
+
+423
+00:22:37,967 --> 00:22:39,933
+As duas pessoas que eu escolho...
+
+424
+00:22:40,033 --> 00:22:42,567
+vão esfregar os narizes.
+
+425
+00:22:42,667 --> 00:22:43,200
+Quem é esse?
+
+426
+00:22:43,300 --> 00:22:44,400
+Vamos ver isso..
+
+427
+00:22:44,500 --> 00:22:46,933
+2 e 4 de Espadas.
+
+428
+00:22:48,100 --> 00:22:49,200
+Quem é esse?
+
+429
+00:22:50,200 --> 00:22:52,633
+Li Gong tem 4 de espadas.
+
+430
+00:22:52,933 --> 00:22:53,967
+O chão é seu.
+
+431
+00:22:54,067 --> 00:22:54,900
+Vamos.
+
+432
+00:22:55,167 --> 00:22:56,067
+Meu?
+
+433
+00:23:06,200 --> 00:23:08,600
+Você realmente quer beber, não é?
+
+434
+00:23:09,967 --> 00:23:11,667
+Venha, terceira rodada!
+
+435
+00:23:13,000 --> 00:23:14,567
+Oh!  Olha quem está de volta!
+
+436
+00:23:14,667 --> 00:23:16,033
+Você foi reprovado nos exames da ordem duas vezes.
+
+437
+00:23:16,133 --> 00:23:17,933
+Isso não é nada em comparação.
+
+438
+00:23:18,033 --> 00:23:19,600
+Não vamos falar sobre isso.
+
+439
+00:23:19,700 --> 00:23:21,667
+Beba primeiro, converse depois.
+
+440
+00:23:23,167 --> 00:23:24,233
+Ok, terceira rodada.
+
+441
+00:23:24,567 --> 00:23:25,200
+Vamos.
+
+442
+00:23:29,067 --> 00:23:30,233
+Eu sou o rei.
+
+443
+00:23:30,333 --> 00:23:31,600
+Que pena.
+
+444
+00:23:31,700 --> 00:23:33,500
+Eu quero fazer uma tarefa com Yuki.
+
+445
+00:23:33,600 --> 00:23:35,933
+O jogo está longe de terminar.
+
+446
+00:23:36,033 --> 00:23:38,267
+Estou levando o jogo para o próximo nível.
+
+447
+00:23:38,367 --> 00:23:42,133
+Quero 2 de espadas para beijar o Ás de espadas.
+
+448
+00:23:46,867 --> 00:23:48,433
+Desculpe senhor.
+
+449
+00:23:48,767 --> 00:23:49,567
+Eu posso beber.
+
+450
+00:23:49,667 --> 00:23:50,833
+Você não precisa me beijar, sério.
+
+451
+00:23:50,933 --> 00:23:52,800
+Todos nós temos que beber de qualquer maneira.
+
+452
+00:23:52,900 --> 00:23:55,067
+Vir.
+
+453
+00:24:11,967 --> 00:24:14,033
+De novo.
+
+454
+00:24:14,133 --> 00:24:16,133
+Tudo bem, vou parar de brincar com você.
+
+455
+00:24:22,700 --> 00:24:24,000
+Ok, próxima rodada.
+
+456
+00:24:24,100 --> 00:24:24,733
+Vamos.
+
+457
+00:24:25,033 --> 00:24:28,733
+Desculpe, não estou me sentindo bem.
+Eu vou ter que ir.
+
+458
+00:24:28,833 --> 00:24:30,067
+O que está errado?
+
+459
+00:24:33,500 --> 00:24:34,733
+Fu Li Gong.
+
+460
+00:25:52,900 --> 00:25:55,567
+Você é um ótimo corredor, Sr. Zheng!
