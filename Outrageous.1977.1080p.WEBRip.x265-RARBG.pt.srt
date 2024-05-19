@@ -1,0 +1,7996 @@
+1
+00:00:03,090 --> 00:00:06,049
+[Música, tocando]
+
+2
+00:00:26,722 --> 00:00:28,115
+Você acordou aí?
+
+3
+00:00:28,158 --> 00:00:30,987
+Não há profissionalismo
+neste clube?
+
+4
+00:00:31,031 --> 00:00:32,597
+Você poderia girar
+meu disco, por favor?
+
+5
+00:00:32,641 --> 00:00:35,644
+[Música, tocando]
+
+6
+00:00:37,515 --> 00:00:40,953
+MULHER: ♪ Às vezes
+sou feliz, tranquila e livre ♪
+
+7
+00:00:40,997 --> 00:00:43,608
+Você fez um ótimo trabalho na peruca dele.
+
+8
+00:00:43,652 --> 00:00:46,220
+Você é o melhor de Toronto.
+
+9
+00:00:46,263 --> 00:00:50,093
+É uma pena que ele não tenha me
+deixado envernizar seu rosto também.
+
+10
+00:00:50,137 --> 00:00:53,096
+MULHER: ♪ Vê o diabo e eu não
+
+11
+00:00:53,140 --> 00:00:55,533
+♪ Parece que ninguém pode ajudar
+
+12
+00:00:56,795 --> 00:00:59,755
+♪ Preciso encontrar você novamente
+
+13
+00:01:00,799 --> 00:01:02,975
+♪ Meu amigo
+
+14
+00:01:03,889 --> 00:01:06,283
+♪ Às vezes é fácil
+
+15
+00:01:06,327 --> 00:01:08,329
+♪ Para rir como um palhaço
+
+16
+00:01:08,372 --> 00:01:10,374
+♪ Caia na roupa de cama
+
+17
+00:01:10,418 --> 00:01:12,985
+♪ A três metros do chão
+
+18
+00:01:13,029 --> 00:01:14,857
+♪ Mas às vezes
+
+19
+00:01:14,900 --> 00:01:17,729
+♪ Eu não aguento mais a vida
+
+20
+00:01:17,773 --> 00:01:20,863
+♪ Estou perdido nas sombras
+
+21
+00:01:20,906 --> 00:01:24,910
+♪ Você não vai me salvar de novo?
+
+22
+00:01:24,954 --> 00:01:27,043
+♪ Não é fácil
+
+23
+00:01:27,087 --> 00:01:30,177
+♪ Neste mundo louco
+
+24
+00:01:31,352 --> 00:01:33,963
+Você está morrendo de
+vontade de subir naquele palco.
+
+25
+00:01:35,617 --> 00:01:37,227
+Não estou tão
+desesperado por atenção.
+
+26
+00:01:37,271 --> 00:01:38,881
+Ainda não.
+
+27
+00:01:38,924 --> 00:01:42,537
+MULHER: ♪ Do nosso jeito maluco
+
+28
+00:01:42,580 --> 00:01:45,540
+♪ Quem sabe quando eles virão
+
+29
+00:01:45,583 --> 00:01:47,759
+♪ E nos leve embora
+
+30
+00:01:47,803 --> 00:01:49,587
+♪ Espero que não hoje
+
+31
+00:01:54,462 --> 00:01:58,944
+♪ Às vezes estou
+voando pelos céus ♪
+
+32
+00:01:58,988 --> 00:02:00,859
+♪ Cada vez mais alto
+
+33
+00:02:00,903 --> 00:02:03,123
+♪ Nas asas do seu amor
+
+34
+00:02:03,166 --> 00:02:05,125
+♪ Mas às vezes
+
+35
+00:02:05,168 --> 00:02:07,910
+♪ Toda a magia desaparece
+
+36
+00:02:07,953 --> 00:02:09,912
+♪ Estou caindo na terra
+
+37
+00:02:10,956 --> 00:02:14,482
+♪ Você não vai me pegar de novo
+
+38
+00:02:14,525 --> 00:02:16,136
+♪ Meu amigo?
+
+39
+00:02:17,398 --> 00:02:19,617
+♪ Às vezes estou ganhando
+
+40
+00:02:19,661 --> 00:02:21,880
+♪ Rodada após rodada
+
+41
+00:02:21,924 --> 00:02:23,969
+♪ As cartas dão ases
+
+42
+00:02:24,013 --> 00:02:26,407
+♪ À medida que o destino os derrota
+
+43
+00:02:26,450 --> 00:02:28,322
+♪ Mas às vezes
+
+44
+00:02:28,365 --> 00:02:30,976
+♪ Ela apenas olha
+para o outro lado ♪
+
+45
+00:02:31,020 --> 00:02:34,197
+♪ Não sou bom em blefar
+
+46
+00:02:34,241 --> 00:02:37,983
+♪ Você não vai me salvar de novo?
+
+47
+00:02:38,027 --> 00:02:39,159
+♪ Não é fácil
+
+48
+00:02:40,334 --> 00:02:44,207
+♪ Neste mundo louco
+
+49
+00:02:44,251 --> 00:02:47,123
+♪ Eu nunca conseguiria
+
+50
+00:02:47,167 --> 00:02:49,299
+♪ Sem você
+
+51
+00:02:49,343 --> 00:02:51,693
+♪ Nós nos amamos
+
+52
+00:02:51,736 --> 00:02:55,392
+♪ Do nosso jeito maluco
+
+53
+00:02:55,436 --> 00:02:58,047
+♪ Quem sabe quando eles virão
+
+54
+00:02:58,090 --> 00:03:00,223
+♪ E nos leve embora
+
+55
+00:03:00,267 --> 00:03:02,051
+♪ Não é fácil
+
+56
+00:03:02,094 --> 00:03:05,489
+♪ Neste mundo louco
+
+57
+00:03:05,533 --> 00:03:08,884
+♪ Eu nunca conseguiria
+
+58
+00:03:08,927 --> 00:03:11,191
+♪ Sem você
+
+59
+00:03:11,234 --> 00:03:13,976
+♪ Nós nos amamos
+
+60
+00:03:14,019 --> 00:03:16,979
+♪ Do nosso jeito maluco
+
+61
+00:03:17,022 --> 00:03:19,895
+♪ Quem sabe quando eles virão
+
+62
+00:03:19,938 --> 00:03:22,376
+♪ E nos leve embora
+
+63
+00:03:22,419 --> 00:03:24,247
+♪ Espero que não hoje
+
+64
+00:03:42,657 --> 00:03:43,745
+3A.
+
+65
+00:03:43,788 --> 00:03:44,876
+3A, eu sabia disso.
+
+66
+00:03:44,920 --> 00:03:46,748
+Lembrei-me.  Eu sabia.
+
+67
+00:03:47,879 --> 00:03:51,143
+[Música, tocando]
+
+68
+00:03:51,187 --> 00:03:54,538
+MULHER: ♪ Dê minha
+homenagem à Broadway
+
+69
+00:03:54,582 --> 00:03:57,976
+♪ Lembre-se de mim
+no Herald Square ♪
+
+70
+00:03:58,020 --> 00:04:01,328
+♪ Conte para todos
+os garotos da Rua 42 ♪
+
+71
+00:04:01,371 --> 00:04:05,462
+♪ Que em breve estarei lá
+
+72
+00:04:05,506 --> 00:04:07,072
+Ah, eu também estarei lá, querido.
+
+73
+00:04:07,116 --> 00:04:08,378
+No tom, espero.
+
+74
+00:04:09,074 --> 00:04:10,989
+[Campainha tocando]
+
+75
+00:04:11,033 --> 00:04:12,600
+Droga, Perry.
+
+76
+00:04:17,518 --> 00:04:19,781
+[Batendo]
+
+77
+00:04:19,824 --> 00:04:21,913
+Boas rainhas nunca chegam cedo,
+boas rainhas chegam atrasadas.
+
+78
+00:04:21,957 --> 00:04:23,263
+Tarde, Perry.
+
+79
+00:04:24,220 --> 00:04:25,221
+Robin?
+
+80
+00:04:27,789 --> 00:04:29,094
+Lisa.
+
+81
+00:04:29,138 --> 00:04:31,836
+Eu estava com tanto medo
+que você não estivesse em casa.
+
+82
+00:04:31,880 --> 00:04:33,229
+Eu escapei.
+
+83
+00:04:34,491 --> 00:04:36,188
+ROBIN: Você vai deixar
+os médicos furiosos.
+
+84
+00:04:36,232 --> 00:04:38,278
+Ah, não, não vou.
+Nunca fui certificado.
+
+85
+00:04:38,321 --> 00:04:40,671
+Eu ficarei bem.  Tipo de.
+
+86
+00:04:40,715 --> 00:04:43,021
+-Posso ficar, não posso, Robin?
+-Aqui?
+
+87
+00:04:43,065 --> 00:04:44,675
+Vou conseguir minha própria
+casa em breve, na verdade.
+
+88
+00:04:44,719 --> 00:04:47,112
+Não sou louco, como dizem.
+Eles querem me deixar mais louco.
+
+89
+00:04:47,156 --> 00:04:49,376
+Ah, Robin, por favor?
+
+90
+00:04:51,639 --> 00:04:53,423
+Claro Baby.  Vamos.
+
+91
+00:04:53,467 --> 00:04:54,642
+Não será por muito tempo.
+
+92
+00:04:54,685 --> 00:04:57,558
+Não importa.  Vamos.
+
+93
+00:04:57,601 --> 00:05:00,474
+Já estou melhor.
+Realmente estou.
+
+94
+00:05:00,517 --> 00:05:02,867
+Sentar-se.
+
+95
+00:05:05,087 --> 00:05:06,958
+Eu sou bom.
+
+96
+00:05:09,613 --> 00:05:12,616
+[Música, tocando]
+
+97
+00:05:21,538 --> 00:05:24,541
+[Liza resmungando indistintamente]
+
+98
+00:05:35,160 --> 00:05:36,945
+[Indistinto]
+
+99
+00:05:39,469 --> 00:05:41,819
+ROBIN: Liza.
+
+100
+00:05:41,863 --> 00:05:45,562
+-O que é?
+-[Indistinto]
+
+101
+00:05:48,086 --> 00:05:50,524
+Está aqui?  Por que?
+
+102
+00:05:55,137 --> 00:05:56,878
+Vamos.  OK.
+
+103
+00:05:56,921 --> 00:06:00,272
+De volta às jaulas,
+Kong, vá, ok.
+
+104
+00:06:00,316 --> 00:06:01,622
+Vamos.
+Podemos fazer isso juntos.
+
+105
+00:06:01,665 --> 00:06:03,798
+Apenas... é isso.
+
+106
+00:06:03,841 --> 00:06:06,104
+Empurre empurre.
+
+107
+00:06:06,148 --> 00:06:08,629
+Empurrar.  Empurrar.
+
+108
+00:06:10,457 --> 00:06:11,980
+Mais difícil.  Mais difícil.
+
+109
+00:06:13,547 --> 00:06:15,113
+OK.
+
+110
+00:06:18,682 --> 00:06:20,162
+Empurrar.
+
+111
+00:06:39,050 --> 00:06:40,835
+Ele sempre me encontra.
+
+112
+00:06:41,792 --> 00:06:43,272
+Ele diz que sou eu quem nasceu morto,
+
+113
+00:06:44,491 --> 00:06:48,059
+então ele vem moer
+meus ossos até virar pó.
+
+114
+00:06:48,103 --> 00:06:49,887
+Ele é um Bonecrusher do outro
+
+115
+00:06:49,931 --> 00:06:52,368
+lugar onde todos riem de mim.
+
+116
+00:06:52,412 --> 00:06:53,717
+O hospital?
+
+117
+00:06:55,066 --> 00:06:56,328
+Não.
+
+118
+00:06:56,372 --> 00:06:57,765
+Não. O outro lugar.
+
+119
+00:06:57,808 --> 00:07:00,028
+O outro lugar onde
+está o grande divisor...
+
+120
+00:07:01,508 --> 00:07:05,555
+[Indistinto]
+
+121
+00:07:05,599 --> 00:07:07,601
+O que você está dizendo?
+Eu não entendi.
+
+122
+00:07:08,863 --> 00:07:10,734
+LIZA: É a outra língua.
+
+123
+00:07:10,778 --> 00:07:13,694
+É... é difícil traduzir
+para o inglês.
+
+124
+00:07:13,737 --> 00:07:15,391
+Zara me ensinou isso.
+
+125
+00:07:15,435 --> 00:07:18,394
+Ele também é de outro
+lugar, só que é diferente.
+
+126
+00:07:18,438 --> 00:07:20,004
+Ele é lindo como uma libélula.
+
+127
+00:07:21,441 --> 00:07:23,791
+Ele costumava vir até
+mim depois dos tratamentos
+
+128
+00:07:23,834 --> 00:07:26,271
+de choque e fazia
+pequenas apresentações
+
+129
+00:07:26,315 --> 00:07:29,231
+para fazer a dor atrás da
+minha cabeça desaparecer.
+
+130
+00:07:29,274 --> 00:07:31,015
+Ele é tão engraçado.
+Às vezes eu digo a ele
+
+131
+00:07:31,059 --> 00:07:33,975
+que o amo, ele ficaria
+alto demais para o teto.
+
+132
+00:07:34,018 --> 00:07:36,673
+Ele é tão engraçado.
+
+133
+00:07:36,717 --> 00:07:38,196
+Mas não posso
+deixá-lo ficar mais.
+
+134
+00:07:38,240 --> 00:07:39,633
+Não posso mais deixá-lo ficar.
+
+135
+00:07:39,676 --> 00:07:40,764
+Não mais.
+
+136
+00:07:40,808 --> 00:07:42,897
+Cuidadoso.  Garota precisa de amigos.
+
+137
+00:07:42,940 --> 00:07:44,942
+Não. Mas você não entende.
+Ele é de outro lugar.
+
+138
+00:07:44,986 --> 00:07:47,162
+E eu não faço mais parte deles.
+
+139
+00:07:47,205 --> 00:07:49,120
+Os outros, eles
+ainda vêm, às vezes.
+
+140
+00:07:49,164 --> 00:07:51,340
+Eles pensam e dizem
+que aquele que nasceu
+
+141
+00:07:51,383 --> 00:07:52,907
+morto pertence a eles,
+mas estão errados.
+
+142
+00:07:52,950 --> 00:07:54,909
+Estou vivo, estou vivo.
+
+143
+00:07:54,952 --> 00:07:57,085
+Sim.  Ei, vamos ligar
+para o médico e verificar...
+
+144
+00:07:57,128 --> 00:08:00,480
+Não não não não não.
+
+145
+00:08:00,523 --> 00:08:01,872
+Não, os médicos
+e o cavalo branco,
+
+146
+00:08:01,916 --> 00:08:04,396
+eles têm chaves para
+trancar meu cérebro.
+
+147
+00:08:04,440 --> 00:08:06,137
+Eles vêm até mim com
+agulhas e me levam para
+
+148
+00:08:06,181 --> 00:08:08,836
+as masmorras elétricas
+e queimam meu cérebro.
+
+149
+00:08:08,879 --> 00:08:10,838
+Tive que pensar em
+lutar contra o Bonecrusher
+
+150
+00:08:10,881 --> 00:08:14,058
+no hospital, mas eles
+não deixam você pensar.
+
+151
+00:08:14,102 --> 00:08:16,278
+Eles dizem que não veem
+o Bonecrusher, mas eu sei.
+
+152
+00:08:16,321 --> 00:08:18,062
+Eu sei.  Eu sei que eles o veem.
+
+153
+00:08:18,106 --> 00:08:19,499
+Eles são seus ajudantes.
+
+154
+00:08:20,717 --> 00:08:22,893
+Você tem que prometer
+não contar a ninguém.
+
+155
+00:08:22,937 --> 00:08:24,025
+É muito perigoso.
+
+156
+00:08:24,068 --> 00:08:26,375
+Eles conseguiram estragar
+todas as pessoas especiais.
+
+157
+00:08:26,418 --> 00:08:27,985
+Você tem que prometer, Robin.
+
+158
+00:08:28,029 --> 00:08:29,857
+Eu prometo.
+
+159
+00:08:29,900 --> 00:08:32,642
+Ah, que bom.  Bom.
+Eu posso fazer isso.
+
+160
+00:08:32,686 --> 00:08:34,252
+Posso ficar são, como
+qualquer outra pessoa.
+
+161
+00:08:34,296 --> 00:08:36,080
+Claro que você pode.
+
+162
+00:08:38,779 --> 00:08:40,563
+[Música, tocando]
+
+163
+00:08:49,050 --> 00:08:50,965
+Eu disse que ele estaria junto.
+
+164
+00:08:56,013 --> 00:08:57,885
+Agora, Peggy O'Brien
+está por aí e está
+
+165
+00:08:57,928 --> 00:09:00,235
+se transformando na
+Bruxa Má do Oeste.
+
+166
+00:09:00,278 --> 00:09:01,889
+Hum.
+
+167
+00:09:01,932 --> 00:09:03,368
+Você tem que movê-lo!
+
+168
+00:09:03,412 --> 00:09:04,935
+Agora!
+
+169
+00:09:04,979 --> 00:09:06,589
+Logo após a bagunça,
+Sargento Jason, senhor.
+
+170
+00:09:06,633 --> 00:09:08,373
+Minha mãe sempre me disse
+para tomar um bom café da manhã.
+
+171
+00:09:08,417 --> 00:09:10,462
+A única mãe com quem você
+precisa se preocupar sou eu.
+
+172
+00:09:10,506 --> 00:09:13,378
+E esta mãe está louca,
+Turner, muito louca.
+
+173
+00:09:14,945 --> 00:09:17,774
+Você sabe que Lana Turner
+era minha mãe verdadeira.
+
+174
+00:09:17,818 --> 00:09:20,908
+Até um cabeleireiro viado como você
+deveria reconhecer essas brincadeiras.
+
+175
+00:09:25,477 --> 00:09:28,350
+SRA.  CONNORS:
+Trouxe suas malas, querido.
+
+176
+00:09:28,393 --> 00:09:30,700
+Todas as suas roupas favoritas.
+
+177
+00:09:31,745 --> 00:09:34,356
+Deixe-me trazê-los para você.
+
+178
+00:09:34,399 --> 00:09:36,271
+Poderíamos conversar.
+
+179
+00:09:36,314 --> 00:09:37,620
+Nenhuma mãe.
+
+180
+00:09:37,664 --> 00:09:39,187
+Mãe, tenho muito que fazer.
+
+181
+00:09:39,230 --> 00:09:42,494
+A enfermeira está chegando e
+tenho que fazer as coisas sozinha.
+
+182
+00:09:42,538 --> 00:09:44,148
+É importante, mãe.
+
+183
+00:09:45,802 --> 00:09:47,804
+Você me culpa, não é?
+
+184
+00:09:51,025 --> 00:09:53,636
+Era o melhor asilo
+para doentes mentais
+
+185
+00:09:53,680 --> 00:09:54,985
+da província. O que
+mais poderíamos fazer?
+
+186
+00:09:56,421 --> 00:09:57,727
+Os pesadelos que você teve,
+
+187
+00:09:57,771 --> 00:10:00,382
+aquelas coisas que
+você viu e o choro.
+
+188
+00:10:00,425 --> 00:10:03,820
+Eu não suportaria você
+sempre chorando, Liza.
+
+189
+00:10:06,127 --> 00:10:06,954
+Lisa.
+
+190
+00:10:07,824 --> 00:10:08,912
+[Suspirando]
+
+191
+00:10:11,567 --> 00:10:12,786
+Nós amamos você, querido.
+
+192
+00:10:14,309 --> 00:10:17,355
+Faça o que fizer, você
+ainda é minha garotinha.
+
+193
+00:10:19,053 --> 00:10:20,663
+Você lembra disso.
+
+194
+00:10:23,840 --> 00:10:26,669
+E venci todos que estavam
+lá durante toda a tarde.
+
+195
+00:10:26,713 --> 00:10:28,323
+Eles disseram
+que eu era o melhor
+
+196
+00:10:28,366 --> 00:10:30,194
+jogador que eles fizeram
+o teste em um mês.
+
+197
+00:10:30,238 --> 00:10:32,893
+Magic Squares é um game
+show que eu nunca consegui.
+
+198
+00:10:32,936 --> 00:10:34,155
+Todas aquelas luzes,
+campainhas e estrelas
+
+199
+00:10:34,198 --> 00:10:36,331
+canadenses das
+quais nunca ouvi falar.
+
+200
+00:10:36,374 --> 00:10:38,202
+Ah, é fácil.  Você
+assiste esta noite e eu lhe
+
+201
+00:10:38,246 --> 00:10:40,901
+mostrarei como jogar
+e ganhar muito dinheiro.
+
+202
+00:10:40,944 --> 00:10:42,163
+Transmitir ao vivo, hein?
+
+203
+00:10:42,206 --> 00:10:43,294
+Em todo o Canadá.
+
+204
+00:10:44,426 --> 00:10:48,343
+Devemos ser um
+pouco aventureiros?
+
+205
+00:10:48,386 --> 00:10:51,041
+Bem, talvez só um pouco.
+
+206
+00:10:51,825 --> 00:10:52,913
+Hum...
+
+207
+00:10:55,872 --> 00:10:59,049
+Algo majestoso.
+
+208
+00:10:59,093 --> 00:11:00,616
+Oh.
+
+209
+00:11:13,020 --> 00:11:14,456
+[Campainha vibra]
+
+210
+00:11:14,499 --> 00:11:17,502
+Abra no segundo toque.
+O segundo toque.
+
+211
+00:11:17,546 --> 00:11:19,156
+[Campainha vibra]
+
+212
+00:11:25,336 --> 00:11:26,468
+-Liza Connors?
+-Sim.
+
+213
+00:11:26,511 --> 00:11:28,383
+-Enfermeira Carr.
+-Olá.
+
+214
+00:11:28,426 --> 00:11:29,689
+Você não quer entrar?
+
+215
+00:11:35,129 --> 00:11:37,044
+Por favor, desculpe a desordem.
+
+216
+00:11:37,087 --> 00:11:40,221
+É uma grande tarefa
+estabelecer-se em um novo lugar.
+
+217
+00:11:45,966 --> 00:11:47,707
+Você não quer se sentar?
+
+218
+00:11:51,058 --> 00:11:54,148
+Então você acha que não
+
+219
+00:11:54,191 --> 00:11:57,325
+precisa mais do hospital?
+
+220
+00:11:57,368 --> 00:12:00,371
+Bem, é decisão do Dr. Beddoes
+deixar você ficar de fora.
+
+221
+00:12:00,415 --> 00:12:02,286
+Está nas mãos
+dele, não nas minhas.
+
+222
+00:12:02,330 --> 00:12:06,116
+Ficarei de olho em você, por
+
+223
+00:12:06,160 --> 00:12:07,552
+precaução, e
+preencherei os formulários.
+
+224
+00:12:07,596 --> 00:12:08,945
+[Chaleira assobiando]
+
+225
+00:12:08,989 --> 00:12:11,426
+Ah, a chaleira, posso
+pegar um chá para você?
+
+226
+00:12:11,469 --> 00:12:13,994
+Café.  Leite, sem açúcar.
+
+227
+00:12:14,037 --> 00:12:16,518
+Café, leite, sem açúcar.
+
+228
+00:12:19,477 --> 00:12:21,523
+Enfermeiras de verdade
+bebem chá, não café.
+
+229
+00:13:06,524 --> 00:13:07,569
+Aqui estamos.
+
+230
+00:13:08,570 --> 00:13:09,876
+Receio que seja apenas instantâneo.
+
+231
+00:13:09,919 --> 00:13:11,138
+O que não é hoje em dia?
+
+232
+00:13:11,181 --> 00:13:11,965
+[Rindo]
+
+233
+00:13:24,673 --> 00:13:26,109
+Agora, medicamentos.
+
+234
+00:13:28,111 --> 00:13:30,244
+O Dr. Beddoes lhe
+enviou sua receita?
+
+235
+00:13:30,287 --> 00:13:32,072
+Oh sim.  Sim.
+
+236
+00:13:32,115 --> 00:13:33,334
+Agora você nunca deve esquecer
+
+237
+00:13:33,377 --> 00:13:34,988
+que estava em uma
+instituição mental
+
+238
+00:13:35,031 --> 00:13:37,381
+por oito anos, Liza.
+
+239
+00:13:37,425 --> 00:13:38,818
+Você é esquizofrênica, Liza.
+
+240
+00:13:40,994 --> 00:13:43,126
+-Dois Nozinanos ao acordar.
+-CARR: Hum-hmm.
+
+241
+00:13:43,170 --> 00:13:45,563
+-Três Valium depois do café da manhã.
+-CARR: Hum-hmm.
+
+242
+00:13:45,607 --> 00:13:47,739
+-Três Monopin às 2:00.
+-CARR: Hum-hmm.
+
+243
+00:13:47,783 --> 00:13:51,134
+Dois Nardil às 7h e
+dois Valium às 10h.
+
+244
+00:13:51,178 --> 00:13:52,309
+Hum-hmm.
+
+245
+00:13:52,353 --> 00:13:54,485
+Agora, você está namorando alguém?
+
+246
+00:13:54,529 --> 00:13:56,226
+No seu estado, seria
+
+247
+00:13:56,270 --> 00:13:57,924
+impensável arriscar
+uma gravidez.
+
+248
+00:13:57,967 --> 00:14:00,274
+-Não, sem encontros.
+-CARR: Bom.
+
+249
+00:14:00,317 --> 00:14:03,799
+Agora vamos falar sobre intestinos.
+
+250
+00:14:05,366 --> 00:14:07,020
+Sobre o que?
+
+251
+00:14:07,063 --> 00:14:09,805
+Movimento,
+consistência, frequências.
+
+252
+00:14:09,849 --> 00:14:11,024
+Oh.
+
+253
+00:14:13,548 --> 00:14:14,897
+PEGGY: Agora?
+
+254
+00:14:14,941 --> 00:14:16,029
+Só mais um toque.
+
+255
+00:14:18,118 --> 00:14:19,249
+O novo você.
+
+256
+00:14:21,208 --> 00:14:22,862
+[Gritando]
+
+257
+00:14:22,905 --> 00:14:24,820
+Uma Cleópatra irlandesa?
+
+258
+00:14:26,822 --> 00:14:28,389
+LIZA: Eu funcionei, Robin.
+
+259
+00:14:28,432 --> 00:14:31,740
+-Eu realmente funcionei bem.
+-Bom.
+
+260
+00:14:31,783 --> 00:14:34,874
+Eles fazem uma das melhores
+histórias para meus malucos.
+
+261
+00:14:34,917 --> 00:14:36,614
+Ela tinha um saco cheio de
+cérebros de outras pessoas
+
+262
+00:14:36,658 --> 00:14:39,313
+e ficou sentada no meu
+mundo rabiscando no meu.
+
+263
+00:14:40,923 --> 00:14:44,492
+Você sabe que eles são impotentes
+enquanto eu puder funcionar?
+
+264
+00:14:44,535 --> 00:14:47,277
+Eu nunca vou voltar para
+aquela enfermaria trancada.
+
+265
+00:14:47,321 --> 00:14:48,844
+Bom.
+
+266
+00:14:48,888 --> 00:14:50,193
+Eu sorri para ela.
+
+267
+00:14:50,237 --> 00:14:51,586
+Não é um sorriso muito grande, no entanto.
+
+268
+00:14:51,629 --> 00:14:53,457
+Ela me classificou como maníaco.
+
+269
+00:14:53,501 --> 00:14:55,024
+Robin, eu fui fabuloso.
+
+270
+00:14:56,373 --> 00:14:58,201
+Ela disse que o dinheiro
+da assistência social chegará
+
+271
+00:14:58,245 --> 00:14:59,986
+em breve e que posso
+começar a dividir o aluguel.
+
+272
+00:15:02,031 --> 00:15:03,163
+Você quer uma bebida?
+
+273
+00:15:04,773 --> 00:15:05,861
+OK.
+
+274
+00:15:08,559 --> 00:15:12,041
+Você não parece muito
+animado com minha vitória.
+
+275
+00:15:12,085 --> 00:15:14,391
+Quer dizer, eu sei que
+não é muito para muitas
+
+276
+00:15:14,435 --> 00:15:16,872
+outras pessoas, mas com
+certeza foi muito para mim.
+
+277
+00:15:16,916 --> 00:15:18,178
+ROBIN: Estou um pouco cansado.
+
+278
+00:15:19,353 --> 00:15:22,791
+Você está bravo comigo
+por não ver a mãe?
+
+279
+00:15:22,834 --> 00:15:23,748
+ROBIN: Não.
+
+280
+00:15:24,967 --> 00:15:26,099
+Ela sempre me
+deixa tão deprimido, e
+
+281
+00:15:26,142 --> 00:15:29,537
+então não consigo
+manter minha mente firme.
+
+282
+00:15:29,580 --> 00:15:30,146
+Eu sei.
+
+283
+00:15:31,321 --> 00:15:33,062
+Quer dizer, ela vem
+com boas intenções,
+
+284
+00:15:33,106 --> 00:15:36,761
+mas deixa visões
+de leprosos para trás.
+
+285
+00:15:39,895 --> 00:15:42,202
+Você não me quer aqui, não é?
+
+286
+00:15:42,245 --> 00:15:43,638
+Você sabe melhor que isso.
+
+287
+00:15:44,639 --> 00:15:46,249
+Eu não sei o que sei.
+
+288
+00:15:46,293 --> 00:15:47,903
+Eu sou louca, Liza.
+
+289
+00:15:49,035 --> 00:15:50,471
+Você não é a única pessoa no
+
+290
+00:15:50,514 --> 00:15:52,168
+mundo inteiro com sentimentos.
+
+291
+00:15:52,212 --> 00:15:53,387
+O que?
+
+292
+00:15:54,170 --> 00:15:55,998
+Estou deprimido, ok?
+
+293
+00:15:56,042 --> 00:15:56,694
+Por que?
+
+294
+00:15:57,434 --> 00:15:59,132
+Oh vamos lá.  Diga-me.
+
+295
+00:15:59,175 --> 00:16:00,220
+Não importa.
+
+296
+00:16:02,918 --> 00:16:07,183
+Vou colocar o suco na sua
+cabeça se você não fizer isso.
+
+297
+00:16:07,227 --> 00:16:09,577
+Tased como alguma coisa
+selvagem e maravilhosa,
+
+298
+00:16:09,620 --> 00:16:11,057
+Estou enjaulado em um poço de cobras.
+
+299
+00:16:11,100 --> 00:16:12,667
+Ei, eu sei, Robin.
+
+300
+00:16:12,710 --> 00:16:15,322
+Por que você não
+arruma meu cabelo todo
+
+301
+00:16:15,365 --> 00:16:17,324
+sexy e podemos sair e
+passear tudo de calça?
+
+302
+00:16:17,367 --> 00:16:19,587
+Estou farto de fazer o
+penteado de todo mundo.
+
+303
+00:16:19,630 --> 00:16:20,805
+Até mesmo o de Cleópatra?
+
+304
+00:16:22,068 --> 00:16:24,461
+Aquela vadia.
+Oh, ela deveria ter
+
+305
+00:16:24,505 --> 00:16:26,333
+me dado 50 de
+gorjeta por dar aula.
+
+306
+00:16:26,376 --> 00:16:27,899
+Acho que ela não queria aula.
+
+307
+00:16:27,943 --> 00:16:29,466
+Qualquer mulher nesta
+cidade deveria ficar emocionada
+
+308
+00:16:29,510 --> 00:16:33,209
+em se parecer com
+Cleópatra ou Bette Davis.
+
+309
+00:16:33,253 --> 00:16:35,211
+Quero dizer, essas garotas são duronas.
+
+310
+00:16:35,255 --> 00:16:39,172
+Acho que são feitos de aço,
+mas são deslumbrantes, vivos.
+
+311
+00:16:39,215 --> 00:16:41,217
+Eles tiveram coragem
+e se divertiram.
+
+312
+00:16:41,261 --> 00:16:42,827
+Estas mulheres aqui vivem a vida
+
+313
+00:16:42,871 --> 00:16:44,568
+como se fosse uma
+lata de Coca-Cola.
+
+314
+00:16:44,612 --> 00:16:46,135
+e eles têm medo de beber
+
+315
+00:16:46,179 --> 00:16:48,050
+muito rápido, ou tudo acabará.
+
+316
+00:16:48,094 --> 00:16:49,878
+A vida não é uma lata de Coca-Cola.
+
+317
+00:16:49,921 --> 00:16:51,619
+Dieta Pepsi.
+
+318
+00:16:51,662 --> 00:16:53,882
+Hum.  Eles sentam-se
+no meu posto
+
+319
+00:16:53,925 --> 00:16:57,320
+e falam sobre a
+reforma de suas casas.
+
+320
+00:16:57,364 --> 00:17:00,889
+Eles deveriam renovar
+suas vidinhas de merda.
+
+321
+00:17:00,932 --> 00:17:02,717
+Alguns dias eu penso,
+
+322
+00:17:02,760 --> 00:17:06,503
+“Robin Turner, esta é a sua
+vida pelos próximos 40 anos.
+
+323
+00:17:06,547 --> 00:17:07,896
+Sem deslumbramento."
+
+324
+00:17:07,939 --> 00:17:09,332
+Então desista.
+
+325
+00:17:09,376 --> 00:17:11,900
+-E?
+-Faça algo deslumbrante.
+
+326
+00:17:11,943 --> 00:17:12,466
+Hum.
+
+327
+00:17:13,467 --> 00:17:15,860
+Não, bebê.
+Isso é tudo que existe.
+
+328
+00:17:17,993 --> 00:17:19,647
+Sinto muito, Robin.
+
+329
+00:17:19,690 --> 00:17:20,778
+Não me toque.
+
+330
+00:17:20,822 --> 00:17:22,171
+-Por que não?
+-Eu sou gordo.
+
+331
+00:17:22,215 --> 00:17:23,390
+Eu não me importo.
+
+332
+00:17:23,433 --> 00:17:26,088
+-Bem, eu quero.
+-Eu te amo, Robin.
+
+333
+00:17:26,132 --> 00:17:27,350
+Por que?
+
+334
+00:17:27,394 --> 00:17:30,179
+Ah, porque você
+é louco, como eu.
+
+335
+00:17:31,659 --> 00:17:33,052
+Dois Looney Tunes.
+
+336
+00:17:33,095 --> 00:17:34,705
+Nós vamos resolver isso.
+
+337
+00:17:35,750 --> 00:17:37,795
+-Liza.
+-O que?
+
+338
+00:17:39,145 --> 00:17:40,668
+Seu cabelo é uma merda.
+
+339
+00:17:41,799 --> 00:17:43,584
+[Rindo]
+
+340
+00:17:51,026 --> 00:17:51,940
+[Sino tocando]
+
+341
+00:18:03,560 --> 00:18:05,606
+De qualquer forma, ninguém escuta mais.
+
+342
+00:18:05,649 --> 00:18:07,303
+Meu psiquiatra nem escuta.
+
+343
+00:18:07,347 --> 00:18:09,653
+Oh vamos lá.  As pessoas
+no hospital ouvem você.
+
+344
+00:18:09,697 --> 00:18:11,351
+Sim, e foi por isso que
+me mandaram para casa.
+
+345
+00:18:11,394 --> 00:18:12,830
+Muitas pessoas estavam
+ouvindo a verdade.
+
+346
+00:18:12,874 --> 00:18:14,354
+Oh, Martin, você não
+pertence àquele hospital.
+
+347
+00:18:14,397 --> 00:18:15,659
+Quero dizer, você pertence aqui.
+
+348
+00:18:15,703 --> 00:18:17,705
+Você pode fazer
+coisas e ser alguém aqui.
+
+349
+00:18:17,748 --> 00:18:20,229
+Bem na selva da capital.
+
+350
+00:18:20,273 --> 00:18:24,146
+[Imita macaco]
+
+351
+00:18:24,190 --> 00:18:26,017
+[Sino tocando]
+
+352
+00:18:26,061 --> 00:18:28,542
+Com licença.  Ei, você poderia
+separar essas meias, Liza, por favor?
+
+353
+00:18:28,585 --> 00:18:29,586
+Sim.
+
+354
+00:18:29,630 --> 00:18:31,153
+Ei, seu revestimento está manchado.
+
+355
+00:18:31,197 --> 00:18:32,937
+Não, eles estão se tornando chineses.
+
+356
+00:18:34,069 --> 00:18:35,505
+Confunde algumas pessoas.
+
+357
+00:18:35,549 --> 00:18:37,116
+[Buzinas]
+
+358
+00:18:38,291 --> 00:18:40,902
+Não sei, Lisa.  Não sei.
+
+359
+00:18:40,945 --> 00:18:42,817
+Mas, Martin, é
+disso que se trata.
+
+360
+00:18:42,860 --> 00:18:45,036
+Trata-se de fazer algo realmente
+
+361
+00:18:45,080 --> 00:18:46,386
+grande, importante
+e deslumbrante.
+
+362
+00:18:46,429 --> 00:18:49,563
+MARTIN: E farei coisas
+enormes por enquanto.
+
+363
+00:18:49,606 --> 00:18:52,305
+Algum dia terei 100 histórias só
+
+364
+00:18:52,348 --> 00:18:55,177
+para os malucos de todo o mundo.
+
+365
+00:18:55,221 --> 00:18:58,789
+Mas se você não almoçar, você
+não receberá nenhum din-din.
+
+366
+00:18:58,833 --> 00:19:00,051
+Você escreve sobre os fornos?
+
+367
+00:19:00,095 --> 00:19:01,792
+Você sabe, eles mantêm
+fornos no hospital.
+
+368
+00:19:01,836 --> 00:19:03,881
+LIZA: Eu sei, Martin.
+Para as lobotomias.
+
+369
+00:19:03,925 --> 00:19:06,754
+ROBIN: Obrigado às lobotomias.
+Detesto comida ucraniana.
+
+370
+00:19:09,583 --> 00:19:10,758
+Oh Deus.  Perada.
+
+371
+00:19:10,801 --> 00:19:12,325
+Você nunca vai adivinhar.
+
+372
+00:19:12,368 --> 00:19:13,761
+-Oi, Liza.
+-Oi, Perry.
+
+373
+00:19:15,110 --> 00:19:17,373
+Eu encontrei a solução.
+
+374
+00:19:17,417 --> 00:19:21,203
+Vou como aeromoça,
+Karen Black, Aeroporto '75.
+
+375
+00:19:21,247 --> 00:19:22,857
+Você nunca sairá
+da cabine, querido.
+
+376
+00:19:22,900 --> 00:19:25,120
+Bem, é um brainstorm positivo.
+
+377
+00:19:25,164 --> 00:19:26,121
+Ver?
+
+378
+00:19:26,991 --> 00:19:28,558
+Sapatos sensatos,
+
+379
+00:19:33,563 --> 00:19:35,565
+saia de bom gosto,
+
+380
+00:19:35,609 --> 00:19:36,784
+sem muita maquiagem,
+
+381
+00:19:36,827 --> 00:19:39,613
+vestido pequeno e...
+
+382
+00:19:41,658 --> 00:19:44,313
+elegante, mas sem frescuras.
+
+383
+00:19:44,357 --> 00:19:46,794
+Olha, todo mundo vai
+a esses concursos de
+
+384
+00:19:46,837 --> 00:19:48,317
+drag, todo brilho e
+glamour, mas quero dizer,
+
+385
+00:19:48,361 --> 00:19:51,233
+quantos Zha Zha Gabors podem
+estar em uma sala ao mesmo tempo?
+
+386
+00:19:51,277 --> 00:19:53,235
+Ninguém é um indivíduo.
+
+387
+00:19:53,279 --> 00:19:56,456
+Agora, tudo que eu realmente
+preciso é de uma boa bolsa de voo.
+
+388
+00:19:56,499 --> 00:19:59,023
+Nada de vinil da Air Canada,
+
+389
+00:19:59,067 --> 00:20:00,938
+algo com classe,
+como a Air France.
+
+390
+00:20:00,982 --> 00:20:04,246
+Ei, até o falso é
+caro hoje em dia.
+
+391
+00:20:05,856 --> 00:20:07,249
+Oh, seu forro está indo...
+
+392
+00:20:07,293 --> 00:20:08,511
+-MARTIN: Eles são reais.
+-Ah.
+
+393
+00:20:08,555 --> 00:20:11,340
+-Meus olhos são reais.
+-Tudo bem, eles são reais.
+
+394
+00:20:11,384 --> 00:20:13,516
+Um pouco manchado, mas real.
+
+395
+00:20:13,560 --> 00:20:15,997
+Eu não sabia que você
+gostava de negócios difíceis.
+
+396
+00:20:16,040 --> 00:20:18,347
+-Vocês vão?
+-Não.
+
+397
+00:20:18,391 --> 00:20:21,611
+Robin está morrendo de vontade de
+fazer drag, mas ele não tem coragem.
+
+398
+00:20:21,655 --> 00:20:23,352
+Compre algo legal para ele, querido.
+
+399
+00:20:23,396 --> 00:20:24,701
+ROBIN: Todos eles se
+parecem com Joey Heatherton.
+
+400
+00:20:24,745 --> 00:20:26,355
+Ninguém é real.
+
+401
+00:20:26,399 --> 00:20:28,270
+PERRY: Você está me dizendo
+que Karen Black não é real?
+
+402
+00:20:28,314 --> 00:20:31,012
+Eu sei, Robin.  Você deveria
+pedir para Tallulah Bankhead ir.
+
+403
+00:20:31,055 --> 00:20:32,100
+Quem?
+
+404
+00:20:32,143 --> 00:20:33,449
+Tallulah.
+
+405
+00:20:33,493 --> 00:20:36,452
+Até um príncipe oriental
+deveria conhecer esse nome.
+
+406
+00:20:36,496 --> 00:20:38,672
+Tallulah mora dentro de Robin.
+Ela é como Elsie.
+
+407
+00:20:38,715 --> 00:20:40,195
+Você se lembra, ela tinha
+todas aquelas pessoas
+
+408
+00:20:40,239 --> 00:20:41,718
+que moravam lá dentro,
+e elas costumavam sair
+
+409
+00:20:41,762 --> 00:20:44,025
+e assustar as pessoas, porque
+elas ainda se pareciam com Elsie.
+
+410
+00:20:44,068 --> 00:20:46,114
+Só que Tallulah é diferente
+porque é uma amiga.
+
+411
+00:20:47,942 --> 00:20:50,553
+Bem, nunca prenda
+seus amigos, porque
+
+412
+00:20:50,597 --> 00:20:53,252
+eles podem derramar
+ácido em seu coração.
+
+413
+00:20:54,992 --> 00:20:56,603
+Ah, vamos lá, Robin.
+Faça Tallulah ir embora.
+
+414
+00:20:56,646 --> 00:20:58,082
+Apenas por uma noite.
+
+415
+00:20:58,126 --> 00:21:03,697
+[Música, tocando]
+
+416
+00:21:56,967 --> 00:21:58,317
+Fora de vista.
+
+417
+00:21:59,622 --> 00:22:01,058
+Você chega muito ao Oma-Kama?
+
+418
+00:22:01,102 --> 00:22:02,364
+[Gemendo]
+
+419
+00:22:02,408 --> 00:22:05,367
+Depende de quão fofo
+o taxista é no caminho.
+
+420
+00:22:05,411 --> 00:22:06,542
+Seu lixo.
+
+421
+00:22:06,586 --> 00:22:07,413
+[Rindo]
+
+422
+00:22:08,718 --> 00:22:10,416
+[Campainha toca]
+
+423
+00:22:10,459 --> 00:22:12,809
+Zara Lamanox!
+
+424
+00:22:12,853 --> 00:22:15,508
+Volte para o outro lugar.
+
+425
+00:22:15,551 --> 00:22:18,424
+Aqui, as meninas boas tomam os
+
+426
+00:22:18,467 --> 00:22:19,816
+comprimidos ou não
+tomam a sobremesa.
+
+427
+00:22:21,035 --> 00:22:22,515
+Você usa drogas pesadas?
+
+428
+00:22:22,558 --> 00:22:25,561
+Ah, muito.  Prescrição.
+
+429
+00:22:25,605 --> 00:22:27,868
+Você pode ficar realmente chateado
+com produtos químicos, você sabe.
+
+430
+00:22:27,911 --> 00:22:28,869
+Hum-hmm.
+
+431
+00:22:30,436 --> 00:22:31,567
+[Rindo]
+
+432
+00:22:32,525 --> 00:22:35,354
+Sem pílulas, sem frescuras.
+
+433
+00:22:35,397 --> 00:22:37,051
+Vamos.
+
+434
+00:22:37,094 --> 00:22:38,792
+Ei, eu te contei sobre
+meu colega de quarto?
+
+435
+00:22:38,835 --> 00:22:40,315
+-Eu esqueço as coisas às vezes.
+-Sim.
+
+436
+00:22:40,359 --> 00:22:42,230
+Gays são legais comigo.
+
+437
+00:22:42,273 --> 00:22:43,840
+Contanto que ele
+não queira um trio.
+
+438
+00:22:45,102 --> 00:22:49,280
+Hum, não.
+
+439
+00:22:49,324 --> 00:22:50,325
+Vamos.
+
+440
+00:22:51,544 --> 00:22:53,676
+Surpresa.  Confusão.
+
+441
+00:23:07,211 --> 00:23:08,561
+Você tem muitos tópicos, garoto.
+
+442
+00:23:09,475 --> 00:23:11,825
+Você também.  Livre-se deles.
+
+443
+00:23:16,003 --> 00:23:18,353
+Oh, vamos nos divertir muito.
+
+444
+00:23:18,397 --> 00:23:21,138
+Ah, firme.  Legal.
+
+445
+00:23:21,182 --> 00:23:24,620
+ROBIN: Batom rosa?  Querido.
+
+446
+00:23:24,664 --> 00:23:27,449
+Bartolomea, deixe essa
+viagem neste minuto
+
+447
+00:23:27,493 --> 00:23:28,842
+e me traga vermelho sangue.
+
+448
+00:23:28,885 --> 00:23:30,191
+Eu não tenho nenhum.
+
+449
+00:23:30,234 --> 00:23:32,541
+ROBIN: Rosa gelado, nada menos.
+
+450
+00:23:32,585 --> 00:23:35,414
+Até aquelas fadas da Fox conseguem
+me deixar com lábios vermelhos.
+
+451
+00:23:35,457 --> 00:23:37,546
+OK.  OK.
+
+452
+00:23:37,590 --> 00:23:39,156
+Te encontro mais tarde, ok?
+
+453
+00:23:43,291 --> 00:23:47,121
+ROBIN: Posso ter peito
+pequeno, mas isso é ridículo.
+
+454
+00:23:47,164 --> 00:23:48,818
+Agora, traga-me o vermelho.
+
+455
+00:23:51,995 --> 00:23:54,345
+-Aí, vermelho.
+-ROBIN: Ah, obrigado.
+
+456
+00:23:54,389 --> 00:23:56,086
+[Campainha vibra]
+
+457
+00:23:56,130 --> 00:23:58,872
+ROBIN: Ah, é Perry.
+Deixe a miserável aeromoça entrar.
+
+458
+00:24:03,180 --> 00:24:06,140
+Não posso pilotar este avião sozinho.
+Não posso.
+
+459
+00:24:06,183 --> 00:24:07,663
+Não posso.
+
+460
+00:24:09,186 --> 00:24:10,710
+É horrível, não é?
+
+461
+00:24:12,407 --> 00:24:14,104
+Não não não.  É muito fofo.
+
+462
+00:24:14,148 --> 00:24:15,584
+-É muito fofo.
+-PERRY: Eu sabia.
+
+463
+00:24:15,628 --> 00:24:18,587
+Mesmo Karen Black
+não era bonita nesse lixo.
+
+464
+00:24:18,631 --> 00:24:20,371
+Eu tenho que mudar tudo.
+
+465
+00:24:24,550 --> 00:24:26,987
+Eu nasci para ser loiro.
+
+466
+00:24:31,948 --> 00:24:35,952
+Liza, posso usar
+alguma coisinha sua?
+
+467
+00:24:35,996 --> 00:24:39,129
+Perry, suas pernas e coxas
+têm o dobro do meu tamanho.
+
+468
+00:24:39,173 --> 00:24:41,915
+Qualquer coisa descartável, Liza.
+Estou desesperada.
+
+469
+00:24:43,830 --> 00:24:47,529
+[Suspiros] Isso.
+
+470
+00:24:47,573 --> 00:24:48,878
+É perfeito.
+
+471
+00:24:48,922 --> 00:24:50,706
+Não, Perry.
+Esse é o meu melhor.
+
+472
+00:24:50,750 --> 00:24:51,881
+Este é o seu melhor?
+
+473
+00:24:52,621 --> 00:24:53,927
+Ah, Liza.  Por favor.
+
+474
+00:24:53,970 --> 00:24:55,668
+-Você vai esticá-lo em pedaços.
+-Não, não vou.
+
+475
+00:24:55,711 --> 00:24:58,845
+Se eu fizer isso, comprarei para
+você um novo, seja lá o que for.
+
+476
+00:24:58,888 --> 00:25:00,063
+STEWART: Liza?
+
+477
+00:25:00,107 --> 00:25:02,849
+Ah, Stewart.
+Stewart, este é Perry.
+
+478
+00:25:02,892 --> 00:25:04,067
+Perada.
+
+479
+00:25:04,111 --> 00:25:05,242
+Lisa.
+
+480
+00:25:06,113 --> 00:25:07,549
+Bem, se você estragar tudo...
+
+481
+00:25:07,593 --> 00:25:09,290
+Vou comprar sete deles para você.
+
+482
+00:25:11,771 --> 00:25:13,512
+Avisei você.  [Rindo]
+
+483
+00:25:17,080 --> 00:25:18,865
+[Ofegante]
+
+484
+00:25:19,430 --> 00:25:20,823
+Oh meu Deus.
+
+485
+00:25:24,305 --> 00:25:26,176
+Tallulah vive.
+
+486
+00:25:26,220 --> 00:25:26,873
+O que...?
+
+487
+00:25:26,916 --> 00:25:28,483
+[Rindo]
+
+488
+00:25:28,527 --> 00:25:31,399
+ROBIN: Sem autógrafos, querido.
+Minhas mãos estão muito ocupadas.
+
+489
+00:25:31,442 --> 00:25:33,488
+LIZA: Esse é o vestido de
+lua de mel da minha mãe.
+
+490
+00:25:33,532 --> 00:25:34,837
+ROBIN: O guarda-roupa
+esqueceu de me contar
+
+491
+00:25:34,881 --> 00:25:36,404
+essas eram coisas de segunda mão.
+
+492
+00:25:36,447 --> 00:25:38,493
+Minha última foto para a Republic.
+
+493
+00:25:44,586 --> 00:25:46,675
+Agora isso sou mais eu.
+
+494
+00:25:46,719 --> 00:25:48,808
+Você parece Shelley
+Winters se escondendo atrás
+
+495
+00:25:48,851 --> 00:25:50,157
+Farrah Fawcett-Majors.
+
+496
+00:25:52,028 --> 00:25:55,249
+Robin, esse vestido é divino.
+
+497
+00:25:55,292 --> 00:25:57,425
+Obrigado, querido.
+Você tem tarifa de táxi?
+
+498
+00:25:58,861 --> 00:26:00,559
+Está brincando?
+
+499
+00:26:00,602 --> 00:26:02,822
+-ROBIN: Liza?
+-Quebrou.  Pegue o bonde.
+
+500
+00:26:02,865 --> 00:26:04,693
+Que estrela já pegou um bonde?
+
+501
+00:26:04,737 --> 00:26:05,825
+LIZA: Judy Garland.
+
+502
+00:26:05,868 --> 00:26:07,348
+Clang, clang, clang foi o...
+
+503
+00:26:07,391 --> 00:26:09,916
+Carrinho.  Mas
+isso foi no backlot da
+
+504
+00:26:09,959 --> 00:26:11,918
+MGM, querido, não
+na Avenida St. Claire.
+
+505
+00:26:11,961 --> 00:26:13,615
+Vamos lá, Shell.
+
+506
+00:26:13,659 --> 00:26:16,618
+Oh, você vai ganhar o
+primeiro prêmio, Robin.
+
+507
+00:26:16,662 --> 00:26:19,099
+PERRY: Foi muito bom
+conhecer você, Stewart.
+
+508
+00:26:19,142 --> 00:26:21,362
+Você não vê que o garoto está
+de pau duro, pelo amor de Deus?
+
+509
+00:26:21,405 --> 00:26:22,711
+Vamos.
+
+510
+00:26:31,198 --> 00:26:32,982
+[Ofegante]
+
+511
+00:26:35,768 --> 00:26:37,552
+É melhor na segunda vez, não é?
+
+512
+00:26:37,596 --> 00:26:39,336
+Oh bebê.
+
+513
+00:26:39,380 --> 00:26:40,642
+Eu poderia passar a noite toda com você.
+
+514
+00:26:40,686 --> 00:26:42,513
+[Rindo]
+
+515
+00:26:44,907 --> 00:26:46,039
+Ah, caramba.
+
+516
+00:26:47,301 --> 00:26:48,302
+Quem é você... você?
+
+517
+00:26:49,651 --> 00:26:52,219
+-LIZA: O que aconteceu?
+-ROBIN: Assediado por fãs.
+
+518
+00:26:52,262 --> 00:26:53,873
+Que profissão cruel.
+
+519
+00:26:55,526 --> 00:26:57,746
+-LIZA: O que é isso?
+-Que diabos?
+
+520
+00:26:57,790 --> 00:26:59,574
+Oh, apenas coloque
+isso em espera, querido.
+
+521
+00:26:59,618 --> 00:27:01,141
+[Rindo]
+
+522
+00:27:01,184 --> 00:27:03,491
+Eles me querem para um encontro
+em um clube local, você não sabe?
+
+523
+00:27:03,534 --> 00:27:04,144
+LIZA: O quê?
+
+524
+00:27:05,362 --> 00:27:07,538
+ROBIN: Bem, querido,
+apresente um show de drag.
+
+525
+00:27:07,582 --> 00:27:09,018
+LIZA: Eles pagam?
+
+526
+00:27:09,062 --> 00:27:10,237
+Somente com aplausos.
+
+527
+00:27:10,280 --> 00:27:11,455
+Deus, as províncias.
+
+528
+00:27:11,499 --> 00:27:12,935
+Por que você não interpretou Cheryl?
+
+529
+00:27:12,979 --> 00:27:16,504
+Ah, eu não vi que ia ter um.
+
+530
+00:27:16,547 --> 00:27:18,811
+-Ligado ou desligado, garoto?
+-Desligado.
+
+531
+00:27:18,854 --> 00:27:20,943
+Tribos comuns novamente.
+
+532
+00:27:20,987 --> 00:27:23,163
+[Risos]
+
+533
+00:27:24,251 --> 00:27:25,905
+Ah, ele vai ser ótimo.
+
+534
+00:27:28,734 --> 00:27:30,387
+Quer saber, Lisa?
+
+535
+00:27:30,431 --> 00:27:32,781
+Há muitos caras,
+caras normais, que
+
+536
+00:27:32,825 --> 00:27:34,870
+realmente adorariam
+uma garota como você.
+
+537
+00:27:34,914 --> 00:27:36,742
+Oh sim?
+O que você quer dizer com "normal"?
+
+538
+00:27:38,700 --> 00:27:40,789
+Bem, caramba.
+Por que você convive com isso?
+
+539
+00:27:40,833 --> 00:27:44,227
+Porque esse é meu melhor amigo.
+
+540
+00:27:47,927 --> 00:27:49,276
+STEWART: Sinto muito.
+
+541
+00:27:49,319 --> 00:27:51,017
+Todos os cavalos do
+psiquiatra e todos os homens do
+
+542
+00:27:51,060 --> 00:27:53,149
+psiquiatra não conseguiram
+recompor Liza, mas Robin, ele...
+
+543
+00:27:53,193 --> 00:27:55,761
+Esqueça, querido.
+Isso não significou nada.
+
+544
+00:27:55,804 --> 00:27:57,850
+Tire suas mãos de mim.
+Estou cansado.
+
+545
+00:27:59,199 --> 00:28:00,287
+Merda.
+
+546
+00:28:03,769 --> 00:28:05,553
+Você sabe, eu nunca
+vou entender isso.
+
+547
+00:28:05,596 --> 00:28:06,815
+O que?
+
+548
+00:28:06,859 --> 00:28:08,208
+Não sei por que todos os caras
+
+549
+00:28:08,251 --> 00:28:09,862
+héteros acabam
+sendo tão idiotas.
+
+550
+00:28:09,905 --> 00:28:12,255
+Maldita vadia louca!
+
+551
+00:28:12,299 --> 00:28:13,474
+Você é louco!
+
+552
+00:28:13,517 --> 00:28:14,954
+Eu tenho permissão.
+
+553
+00:28:14,997 --> 00:28:17,565
+O Dr. Beddoes disse isso.
+
+554
+00:28:20,002 --> 00:28:21,700
+Um mestre de cerimônias.
+
+555
+00:28:24,877 --> 00:28:25,834
+[Suspirando]
+
+556
+00:28:36,540 --> 00:28:37,933
+Você realmente foi fantástico.
+
+557
+00:28:39,935 --> 00:28:42,024
+ROBIN: São necessários dois para, você sabe.
+
+558
+00:28:43,373 --> 00:28:45,288
+BILL: Ah, eu quis dizer no baile.
+
+559
+00:28:45,332 --> 00:28:46,855
+O mais engraçado que já vi.
+
+560
+00:28:47,900 --> 00:28:48,727
+ROBIN: Obrigado.
+
+561
+00:29:03,916 --> 00:29:07,615
+Aquela garota lá atrás,
+já fez isso com ela?
+
+562
+00:29:07,658 --> 00:29:10,009
+Não. Temos outras
+coisas a nosso favor.
+
+563
+00:29:14,970 --> 00:29:16,798
+-Bem?
+-O que?
+
+564
+00:29:17,756 --> 00:29:18,713
+[Suspirando]
+
+565
+00:29:19,932 --> 00:29:22,586
+BILL: Olha, pensei
+que tinha dinheiro
+
+566
+00:29:22,630 --> 00:29:24,501
+suficiente para passar
+o resto da semana,
+
+567
+00:29:24,545 --> 00:29:25,372
+e eu sou baixo.
+
+568
+00:29:26,068 --> 00:29:27,243
+Você pode me ajudar?
+
+569
+00:29:28,331 --> 00:29:30,029
+O que você está
+realmente pedindo
+
+570
+00:29:30,072 --> 00:29:31,813
+é que eu pague por isso, não é?
+
+571
+00:29:31,857 --> 00:29:33,641
+Fiz a última página do The
+
+572
+00:29:33,684 --> 00:29:35,599
+Advocate alguns meses atrás.
+
+573
+00:29:35,643 --> 00:29:38,298
+Uma celebridade
+no meu próprio sofá.
+
+574
+00:29:38,341 --> 00:29:40,517
+-Bem, nesse caso...
+-BILL: Ouça...
+
+575
+00:29:40,561 --> 00:29:42,911
+Eu normalmente não
+faço isso com drag queens.
+
+576
+00:29:42,955 --> 00:29:44,957
+Não sou só eu, nenhum dos caras.
+
+577
+00:29:45,000 --> 00:29:46,915
+ROBIN: Ei, por favor.
+Apenas pegue o dinheiro.
+
+578
+00:29:46,959 --> 00:29:48,351
+BILL: Ok, ok.
+
+579
+00:29:48,395 --> 00:29:50,440
+Achei que você soubesse
+como as coisas são.
+
+580
+00:29:50,484 --> 00:29:52,529
+Isso realmente importa?
+
+581
+00:29:52,573 --> 00:29:54,575
+LIZA:Robin?
+
+582
+00:29:54,618 --> 00:29:56,055
+Robin, você está bem?
+
+583
+00:29:57,143 --> 00:29:58,622
+Boa noite, Bill.
+
+584
+00:30:01,147 --> 00:30:03,976
+-LIZA: Robin?
+-ROBIN: Ah, agora não, Liza.
+
+585
+00:30:21,080 --> 00:30:22,908
+LIZA: Você já decidiu
+sobre o clube, Robin?
+
+586
+00:30:25,911 --> 00:30:29,392
+Quando eu tinha 14
+anos, olhei no espelho
+
+587
+00:30:29,436 --> 00:30:32,787
+e disse: “Admita,
+Robin, você é diferente”.
+
+588
+00:30:32,831 --> 00:30:36,530
+Aprendi que poderia sobreviver
+contanto que mantivesse a tampa fechada.
+
+589
+00:30:36,573 --> 00:30:38,967
+Alguns anos depois,
+olhei novamente e disse:
+
+590
+00:30:39,011 --> 00:30:42,405
+"Robin, você é um típico
+cabeleireiro barulhento."
+
+591
+00:30:42,449 --> 00:30:44,451
+então coloquei a tampa
+um pouco mais apertada.
+
+592
+00:30:45,539 --> 00:30:47,584
+De alguma forma,
+superei todos os dias e
+
+593
+00:30:47,628 --> 00:30:49,978
+todos os trabalhos,
+nunca realmente feliz,
+
+594
+00:30:50,022 --> 00:30:51,719
+mas de alguma forma sobrevivendo.
+
+595
+00:30:53,025 --> 00:30:56,289
+E então, esta noite, eu explodi
+
+596
+00:30:56,332 --> 00:30:59,118
+todas as tampas
+e saiu esse lixo.
+
+597
+00:30:59,161 --> 00:31:01,816
+Você sabe como é quando
+um garoto muito bonito
+
+598
+00:31:01,860 --> 00:31:06,560
+olha para você e tudo o
+que vê é uma drag queen?
+
+599
+00:31:06,603 --> 00:31:08,127
+Não adianta, Liza.
+
+600
+00:31:12,609 --> 00:31:14,524
+Robin, se uma
+lagarta tivesse medo de
+
+601
+00:31:14,568 --> 00:31:16,004
+asas, nunca se
+tornaria uma borboleta,
+
+602
+00:31:16,048 --> 00:31:17,963
+e as pessoas olhavam
+para isso e diziam:
+
+603
+00:31:18,006 --> 00:31:20,617
+"Oh, olhe.
+Tem uma minhoca na árvore."
+
+604
+00:31:20,661 --> 00:31:24,665
+Mas eles nunca o veriam
+girando cores no ar.
+
+605
+00:31:24,708 --> 00:31:26,710
+Você tem que cuidar
+do clube, Robin.
+
+606
+00:31:28,234 --> 00:31:29,409
+Por que?
+
+607
+00:31:31,063 --> 00:31:34,066
+Bem, as pessoas riem
+e não enlouquecem.
+
+608
+00:31:35,676 --> 00:31:38,809
+Apresentando o
+deslumbrante Robin Turner.
+
+609
+00:31:39,941 --> 00:31:41,682
+Você é louco.
+
+610
+00:31:41,725 --> 00:31:42,857
+Ah, faça isso, Robin.
+
+611
+00:31:42,901 --> 00:31:44,946
+Faça isso por mim e
+por todos os malucos.
+
+612
+00:31:53,520 --> 00:31:56,044
+Mas é um compromisso
+profissional.
+
+613
+00:31:56,088 --> 00:31:57,654
+Sábado é nosso dia de pico, e
+
+614
+00:31:57,698 --> 00:31:59,656
+não vou deixar você sair voando
+
+615
+00:31:59,700 --> 00:32:00,962
+no meio da tarde, para que
+
+616
+00:32:01,006 --> 00:32:03,573
+você possa fazer drags à noite.
+
+617
+00:32:03,617 --> 00:32:05,097
+Não é um arrasto pegajoso.
+
+618
+00:32:05,140 --> 00:32:06,272
+Eu faço impressões reais.
+
+619
+00:32:06,315 --> 00:32:08,839
+Sem registros, minha própria voz.
+
+620
+00:32:08,883 --> 00:32:10,450
+JASON: E seus próprios peitos?
+
+621
+00:32:10,493 --> 00:32:12,147
+Agora quem é cafona?
+
+622
+00:32:12,191 --> 00:32:13,801
+Tudo que preciso é de
+folga no sábado à tarde,
+
+623
+00:32:13,844 --> 00:32:16,586
+para fazer compras e
+ensaiar e, você sabe.
+
+624
+00:32:16,630 --> 00:32:19,763
+Ouça, administrar um
+salão de beleza é muito sério.
+
+625
+00:32:19,807 --> 00:32:22,418
+Quer dizer, está tudo à
+imagem do cabeleireiro.
+
+626
+00:32:22,462 --> 00:32:24,768
+Essas senhoras não vêm
+aqui para fazer o cabelo.
+
+627
+00:32:24,812 --> 00:32:27,467
+Eles vêm para ter seus egos
+impulsionados pelos homens.
+
+628
+00:32:27,510 --> 00:32:28,947
+E se você perder essa imagem
+
+629
+00:32:28,990 --> 00:32:30,383
+direta, você perde os clientes.
+
+630
+00:32:30,426 --> 00:32:32,602
+Quem quer ser
+apalpado por bichas?
+
+631
+00:32:32,646 --> 00:32:36,432
+Posso pensar em duas pessoas
+nesta sala que adorariam.
+
+632
+00:32:36,476 --> 00:32:40,001
+Graças a Deus aquela garota
+maluca funciona como disfarce para
+
+633
+00:32:40,045 --> 00:32:43,439
+você, mas uma drag queen
+trabalhando na minha loja, nunca.
+
+634
+00:32:44,832 --> 00:32:46,747
+Bem, talvez eu nem
+devesse trabalhar aqui, então.
+
+635
+00:32:51,186 --> 00:32:53,536
+Ah, ninguém jamais saberia.
+
+636
+00:32:53,580 --> 00:32:55,669
+Serei um trabalhador
+melhor se estiver feliz.
+
+637
+00:32:55,712 --> 00:32:57,323
+Você sabe, todo mundo no meu
+
+638
+00:32:57,366 --> 00:32:58,846
+grupo me diz que
+eu adoro os soluços.
+
+639
+00:33:00,108 --> 00:33:02,589
+Por que tenho que me
+sentir culpado por dizer não?
+
+640
+00:33:04,199 --> 00:33:05,418
+Por favor?
+
+641
+00:33:06,158 --> 00:33:07,681
+Mas 14h30?
+
+642
+00:33:07,724 --> 00:33:10,292
+Por que você não pode
+esperar até 15h30 ou 16h?
+
+643
+00:33:10,336 --> 00:33:11,337
+3:00.
+
+644
+00:33:12,773 --> 00:33:14,731
+JASON: Ok.  OK.
+
+645
+00:33:14,775 --> 00:33:16,777
+Agora, podemos abrir este lugar?
+
+646
+00:33:16,820 --> 00:33:17,996
+Certo, senhor.
+
+647
+00:33:24,002 --> 00:33:24,785
+Bom dia.
+
+648
+00:33:26,178 --> 00:33:29,094
+Sra. O'Brien, prepare
+um café fresco para você.
+
+649
+00:33:29,137 --> 00:33:30,051
+Eu aposto.
+
+650
+00:33:31,357 --> 00:33:33,924
+Eu tenho que encontrar
+algumas coisas realmente boas.
+
+651
+00:33:33,968 --> 00:33:35,535
+Você conhece Beddoes.
+
+652
+00:33:35,578 --> 00:33:38,059
+Ah, eu costumava pensar que
+ele tinha uma inteligência superior.
+
+653
+00:33:38,103 --> 00:33:39,626
+Mas não penso mais nisso.
+
+654
+00:33:39,669 --> 00:33:41,497
+Sim, bem, ele certamente
+sabe quando você está mentindo.
+
+655
+00:33:41,541 --> 00:33:43,586
+Quero dizer... quero dizer, da última
+vez não consegui encontrar meu diário,
+
+656
+00:33:43,630 --> 00:33:44,979
+Inventei algumas coisas muito
+
+657
+00:33:45,023 --> 00:33:46,415
+boas sobre transar
+com o Drácula.
+
+658
+00:33:46,459 --> 00:33:48,026
+Só que ele disse que
+sabia que era falso.
+
+659
+00:33:48,069 --> 00:33:49,549
+Ele disse que os falsos são mandados de volta.
+
+660
+00:33:49,592 --> 00:33:51,855
+Hospital não é tão ruim assim.
+
+661
+00:33:51,899 --> 00:33:53,379
+As pessoas ouvem.
+
+662
+00:33:53,422 --> 00:33:54,728
+Eu sei.
+
+663
+00:33:54,771 --> 00:33:56,208
+Coisas sobre Czares.
+
+664
+00:33:57,296 --> 00:34:00,038
+Não, Robin se
+transformando em Tallulah.
+
+665
+00:34:00,081 --> 00:34:01,169
+Isso foi real.
+
+666
+00:34:01,213 --> 00:34:02,866
+Bem, eles são todos reais, estúpidos.
+
+667
+00:34:04,912 --> 00:34:06,218
+A boca só foi para as janelas,
+
+668
+00:34:06,261 --> 00:34:07,349
+Os beddoes vão adorar.
+
+669
+00:34:07,393 --> 00:34:09,221
+Vou até dar um
+bom sexo para ele.
+
+670
+00:34:09,264 --> 00:34:11,223
+-Tchau.
+-Adeus.
+
+671
+00:34:18,012 --> 00:34:20,667
+LIZA: E os sem mandíbula
+esticaram línguas vermelho-fígado
+
+672
+00:34:20,710 --> 00:34:22,799
+que batia no vidro da janela.
+
+673
+00:34:22,843 --> 00:34:27,065
+Dor, dor, gritos
+de agonia faminta.
+
+674
+00:34:27,108 --> 00:34:30,111
+"Liza, Liza nos devore."
+
+675
+00:34:30,155 --> 00:34:31,939
+E os dentes eram afiados
+
+676
+00:34:31,982 --> 00:34:33,593
+e rasgando irregularmente.
+
+677
+00:34:33,636 --> 00:34:36,074
+Eles rasgariam meus
+mamilos em carne moída.
+
+678
+00:34:36,117 --> 00:34:38,467
+BEDDOES: E o que você fez?
+
+679
+00:34:38,511 --> 00:34:39,990
+Peguei outro Nardil.
+
+680
+00:34:41,557 --> 00:34:44,256
+Você entendeu que os
+rostos não eram reais.
+
+681
+00:34:44,299 --> 00:34:46,475
+Alucinações.
+
+682
+00:34:46,519 --> 00:34:49,478
+Eles vêm apenas de você
+e só você pode controlá-los.
+
+683
+00:34:49,522 --> 00:34:51,524
+Você terá que aprender como.
+
+684
+00:34:51,567 --> 00:34:54,004
+Antes que me esqueça, também
+
+685
+00:34:54,048 --> 00:34:56,050
+estou quase sem Nardil e Valium.
+
+686
+00:34:59,619 --> 00:35:00,968
+BEDDOES: A
+enfermeira Carr relatou
+
+687
+00:35:01,011 --> 00:35:02,404
+você está morando com um homem.
+
+688
+00:35:02,448 --> 00:35:03,101
+Oh?
+
+689
+00:35:04,450 --> 00:35:06,582
+E que há muito centeio
+sendo consumido.
+
+690
+00:35:06,626 --> 00:35:08,323
+Como ela sabe?
+
+691
+00:35:08,367 --> 00:35:09,977
+BEDDOES: O lixo.
+
+692
+00:35:10,020 --> 00:35:12,022
+Ela espiona meu lixo?
+
+693
+00:35:12,066 --> 00:35:14,373
+É para sua própria
+proteção, Liza.
+
+694
+00:35:14,416 --> 00:35:15,852
+Bem, o centeio é do Martin.
+
+695
+00:35:15,896 --> 00:35:18,681
+Quer dizer, ele vem conversar
+e está sempre com frio.
+
+696
+00:35:18,725 --> 00:35:19,769
+BEDDOES: E o homem?
+
+697
+00:35:19,813 --> 00:35:22,120
+Robin é apenas uma
+colega de quarto, só isso.
+
+698
+00:35:22,163 --> 00:35:24,078
+BEDDOES: Ele tem
+outras namoradas?
+
+699
+00:35:24,122 --> 00:35:24,861
+LIZA: Não.
+
+700
+00:35:26,907 --> 00:35:28,474
+Namorados.
+
+701
+00:35:32,782 --> 00:35:33,957
+Você sabe quais são
+os aluguéis hoje em dia?
+
+702
+00:35:34,001 --> 00:35:35,655
+Eu tenho que ter um colega de quarto.
+
+703
+00:35:37,135 --> 00:35:38,832
+Você sabe, Liza, eles abriram
+
+704
+00:35:38,875 --> 00:35:40,921
+uma nova ala em Morningside.
+
+705
+00:35:40,964 --> 00:35:42,662
+Está ensolarado e limpo.
+
+706
+00:35:42,705 --> 00:35:44,098
+Eles estão usando novas terapias.
+
+707
+00:35:44,142 --> 00:35:46,100
+Não não.  Eu estou bem.
+Estou indo muito bem.
+
+708
+00:35:46,144 --> 00:35:48,189
+Eu farei tudo o que você disser.
+Estou bem.  Estou bem.
+
+709
+00:35:48,233 --> 00:35:50,539
+BEDDOES: Você tem
+que ter muito cuidado.
+
+710
+00:35:50,583 --> 00:35:52,846
+A gravidez é impensável
+na sua condição.
+
+711
+00:35:52,889 --> 00:35:55,631
+Não. Robin e eu dormimos...
+dormimos em mundos diferentes.
+
+712
+00:35:58,417 --> 00:36:00,549
+Bem, eu não gosto
+nada da situação.
+
+713
+00:36:01,898 --> 00:36:04,901
+Mas, tudo bem, vamos
+esperar um pouco mais.
+
+714
+00:36:04,945 --> 00:36:08,340
+Mas você deve continuar
+tomando pílulas anticoncepcionais.
+
+715
+00:36:08,383 --> 00:36:10,124
+E o Nardil?
+
+716
+00:36:10,168 --> 00:36:11,734
+Vou telefonar para a farmácia.
+
+717
+00:36:13,519 --> 00:36:14,563
+Obrigado.
+
+718
+00:36:18,785 --> 00:36:20,003
+[Campainha da caixa registradora]
+
+719
+00:36:34,453 --> 00:36:37,412
+Beddoes quer que eu
+volte para Morningside.
+
+720
+00:36:37,456 --> 00:36:39,022
+Ele diz que sempre serei esquizofrênico.
+
+721
+00:36:40,285 --> 00:36:42,722
+Primeiro, houve Joan
+Crawford em Possessed,
+
+722
+00:36:42,765 --> 00:36:45,638
+depois Joanne Woodward
+em As Três Faces de
+
+723
+00:36:45,681 --> 00:36:48,641
+Eva, e agora Liza
+Connor em Schizo Forever.
+
+724
+00:36:48,684 --> 00:36:51,252
+LIZA: Mas, Robin, talvez
+eu não tivesse tantas
+
+725
+00:36:51,296 --> 00:36:53,733
+alucinações se estivesse
+de volta ao hospital.
+
+726
+00:36:53,776 --> 00:36:56,779
+Hum.  Existem três
+coisas importantes
+
+727
+00:36:56,823 --> 00:36:59,129
+na vida: sexo, filmes
+e minha carreira.
+
+728
+00:36:59,173 --> 00:37:00,827
+Você deve pensar
+quase inteiramente
+
+729
+00:37:00,870 --> 00:37:02,263
+neles e nunca em você mesmo.
+
+730
+00:37:03,351 --> 00:37:05,266
+O cérebro de Liza gira e gira,
+
+731
+00:37:05,310 --> 00:37:08,269
+A cabeça de Liza está cheia de sons.
+
+732
+00:37:08,313 --> 00:37:10,184
+Liza é quem nasceu morta,
+
+733
+00:37:10,228 --> 00:37:12,360
+Liza é quem não tem cabeça.
+
+734
+00:37:12,404 --> 00:37:14,188
+Aproxime-se, garoto.
+
+735
+00:37:14,232 --> 00:37:15,058
+Como é isso?
+
+736
+00:37:15,755 --> 00:37:17,496
+O que você está fazendo?
+
+737
+00:37:17,539 --> 00:37:18,801
+É para minha inauguração.
+
+738
+00:37:18,845 --> 00:37:21,326
+O gerente do clube é a...
+aberração de Bette Davis.
+
+739
+00:37:21,369 --> 00:37:23,110
+LIZA: Ah, Robin,
+você vai fazer isso!
+
+740
+00:37:24,503 --> 00:37:26,809
+Levei horas para
+encontrar o registro dela.
+
+741
+00:37:26,853 --> 00:37:30,291
+LIZA: Você vai precisar de um
+vestido, um vestido muito bom.
+
+742
+00:37:30,335 --> 00:37:32,293
+Pode apostar.  Não
+foi uma sorte que eles
+
+743
+00:37:32,337 --> 00:37:33,860
+te ensinaram a costurar
+na lata de nozes?
+
+744
+00:37:34,861 --> 00:37:37,516
+LIZA: Ah, Robin.
+Minha máquina antiga!
+
+745
+00:37:37,559 --> 00:37:40,954
+Agora, quero algo inteligente
+e sensato até sábado.
+
+746
+00:37:40,997 --> 00:37:44,000
+[Música, tocando]
+
+747
+00:37:51,747 --> 00:37:53,227
+MULHER: ♪ Saia
+
+748
+00:37:53,271 --> 00:37:56,230
+♪ Existe um mundo
+que você nunca viu ♪
+
+749
+00:37:58,972 --> 00:38:00,278
+♪ Saia
+
+750
+00:38:00,321 --> 00:38:03,803
+♪ Não adianta viver no meio ♪
+
+751
+00:38:06,022 --> 00:38:09,243
+♪ Chame o estranho
+que mora lá dentro ♪
+
+752
+00:38:09,287 --> 00:38:10,592
+♪ Não há perigo
+
+753
+00:38:10,636 --> 00:38:13,291
+♪ Você tem que sair
+
+754
+00:38:15,380 --> 00:38:19,340
+♪ Ah, você pode
+colocar fogo no mundo ♪
+
+755
+00:38:19,384 --> 00:38:22,909
+♪ Você pode colocar
+fogo no mundo ♪
+
+756
+00:38:22,952 --> 00:38:25,607
+♪ Você pode colocar
+fogo no mundo ♪
+
+757
+00:38:25,651 --> 00:38:30,046
+♪ Se você tentar
+
+758
+00:38:30,090 --> 00:38:31,918
+♪ É fácil
+
+759
+00:38:31,961 --> 00:38:34,007
+♪ Fácil
+
+760
+00:38:34,050 --> 00:38:36,270
+♪ Calma, ah
+
+761
+00:38:36,314 --> 00:38:37,837
+♪ Você tem que definir...
+
+762
+00:38:37,880 --> 00:38:39,447
+Linha antiga terrível.
+
+763
+00:38:39,491 --> 00:38:41,275
+Achei que tinha
+algumas coisas boas aqui.
+
+764
+00:38:41,319 --> 00:38:42,581
+Isso é uma porcaria.
+
+765
+00:38:42,624 --> 00:38:44,626
+Você viu alguns
+desses caras no teatro?
+
+766
+00:38:44,670 --> 00:38:46,193
+Ah, uau.
+
+767
+00:38:46,236 --> 00:38:48,456
+MULHER: ♪...o tempo todo
+
+768
+00:38:48,500 --> 00:38:50,632
+♪ Saia
+
+769
+00:38:50,676 --> 00:38:53,896
+♪ Saia.  Sair.  Saia ♪
+
+770
+00:38:53,940 --> 00:38:55,463
+♪ Até você brilhar
+
+771
+00:38:55,507 --> 00:38:56,943
+♪ Apenas saia
+
+772
+00:38:56,986 --> 00:38:59,598
+♪ Ai, vamos lá e só...
+
+773
+00:38:59,641 --> 00:39:01,687
+Eu não sei o que dizer.
+
+774
+00:39:01,730 --> 00:39:02,905
+MULHER: ♪ Experimente
+
+775
+00:39:02,949 --> 00:39:04,385
+♪ Saia
+
+776
+00:39:04,429 --> 00:39:07,040
+♪ Outra coisa é você sair ♪
+
+777
+00:39:07,083 --> 00:39:10,086
+[Felicidades e aplausos]
+
+778
+00:39:14,569 --> 00:39:15,744
+ROBIN: O que eu vou dizer?
+
+779
+00:39:15,788 --> 00:39:17,616
+É muito tarde.
+
+780
+00:39:17,659 --> 00:39:19,357
+Você vai dizer isso para mim,
+
+781
+00:39:19,400 --> 00:39:22,229
+Ms. Montego Bay é a peça
+mais badalada da cidade.
+
+782
+00:39:22,272 --> 00:39:24,797
+Agora, mexa essa bunda branca, querido.
+
+783
+00:39:26,407 --> 00:39:27,582
+Pode apostar.
+
+784
+00:39:33,980 --> 00:39:36,025
+[Aplausos]
+
+785
+00:39:36,069 --> 00:39:39,202
+Anita Bryant me
+mandou aqui para dar um
+
+786
+00:39:39,246 --> 00:39:41,030
+pouco de bom senso às
+suas frutas congeladas.
+
+787
+00:39:41,074 --> 00:39:42,989
+[Rindo]
+
+788
+00:39:43,032 --> 00:39:44,817
+[Aplausos]
+
+789
+00:39:45,774 --> 00:39:47,733
+HOMEM: Comece a apertar, mamãe.
+
+790
+00:39:47,776 --> 00:39:49,561
+[Risos e aplausos]
+
+791
+00:39:51,084 --> 00:39:53,434
+ROBIN: Oh, que lixo.
+
+792
+00:39:53,478 --> 00:39:55,436
+[Rindo]
+
+793
+00:39:55,480 --> 00:39:57,569
+Falando em Joan Crawford.
+
+794
+00:39:57,612 --> 00:40:00,223
+Joan e eu estávamos
+relembrando recentemente
+
+795
+00:40:00,267 --> 00:40:01,964
+e eu a lembrei de
+todos os momentos
+
+796
+00:40:02,008 --> 00:40:05,098
+que ela tinha sido má, E
+
+797
+00:40:05,141 --> 00:40:06,447
+maiúsculo, má, em suas fotos.
+
+798
+00:40:06,491 --> 00:40:08,449
+Suas fotos muito comoventes.
+
+799
+00:40:08,493 --> 00:40:10,408
+Você se lembra, Mildred Pierce,
+
+800
+00:40:10,451 --> 00:40:12,453
+ela interpretou
+uma garçonete, mas
+
+801
+00:40:12,497 --> 00:40:16,414
+mal podia esperar
+para bater em Ann Blyth
+
+802
+00:40:16,457 --> 00:40:19,591
+porque ela estava roubando
+o namorado, Zachary Scott.
+
+803
+00:40:19,634 --> 00:40:21,462
+Bem, Joan deu-lhe os ombros
+
+804
+00:40:21,506 --> 00:40:23,072
+e o tratamento completo.
+
+805
+00:40:26,641 --> 00:40:28,469
+Vida, sua vagabunda.  [Tapa]
+
+806
+00:40:28,513 --> 00:40:31,516
+[Felicidades e aplausos]
+
+807
+00:40:37,696 --> 00:40:39,698
+ROBIN: Então, é claro, anos
+
+808
+00:40:39,741 --> 00:40:41,439
+depois, ela se
+formou em digitadora
+
+809
+00:40:41,482 --> 00:40:43,702
+que não sabia
+digitar, pois estava
+
+810
+00:40:43,745 --> 00:40:45,007
+saindo com
+paciente ambulatorial.
+
+811
+00:40:45,051 --> 00:40:47,575
+Onde mais você iria com
+um paciente ambulatorial?
+
+812
+00:40:47,619 --> 00:40:50,012
+E um dia ele pegou a máquina de
+
+813
+00:40:50,056 --> 00:40:51,840
+escrever dela e
+quebrou a mão dela.
+
+814
+00:40:51,884 --> 00:40:53,494
+Ela pegou sua mão boa e acertou
+
+815
+00:40:53,538 --> 00:40:56,584
+Vera Miles bem na bochecha.
+
+816
+00:40:56,628 --> 00:40:58,804
+[Rindo]
+
+817
+00:40:59,805 --> 00:41:01,720
+Ora, sua putinha.  [Tapa]
+
+818
+00:41:01,763 --> 00:41:04,766
+[Felicidades e aplausos]
+
+819
+00:41:07,552 --> 00:41:10,032
+Finalmente consegui
+levá-la onde a quero.
+
+820
+00:41:11,512 --> 00:41:13,296
+[Rindo]
+
+821
+00:41:13,340 --> 00:41:15,124
+Vamos, Branca.
+
+822
+00:41:15,168 --> 00:41:17,344
+Vamos dar um passeio.
+
+823
+00:41:17,387 --> 00:41:21,479
+[Risos e aplausos]
+
+824
+00:41:21,522 --> 00:41:24,046
+"Oh, Jane. Você não
+me trataria tão cruelmente
+
+825
+00:41:24,090 --> 00:41:25,657
+se eu não estivesse em
+uma cadeira de rodas."
+
+826
+00:41:25,700 --> 00:41:27,485
+[Rindo]
+
+827
+00:41:28,529 --> 00:41:29,922
+Mas você é.
+
+828
+00:41:29,965 --> 00:41:32,968
+[Felicidades e aplausos]
+
+829
+00:41:52,814 --> 00:41:54,512
+ROBIN: Agora, chega de nostalgia.
+
+830
+00:41:54,555 --> 00:41:57,210
+Eu gostaria de apresentar
+um pouco de alegria de Natal,
+
+831
+00:41:57,253 --> 00:41:59,865
+Sr.
+
+832
+00:42:02,084 --> 00:42:05,044
+LIZA: Oh, Robin,
+você os deslumbrou!
+
+833
+00:42:05,087 --> 00:42:07,263
+Por favor, detesto
+sentimentos baratos.
+
+834
+00:42:07,307 --> 00:42:10,310
+[Música, tocando]
+
+835
+00:42:11,529 --> 00:42:14,706
+♪ Noites frias e
+geladas de inverno ♪
+
+836
+00:42:14,749 --> 00:42:18,057
+♪ Lance um feitiço
+de puro deleite ♪
+
+837
+00:42:18,100 --> 00:42:21,060
+♪ As crianças estão esperando
+
+838
+00:42:21,103 --> 00:42:24,846
+♪ Em breve será Natal
+
+839
+00:42:24,890 --> 00:42:28,154
+♪ Paz e amor estão no ar ♪
+
+840
+00:42:28,197 --> 00:42:31,549
+♪ Felicidade para todos compartilharem
+
+841
+00:42:31,592 --> 00:42:34,421
+♪ As crianças estão esperando
+
+842
+00:42:34,464 --> 00:42:37,598
+♪ Em breve será Natal
+
+843
+00:42:39,121 --> 00:42:43,691
+♪ Se pudéssemos manter
+esse sentimento especial ♪
+
+844
+00:42:43,735 --> 00:42:45,693
+♪ Ao longo do ano
+
+845
+00:42:45,737 --> 00:42:48,174
+♪ Então, todos os dias
+
+846
+00:42:48,217 --> 00:42:50,306
+♪ Seria muito
+
+847
+00:42:50,350 --> 00:42:51,873
+♪ Como o Natal
+
+848
+00:42:53,222 --> 00:42:56,617
+♪ As crianças cantam e
+os sinos da igreja tocam ♪
+
+849
+00:42:56,661 --> 00:43:00,316
+♪ Nos dizendo que está quase na hora
+
+850
+00:43:00,360 --> 00:43:02,710
+♪ Todos estão esperando
+
+851
+00:43:02,754 --> 00:43:06,409
+♪ Em breve será Natal
+
+852
+00:43:06,453 --> 00:43:09,456
+[Música, tocando]
+
+853
+00:43:20,206 --> 00:43:23,426
+JACKIE: ♪ Paz e
+amor estão no ar ♪
+
+854
+00:43:23,470 --> 00:43:26,995
+♪ Felicidade para todos compartilharem
+
+855
+00:43:27,039 --> 00:43:29,650
+♪ As crianças estão esperando
+
+856
+00:43:29,694 --> 00:43:32,827
+♪ Em breve será Natal
+
+857
+00:43:34,481 --> 00:43:38,877
+♪ Se pudéssemos manter
+esse sentimento especial ♪
+
+858
+00:43:38,920 --> 00:43:41,270
+♪ Ao longo do ano
+
+859
+00:43:41,314 --> 00:43:43,621
+♪ Então, todos os dias
+
+860
+00:43:43,664 --> 00:43:45,623
+♪ Seria muito
+
+861
+00:43:45,666 --> 00:43:47,233
+♪ Como o Natal
+
+862
+00:43:48,582 --> 00:43:51,890
+♪ As crianças cantam e
+os sinos da igreja tocam ♪
+
+863
+00:43:51,933 --> 00:43:55,633
+♪ Nos dizendo que está quase na hora
+
+864
+00:43:55,676 --> 00:43:57,983
+♪ Todos estão esperando
+
+865
+00:43:58,026 --> 00:44:01,508
+♪ Em breve será Natal
+
+866
+00:44:04,859 --> 00:44:10,996
+♪ Em breve será Natal
+
+867
+00:44:11,039 --> 00:44:14,042
+[Conversa indistinta]
+
+868
+00:44:20,832 --> 00:44:23,617
+Mais gim e um prato
+de comida, por favor.
+
+869
+00:44:23,661 --> 00:44:24,705
+Drags são os piores.
+
+870
+00:44:24,749 --> 00:44:26,228
+Hum.
+
+871
+00:44:26,272 --> 00:44:28,143
+Ela costumava escrever muito
+bem quando estávamos na escola.
+
+872
+00:44:28,187 --> 00:44:29,710
+Eu me pergunto se ela
+ainda está escrevendo.
+
+873
+00:44:29,754 --> 00:44:30,885
+MULHER: Não sei.
+
+874
+00:44:36,325 --> 00:44:38,197
+Que é aquele?
+
+875
+00:44:38,240 --> 00:44:40,678
+Essa é Jo, ela é
+editora de revista.
+
+876
+00:44:40,721 --> 00:44:43,115
+Ela era a garota mais popular
+da minha turma de graduação.
+
+877
+00:44:43,158 --> 00:44:44,725
+-MARTIN: O outro?
+-LIZA: Ah, Anne.
+
+878
+00:44:44,769 --> 00:44:46,205
+Aposto que ela é uma revolucionária.
+
+879
+00:44:46,248 --> 00:44:49,425
+Ela é até construída
+como uma revolucionária.
+
+880
+00:44:49,469 --> 00:44:50,426
+LIZA: Anne é gay, Martin.
+
+881
+00:44:51,601 --> 00:44:52,602
+Faz sentido.
+
+882
+00:44:54,082 --> 00:44:56,824
+Mas Jo... mas Jo é hétero e
+ela realmente adoraria você.
+
+883
+00:44:56,868 --> 00:44:59,914
+-Porque ela foi mandada embora.
+-Claro.
+
+884
+00:44:59,958 --> 00:45:02,047
+HOMEM: Então, por que não
+lhe pagam se ele é tão dinamite,
+
+885
+00:45:02,090 --> 00:45:03,657
+você sabe, 20 dólares por show?
+
+886
+00:45:03,701 --> 00:45:06,181
+HOMEM: No Canadá, nós
+nos apresentamos por amor.
+
+887
+00:45:06,225 --> 00:45:08,096
+Os clubes gays desta cidade
+não ganham dinheiro suficiente.
+
+888
+00:45:08,140 --> 00:45:10,055
+Ninguém é pago para fazer drag.
+
+889
+00:45:10,098 --> 00:45:13,449
+Sim.  Bem, ser gay é
+uma coisa, mas fazer drag.
+
+890
+00:45:13,493 --> 00:45:15,582
+Oh.
+
+891
+00:45:15,625 --> 00:45:20,848
+HOMEM: Docinho,
+ele quer libertar as
+
+892
+00:45:20,892 --> 00:45:22,502
+bichas jeans e prender
+a rainha do cetim.
+
+893
+00:45:23,808 --> 00:45:27,942
+Agora não... talvez possamos
+dar um passeio mais tarde.
+
+894
+00:45:27,986 --> 00:45:31,032
+Motorista de táxi, um táxi amarelo,
+
+895
+00:45:31,076 --> 00:45:33,774
+na noite anterior, ela
+estava com um Metro Cab.
+
+896
+00:45:33,818 --> 00:45:35,863
+JO: Você queria ser uma
+menina quando era pequena?
+
+897
+00:45:35,907 --> 00:45:38,170
+ROBIN: Ah, foi
+tão trágico ter que
+
+898
+00:45:38,213 --> 00:45:40,302
+usar o sutiã da
+mamãe para ir à escola.
+
+899
+00:45:40,346 --> 00:45:42,957
+[Música, tocando]
+
+900
+00:45:43,001 --> 00:45:45,003
+JO: Mas quem é o
+verdadeiro Robin Turner?
+
+901
+00:45:45,046 --> 00:45:47,309
+ROBIN: Talvez haja
+muitos Robin Turners.
+
+902
+00:45:47,353 --> 00:45:50,660
+Talvez eu seja uma pessoa plural.
+
+903
+00:45:50,704 --> 00:45:52,967
+Isso não faz sentido.
+
+904
+00:45:53,011 --> 00:45:56,536
+Fazer sentido é Jo, Jo, querido.
+
+905
+00:45:56,579 --> 00:45:59,582
+[Música, tocando]
+
+906
+00:46:02,847 --> 00:46:04,283
+ROBIN: Obrigado, querido.
+
+907
+00:46:07,721 --> 00:46:10,245
+Liza, copos vazios.
+
+908
+00:46:10,289 --> 00:46:13,292
+[Música, tocando]
+
+909
+00:46:16,643 --> 00:46:19,124
+ROBIN: Você viu
+minha coleção de discos?
+
+910
+00:46:19,167 --> 00:46:20,778
+Venha aqui, dê uma olhada.
+
+911
+00:46:22,649 --> 00:46:25,521
+Esse cara subornou uma
+ex-Senhorita Mais Fabulosa.
+
+912
+00:46:25,565 --> 00:46:28,568
+[Conversa indistinta]
+
+913
+00:46:30,352 --> 00:46:31,919
+Ah, se for Dino De
+Laurentiis, diga a ele que
+
+914
+00:46:31,963 --> 00:46:34,313
+não estou falando com
+ele e ele sabe por quê.
+
+915
+00:46:34,356 --> 00:46:37,359
+[Telefone tocando]
+
+916
+00:46:42,321 --> 00:46:43,017
+Olá?
+
+917
+00:46:44,236 --> 00:46:45,541
+Ah, mãe.
+
+918
+00:46:46,716 --> 00:46:48,283
+Bem, Feliz Natal, mãe.
+
+919
+00:46:49,894 --> 00:46:52,940
+Não, mãe, eu sei que dia é hoje.
+
+920
+00:46:52,984 --> 00:46:55,029
+Feliz véspera de Natal, eu quis dizer.
+
+921
+00:46:57,902 --> 00:47:01,253
+Não, tenho certeza de que
+Beddoes não quis dizer isso.
+
+922
+00:47:01,296 --> 00:47:04,691
+Não, não estou tendo
+mais alucinações.
+
+923
+00:47:04,734 --> 00:47:07,302
+Olha, eu não me importo se eles
+fizerem cruzeiros no Mediterrâneo.
+
+924
+00:47:07,346 --> 00:47:10,479
+Não voltarei mais a
+nenhum hospital, mãe.
+
+925
+00:47:12,917 --> 00:47:14,701
+Bem, você pode dizer ao
+papai para parar com isso.
+
+926
+00:47:14,744 --> 00:47:16,311
+Seu cartão de
+Natal está no correio.
+
+927
+00:47:16,355 --> 00:47:17,486
+Boa noite!
+
+928
+00:47:17,530 --> 00:47:20,838
+[Música, tocando]
+
+929
+00:47:23,405 --> 00:47:26,887
+HOMEM: Ah, nunca use seus
+números de telefone no pulso.
+
+930
+00:47:26,931 --> 00:47:27,932
+O que?
+
+931
+00:47:27,975 --> 00:47:30,717
+Você poderia obter uma reputação.
+
+932
+00:47:38,812 --> 00:47:40,422
+O que há de errado, querido?
+
+933
+00:47:42,250 --> 00:47:44,644
+Acho que estou um pouco cansado.
+
+934
+00:47:44,687 --> 00:47:46,515
+Talvez eu dê uma
+mordidinha em alguma coisa.
+
+935
+00:47:48,213 --> 00:47:50,606
+JO: Você ainda não comeu nada?
+
+936
+00:47:50,650 --> 00:47:51,999
+Não, acho que não.
+
+937
+00:47:52,043 --> 00:47:53,740
+Quer dizer que Robin deixou você
+
+938
+00:47:53,783 --> 00:47:55,785
+servir todo mundo e
+não se permitiu comer?
+
+939
+00:47:55,829 --> 00:47:58,049
+Eu não estava com fome antes.
+
+940
+00:47:58,092 --> 00:48:00,181
+Ele é um homem assim.
+
+941
+00:48:01,008 --> 00:48:02,575
+Vou ver o que posso encontrar.
+
+942
+00:48:04,098 --> 00:48:05,839
+ROBIN: O pequeno
+Maywith não é um homem.
+
+943
+00:48:05,883 --> 00:48:07,362
+Ela é apenas uma mulher muito durona.
+
+944
+00:48:07,406 --> 00:48:10,148
+-Sem ofensa.
+-ANNE: Seu viado.
+
+945
+00:48:11,366 --> 00:48:13,499
+-Estou trabalhando nisso.
+-ANNE: Ok, ok.
+
+946
+00:48:13,542 --> 00:48:14,935
+Pare com a atuação
+de Shirley Temple, sim,
+
+947
+00:48:14,979 --> 00:48:16,850
+pode acontecer com
+Liza, mas comigo não.
+
+948
+00:48:16,894 --> 00:48:18,286
+O que?
+
+949
+00:48:18,330 --> 00:48:20,332
+Enquanto você esteve lá
+fora, balançando e bebendo,
+
+950
+00:48:20,375 --> 00:48:22,073
+ela está trabalhando
+como uma maldita escrava,
+
+951
+00:48:22,116 --> 00:48:24,249
+e ela nem teve tempo
+de comer sozinha.
+
+952
+00:48:24,292 --> 00:48:26,294
+-JO: Ela é muito magra, Robin.
+-Anne, Jo, por favor.
+
+953
+00:48:26,338 --> 00:48:27,687
+ROBIN: Eu não sabia
+que ela não comia.
+
+954
+00:48:27,730 --> 00:48:29,428
+JO: Ah, não tem nada, nem sopa.
+
+955
+00:48:29,471 --> 00:48:30,951
+Bem, então vou sair
+para alguma coisa.
+
+956
+00:48:30,995 --> 00:48:34,041
+Você é um bicha doente,
+
+957
+00:48:34,085 --> 00:48:35,434
+sedento de poder e egoísta,
+
+958
+00:48:35,477 --> 00:48:37,131
+e você precisa de
+alguém para empurrar.
+
+959
+00:48:37,175 --> 00:48:39,394
+Então chega Liza, alguém
+que está perturbado, alguém que
+
+960
+00:48:39,438 --> 00:48:41,570
+não pode reclamar, não
+importa o que você faça com ela.
+
+961
+00:48:41,614 --> 00:48:42,789
+JO: Porque ela te ama.
+
+962
+00:48:42,832 --> 00:48:43,964
+ANNE: Você acha que ela te ama.
+
+963
+00:48:44,008 --> 00:48:47,098
+Ela está doente e você a usa.
+
+964
+00:48:47,141 --> 00:48:50,144
+[Música, tocando]
+
+965
+00:48:54,975 --> 00:48:58,196
+Não mime ele, isso é
+ruim para vocês dois.
+
+966
+00:48:58,239 --> 00:48:59,545
+-Liza.
+-Não faça isso.
+
+967
+00:48:59,588 --> 00:49:01,851
+Ninguém pode fazer isso.
+
+968
+00:49:01,895 --> 00:49:03,244
+Robin.
+
+969
+00:49:03,288 --> 00:49:05,464
+Robin, por favor, não
+me deixe aqui com eles.
+
+970
+00:49:05,507 --> 00:49:08,510
+[Música, tocando]
+
+971
+00:49:23,612 --> 00:49:25,571
+Eu me aproveito de você?
+
+972
+00:49:25,614 --> 00:49:26,572
+Não.
+
+973
+00:49:27,703 --> 00:49:29,749
+Eu queria que essa
+festa fosse muito
+
+974
+00:49:29,792 --> 00:49:33,405
+feliz, e agora é como
+o Vale das Bonecas.
+
+975
+00:49:33,448 --> 00:49:35,146
+A única coisa verdadeira que
+
+976
+00:49:35,189 --> 00:49:37,191
+disseram por aí
+foi que eu te amo.
+
+977
+00:49:37,235 --> 00:49:40,238
+[soluços]
+
+978
+00:49:44,807 --> 00:49:47,810
+[Música, tocando]
+
+979
+00:49:51,945 --> 00:49:54,034
+JASON: Tudo bem, o
+que você está fazendo?
+
+980
+00:49:54,078 --> 00:49:55,470
+ROBIN: Ah, cheguei
+um pouco mais cedo, faço
+
+981
+00:49:55,514 --> 00:49:58,038
+todas as garotas para o
+grande show de Páscoa.
+
+982
+00:49:58,082 --> 00:49:59,866
+Peggy, Tallulah, Betty.
+
+983
+00:49:59,909 --> 00:50:01,999
+O filho de Peggy O'Brien é gay.
+
+984
+00:50:02,042 --> 00:50:03,478
+Uau.
+
+985
+00:50:03,522 --> 00:50:06,046
+Ela o pegou fazendo o
+telefonema no escritório.
+
+986
+00:50:06,090 --> 00:50:07,308
+Ele contou tudo a ela.
+
+987
+00:50:07,352 --> 00:50:09,919
+A libertação chega a Thorncliffe.
+
+988
+00:50:09,963 --> 00:50:12,096
+Você sabe, ele até contou a ela
+sobre aquele clube bacana que
+
+989
+00:50:12,139 --> 00:50:15,925
+ele frequenta, onde alguns
+homens se vestem como mulheres.
+
+990
+00:50:15,969 --> 00:50:17,579
+Homens que ela conhece...
+
+991
+00:50:18,885 --> 00:50:20,365
+Você está demitido.
+
+992
+00:50:23,716 --> 00:50:25,283
+Maneira de apostar--
+
+993
+00:50:25,326 --> 00:50:27,502
+somos mãe-- o quê?
+
+994
+00:50:27,546 --> 00:50:29,069
+Oh, ei, desculpe,
+sinto muito, sim, certo.
+
+995
+00:50:29,113 --> 00:50:30,940
+Muito obrigado, tchau.
+
+996
+00:50:30,984 --> 00:50:33,987
+[Risos]
+
+997
+00:50:45,520 --> 00:50:47,609
+-Anúncio.
+-LIZA: Hein?
+
+998
+00:50:49,002 --> 00:50:51,091
+-O que?
+-Os pelos pubianos de Jason Tinsley.
+
+999
+00:50:51,135 --> 00:50:52,266
+Você está demitido?
+
+1000
+00:50:52,310 --> 00:50:53,789
+ROBIN: Hum-hmm.
+
+1001
+00:50:53,833 --> 00:50:56,836
+Se eu quiser trabalhar nesta
+cidade, tenho que parar com a chatice.
+
+1002
+00:50:56,879 --> 00:51:00,970
+Oh, bem, agora meu anúncio.
+
+1003
+00:51:01,014 --> 00:51:02,885
+Não sou eu que nasci morto.
+
+1004
+00:51:02,929 --> 00:51:04,713
+Robin, estou grávida.
+
+1005
+00:51:04,757 --> 00:51:05,888
+Robin: Você está brincando.
+
+1006
+00:51:05,932 --> 00:51:07,107
+Não.
+
+1007
+00:51:07,151 --> 00:51:10,676
+Acho que é um urso
+peludo, Yellow Cab, eu acho.
+
+1008
+00:51:10,719 --> 00:51:11,894
+Você contou a ele?
+
+1009
+00:51:11,938 --> 00:51:14,419
+Por que?  Este é meu bebê.
+
+1010
+00:51:14,462 --> 00:51:15,681
+Você vai ter isso?
+
+1011
+00:51:15,724 --> 00:51:17,248
+Sim, logo após o Ano Novo.
+
+1012
+00:51:17,291 --> 00:51:20,381
+Prova que estou vivo.
+Eles nunca poderão me pegar agora.
+
+1013
+00:51:20,425 --> 00:51:22,296
+Os bebês são caros.
+
+1014
+00:51:22,340 --> 00:51:23,993
+Sim, eu sei, mas
+vamos resolver isso.
+
+1015
+00:51:24,037 --> 00:51:25,691
+Nós vamos resolver isso.
+Eu sei que iremos.
+
+1016
+00:51:27,954 --> 00:51:29,651
+BEDDOES: Mas as
+pílulas anticoncepcionais.
+
+1017
+00:51:31,653 --> 00:51:33,742
+Tomo tantos comprimidos
+que fico confuso.
+
+1018
+00:51:35,135 --> 00:51:37,659
+O aborto vai ser muito
+difícil para o seu organismo.
+
+1019
+00:51:37,703 --> 00:51:39,879
+Não vou fazer um
+aborto, vou ter um filho.
+
+1020
+00:51:39,922 --> 00:51:42,011
+Liza, você não pode ter um filho.
+
+1021
+00:51:42,055 --> 00:51:44,144
+Todas as pílulas que você precisa
+tomar, você não é forte o suficiente.
+
+1022
+00:51:44,188 --> 00:51:46,233
+LIZA: Eu também estou, sou forte
+
+1023
+00:51:46,277 --> 00:51:47,626
+e viva, assim como todo mundo.
+
+1024
+00:51:47,669 --> 00:51:49,584
+Mas uma gravidez
+pode desequilibrar você.
+
+1025
+00:51:49,628 --> 00:51:52,239
+Você estará de volta a
+Morningside em pouco tempo.
+
+1026
+00:51:52,283 --> 00:51:54,023
+Ah, não, não vou.
+
+1027
+00:51:54,067 --> 00:51:57,244
+Eles não aceitam gestantes
+nas enfermarias trancadas.
+
+1028
+00:51:57,288 --> 00:52:00,291
+[Música, tocando]
+
+1029
+00:52:01,640 --> 00:52:04,033
+São apenas minhas contas.
+
+1030
+00:52:04,077 --> 00:52:07,080
+[Música, tocando]
+
+1031
+00:52:11,084 --> 00:52:11,824
+LISA: Robin.
+
+1032
+00:52:13,391 --> 00:52:16,394
+Não se preocupe.  Se os perdermos,
+eles nos enviarão mais alguns.
+
+1033
+00:52:16,437 --> 00:52:19,440
+[Música, tocando]
+
+1034
+00:52:20,528 --> 00:52:21,834
+MARTIN: Vamos, Liza,
+
+1035
+00:52:21,877 --> 00:52:24,358
+Já vi outras mulheres
+grávidas na praia.
+
+1036
+00:52:24,402 --> 00:52:25,751
+Ninguém se importa.
+
+1037
+00:52:25,794 --> 00:52:27,927
+E estou cansado de
+ficar sozinho o tempo todo.
+
+1038
+00:52:27,970 --> 00:52:30,147
+Martin, tenho muito que fazer.
+
+1039
+00:52:33,324 --> 00:52:34,716
+Bem, é a boa história?
+
+1040
+00:52:35,848 --> 00:52:38,329
+Um pouco prematuro.
+Robin triunfa?
+
+1041
+00:52:38,372 --> 00:52:38,938
+Isso vai acontecer!
+
+1042
+00:52:40,244 --> 00:52:43,072
+Mas, é tempo de volta às
+aulas novamente e um ano,
+
+1043
+00:52:43,116 --> 00:52:44,204
+nada ainda.
+
+1044
+00:52:44,248 --> 00:52:46,206
+Vou escrever outra
+carta para o Papai Noel.
+
+1045
+00:52:46,250 --> 00:52:49,209
+[Música, tocando]
+
+1046
+00:52:57,435 --> 00:52:59,654
+Desta vez, eu consegui.
+
+1047
+00:52:59,698 --> 00:53:02,048
+Eu realmente tenho isso.
+
+1048
+00:53:02,091 --> 00:53:04,050
+Karen Black, como
+
+1049
+00:53:04,093 --> 00:53:07,009
+ela estava em Nashville.
+
+1050
+00:53:07,053 --> 00:53:09,969
+Bem, cruze os olhos
+e espere morrer.
+
+1051
+00:53:10,012 --> 00:53:12,232
+Robin, ela é uma atriz.
+
+1052
+00:53:12,276 --> 00:53:14,887
+Ah, por que você
+simplesmente não pula a bola
+
+1053
+00:53:14,930 --> 00:53:17,237
+e faz uma apresentação
+no clube este ano?
+
+1054
+00:53:17,281 --> 00:53:18,804
+Ei.
+
+1055
+00:53:18,847 --> 00:53:20,762
+Mas o que posso fazer?
+
+1056
+00:53:20,806 --> 00:53:22,677
+O que quer que Robin lhe diga para fazer.
+
+1057
+00:53:23,678 --> 00:53:25,985
+Posso usar vermelho?
+
+1058
+00:53:27,291 --> 00:53:29,380
+Não. Apenas preto e branco.
+
+1059
+00:53:29,423 --> 00:53:31,860
+Oh, você poderia me mostrar
+alguns passos de dança?
+
+1060
+00:53:31,904 --> 00:53:33,253
+Querida, quando eu
+terminar com você,
+
+1061
+00:53:33,297 --> 00:53:36,082
+Farei com que você se
+mova por todo o andar.
+
+1062
+00:53:37,866 --> 00:53:39,303
+-Ei.
+-Ola meninos.
+
+1063
+00:53:40,260 --> 00:53:42,393
+Você está procurando um bom momento?
+
+1064
+00:53:42,436 --> 00:53:43,481
+Uau.
+
+1065
+00:53:44,830 --> 00:53:47,136
+Um pouco certinho, mas é você.
+
+1066
+00:53:47,180 --> 00:53:50,227
+[Rindo]
+
+1067
+00:53:50,270 --> 00:53:52,925
+Não, o que eu quero te dizer é,
+
+1068
+00:53:52,968 --> 00:53:56,145
+Eu entendi... Na verdade,
+fui a um bazar do Hadassah.
+
+1069
+00:53:56,189 --> 00:53:58,583
+E eu peguei essa máquina grande,
+
+1070
+00:53:58,626 --> 00:54:00,367
+como você chama?  Uma Moviola.
+
+1071
+00:54:00,411 --> 00:54:03,762
+E nós mesmos cortamos a
+foto, porque assim a gente pega
+
+1072
+00:54:03,805 --> 00:54:06,808
+o ponto de vista de uma
+mulher, sabe, dessa mulher.
+
+1073
+00:54:06,852 --> 00:54:08,506
+-[Rindo]
+-E, hum.
+
+1074
+00:54:08,549 --> 00:54:10,247
+Na verdade, tive um
+diálogo muito bom
+
+1075
+00:54:10,290 --> 00:54:12,249
+com Kristofferson
+durante todo o filme.
+
+1076
+00:54:12,292 --> 00:54:15,556
+Se você se lembra,
+toda vez que ele diz,
+
+1077
+00:54:15,600 --> 00:54:18,211
+"Observe atentamente agora."
+
+1078
+00:54:18,255 --> 00:54:19,517
+Eu diria: "Corta!"
+
+1079
+00:54:19,560 --> 00:54:21,693
+E por falar em estrelas, é
+
+1080
+00:54:21,736 --> 00:54:24,217
+muito bom ter nascido estrela.
+
+1081
+00:54:24,261 --> 00:54:25,218
+Sim.
+
+1082
+00:54:25,262 --> 00:54:28,265
+[Felicidades e aplausos]
+
+1083
+00:54:31,311 --> 00:54:32,791
+ROBIN: E agora, onde estou?
+
+1084
+00:54:32,834 --> 00:54:35,750
+E o nosso próximo...
+falando em estrelas,
+
+1085
+00:54:35,794 --> 00:54:38,362
+nosso próximo artista
+não é um deles, mas...
+
+1086
+00:54:38,405 --> 00:54:39,667
+[Rindo]
+
+1087
+00:54:39,711 --> 00:54:43,410
+não, mas sei que
+com a sua ajuda e meu
+
+1088
+00:54:43,454 --> 00:54:45,412
+coaching, podemos
+realmente conseguir.
+
+1089
+00:54:45,456 --> 00:54:47,501
+Abram o caminho, rapazes, vamos lá.
+Limpe o caminho.
+
+1090
+00:54:47,545 --> 00:54:49,242
+E vamos trazer a irmã Perry.
+
+1091
+00:54:49,286 --> 00:54:51,592
+[Multidão aplaudindo]
+
+1092
+00:54:51,636 --> 00:54:54,639
+[Música, tocando]
+
+1093
+00:54:59,600 --> 00:55:02,734
+PERRY: ♪ Ave...
+
+1094
+00:55:02,777 --> 00:55:08,653
+♪ Maria
+
+1095
+00:55:11,046 --> 00:55:16,356
+♪ Gratidão plena
+
+1096
+00:55:18,184 --> 00:55:20,447
+♪ Maria
+
+1097
+00:55:20,491 --> 00:55:25,713
+♪ Gratidão plena
+
+1098
+00:55:25,757 --> 00:55:27,933
+♪ Maria
+
+1099
+00:55:27,976 --> 00:55:33,155
+♪ Gratidão plena
+
+1100
+00:55:33,199 --> 00:55:35,506
+♪ Avenida
+
+1101
+00:55:35,549 --> 00:55:39,031
+♪ Ave Dominus
+
+1102
+00:55:39,074 --> 00:55:42,600
+HOMEM: ♪ Você deveria
+ver o parceiro dela ♪
+
+1103
+00:55:42,643 --> 00:55:46,430
+♪ Ela é uma rainha do
+estúdio de uma estrela ♪
+
+1104
+00:55:46,473 --> 00:55:47,866
+♪ Ela pode acabar
+
+1105
+00:55:47,909 --> 00:55:50,259
+♪ E tire a velocidade da luz ♪
+
+1106
+00:55:50,303 --> 00:55:53,959
+♪ Ela pode andar de
+salto alto com facilidade ♪
+
+1107
+00:55:54,002 --> 00:55:57,441
+♪ Ela pode andar de
+salto alto com facilidade ♪
+
+1108
+00:55:57,484 --> 00:56:00,444
+[Música, tocando]
+
+1109
+00:56:10,758 --> 00:56:13,195
+MULHER: ♪ Sim, sim, sim
+
+1110
+00:56:15,546 --> 00:56:17,591
+MARTIN: Mas você foi
+sensacional esta noite.
+
+1111
+00:56:17,635 --> 00:56:20,855
+Eu lhe digo, você está pronto
+para sua grande chance.
+
+1112
+00:56:20,899 --> 00:56:22,553
+Quanto eles pagam?
+
+1113
+00:56:22,596 --> 00:56:24,381
+MARTIN: Ouça, cara, artistas
+
+1114
+00:56:24,424 --> 00:56:26,470
+não são pagos em Nova York,
+
+1115
+00:56:26,513 --> 00:56:27,906
+não até que sejam estrelas.
+
+1116
+00:56:27,949 --> 00:56:29,734
+Ah, Robin é uma estrela.
+
+1117
+00:56:29,777 --> 00:56:32,911
+Mas ele tem que provar
+isso onde é importante.
+
+1118
+00:56:32,954 --> 00:56:35,740
+Olha, o Jackrabbit é uma vitrine
+
+1119
+00:56:35,783 --> 00:56:37,176
+fantástica para novos talentos,
+
+1120
+00:56:37,219 --> 00:56:40,309
+você poderia ser avistado por
+pessoas realmente grandes lá.
+
+1121
+00:56:40,353 --> 00:56:41,876
+LIZA: Posso te dar dois
+meses para fazer isso.
+
+1122
+00:56:41,920 --> 00:56:43,356
+Você não viria?
+
+1123
+00:56:43,400 --> 00:56:46,011
+Você sabe quanto custou ter
+um filho nos Estados Unidos?
+
+1124
+00:56:46,054 --> 00:56:48,535
+Vou conseguir um encontro
+no clube aqui, que pague bem.
+
+1125
+00:56:48,579 --> 00:56:50,145
+Oh sim?
+
+1126
+00:56:50,189 --> 00:56:54,193
+Bem, vamos ver o que
+acontece em Toronto.
+
+1127
+00:56:55,586 --> 00:56:59,328
+Ah, aqui está Andy e seu
+
+1128
+00:56:59,372 --> 00:57:00,895
+acordeão bávaro no Sheraton.
+
+1129
+00:57:01,679 --> 00:57:03,463
+Talvez ele fique doente.
+
+1130
+00:57:04,638 --> 00:57:06,684
+Ah, e aqui está Anne
+
+1131
+00:57:06,727 --> 00:57:08,990
+Murray, vindo para os Jardins,
+
+1132
+00:57:09,034 --> 00:57:11,602
+talvez fiquemos doentes.
+
+1133
+00:57:11,645 --> 00:57:14,648
+Olha, os clubes heterossexuais desta
+cidade simplesmente não estão prontos.
+
+1134
+00:57:14,692 --> 00:57:16,694
+Além disso, nenhuma
+lei canadense
+
+1135
+00:57:16,737 --> 00:57:18,435
+chega aqui sem o selo
+de aprovação dos EUA.
+
+1136
+00:57:18,478 --> 00:57:21,220
+Você terá que ir para os
+Estados Unidos algum dia, Robin.
+
+1137
+00:57:21,263 --> 00:57:24,223
+Quero dizer... quero dizer,
+olhe para Gordon Lightfoot.
+
+1138
+00:57:24,266 --> 00:57:25,311
+Monty Salão.
+
+1139
+00:57:25,354 --> 00:57:27,618
+Você não tem escolha.
+
+1140
+00:57:29,054 --> 00:57:31,143
+Bem, eu teria que começar a cantar.
+
+1141
+00:57:31,186 --> 00:57:33,188
+Eu gostaria de piano e bateria.
+
+1142
+00:57:33,232 --> 00:57:36,104
+O Jackrabbit os pegou, o
+que mais você pode fazer?
+
+1143
+00:57:37,497 --> 00:57:40,021
+Inscreva-se para obter uma
+bolsa do Conselho do Canadá.
+
+1144
+00:57:40,065 --> 00:57:41,458
+LISA: Uau.
+
+1145
+00:57:41,501 --> 00:57:42,502
+Quero dizer, você está pronto.
+
+1146
+00:57:42,546 --> 00:57:43,851
+ROBIN: Ah, meu Deus.
+
+1147
+00:57:43,895 --> 00:57:46,550
+LIZA: Oh, estou tão animada,
+gostaria que fôssemos.
+
+1148
+00:57:46,593 --> 00:57:49,291
+ROBIN: Os comunistas
+chineses estão vivendo aqui.
+
+1149
+00:57:49,335 --> 00:57:52,512
+LIZA: Oh, bem, ele tem
+que fazer isso, bem grande.
+
+1150
+00:57:52,556 --> 00:57:54,775
+ROBIN: Eu não me
+importo, muito maior.
+
+1151
+00:57:54,819 --> 00:57:56,473
+Ei, é isso.
+
+1152
+00:57:56,516 --> 00:57:58,083
+Eu odeio despedidas.
+
+1153
+00:57:58,126 --> 00:57:59,780
+Cuide bem dela.
+
+1154
+00:57:59,824 --> 00:58:01,434
+LISA: Tchau.
+Ei, seja deslumbrante, ok?
+
+1155
+00:58:01,478 --> 00:58:03,305
+-ROBIN: Eu te amo.
+-LIZA: Sim?
+
+1156
+00:58:05,656 --> 00:58:08,702
+[Buzina tocando]
+
+1157
+00:58:13,272 --> 00:58:16,275
+[Sinos tocando]
+
+1158
+00:58:17,450 --> 00:58:18,669
+Ah, Martin, leve-me para casa.
+
+1159
+00:58:18,712 --> 00:58:20,714
+Este não é lugar para
+ver o Bonecrusher.
+
+1160
+00:58:27,678 --> 00:58:30,724
+[Motores roncando]
+
+1161
+00:58:33,248 --> 00:58:36,338
+ROBIN: ♪ Dê meus
+cumprimentos à Broadway ♪
+
+1162
+00:58:36,382 --> 00:58:39,428
+♪ Lembre-se de mim
+no Herald Square ♪
+
+1163
+00:58:39,472 --> 00:58:42,475
+♪ Conte para todos
+os garotos da Rua 42 ♪
+
+1164
+00:58:42,519 --> 00:58:45,217
+♪ Que em breve estarei lá
+
+1165
+00:58:45,260 --> 00:58:47,262
+HOMEM: Ah, não, você não vai, cara.
+
+1166
+00:58:47,306 --> 00:58:49,308
+Você estará na 10ª Avenida,
+
+1167
+00:58:49,351 --> 00:58:51,353
+a verdadeira rua
+dos sonhos desfeitos.
+
+1168
+00:58:51,397 --> 00:58:53,834
+ROBIN: Oh, ouça, boca poderosa,
+
+1169
+00:58:53,878 --> 00:58:55,967
+Streisand abriu
+do outro lado do rio,
+
+1170
+00:58:56,010 --> 00:58:58,578
+pelo menos, estou
+abrindo em Manhattan.
+
+1171
+00:58:58,622 --> 00:59:00,798
+HOMEM: Sim.
+No clube Jackrabbit.
+
+1172
+00:59:00,841 --> 00:59:02,190
+ROBIN: O que você
+sabe sobre isso?
+
+1173
+00:59:02,234 --> 00:59:03,583
+HOMEM: Eu sei muito sobre isso.
+
+1174
+00:59:03,627 --> 00:59:05,542
+Sou um agente desempregado.
+
+1175
+00:59:05,585 --> 00:59:07,413
+Tem carro próprio
+e tudo mais, né?
+
+1176
+00:59:07,456 --> 00:59:11,635
+Ouça, eu fui o melhor júnior
+que William Morris já teve.
+
+1177
+00:59:11,678 --> 00:59:14,289
+Eles só falam sobre
+pacotes, pacotes.
+
+1178
+00:59:14,333 --> 00:59:16,248
+Pensei que estava
+em Bloomingdales.
+
+1179
+00:59:16,291 --> 00:59:18,119
+Então, fiquei entediado e desisti.
+
+1180
+00:59:19,164 --> 00:59:21,470
+Apenas fazendo
+isso entre carreiras.
+
+1181
+00:59:21,514 --> 00:59:22,471
+Oh.
+
+1182
+00:59:22,515 --> 00:59:25,518
+[Buzina tocando]
+
+1183
+00:59:26,606 --> 00:59:29,609
+[Motor roncando]
+
+1184
+00:59:33,439 --> 00:59:35,746
+[Sirene tocando]
+
+1185
+00:59:35,789 --> 00:59:38,487
+ROBIN: Oh, meu Deus, o
+Grande Caminho Branco?
+
+1186
+00:59:41,795 --> 00:59:43,971
+Você é uma chatice, hein?
+
+1187
+00:59:44,015 --> 00:59:46,974
+ROBIN: Não, eu só
+gosto de viajar pesado.
+
+1188
+00:59:47,018 --> 00:59:48,759
+Ei, você pode me
+ajudar com essas coisas?
+
+1189
+00:59:48,802 --> 00:59:50,369
+Ei, aqui é Nova York, cara.
+
+1190
+00:59:50,412 --> 00:59:51,631
+Oh.
+
+1191
+00:59:51,675 --> 00:59:53,851
+Não consigo fazer uma entrada sozinho.
+Vamos.
+
+1192
+00:59:53,894 --> 00:59:55,679
+Passe alguns minutos com uma estrela.
+
+1193
+00:59:55,722 --> 00:59:57,594
+Sim, o que isso traz para mim?
+
+1194
+00:59:57,637 --> 00:59:59,421
+ROBIN: Farei de você
+meu agente em Nova York.
+
+1195
+00:59:59,465 --> 01:00:00,945
+Isso é 10% de nada.
+
+1196
+01:00:00,988 --> 01:00:01,641
+O que mais?
+
+1197
+01:00:03,121 --> 01:00:06,777
+Ah, eu não negocio
+na rua, isso é brunch.
+
+1198
+01:00:06,820 --> 01:00:08,387
+Nada mal.
+
+1199
+01:00:08,430 --> 01:00:11,825
+Talvez eu pudesse pegar
+meu truque da tarde lá.
+
+1200
+01:00:11,869 --> 01:00:14,001
+Ninguém é mais hétero?
+
+1201
+01:00:14,045 --> 01:00:14,915
+Claro.
+
+1202
+01:00:16,395 --> 01:00:18,484
+Meu pai em Montana.
+
+1203
+01:00:18,527 --> 01:00:19,354
+[Rindo]
+
+1204
+01:00:21,095 --> 01:00:24,098
+[Música, tocando]
+
+1205
+01:00:28,712 --> 01:00:30,322
+HOMEM: Por que você não
+me dá uma chance, cara?
+
+1206
+01:00:30,365 --> 01:00:33,847
+Eu tive um ato que
+os matou em Detroit.
+
+1207
+01:00:33,891 --> 01:00:35,719
+Aposto que foi um pip.
+
+1208
+01:00:40,419 --> 01:00:43,291
+Oh, lá atrás, querido, lá atrás.
+
+1209
+01:00:43,335 --> 01:00:46,338
+[Música, tocando]
+
+1210
+01:00:53,911 --> 01:00:56,043
+Comunicado... da China.
+
+1211
+01:00:59,264 --> 01:01:00,700
+Dizem que estou sendo
+muito útil na disputa
+
+1212
+01:01:00,744 --> 01:01:02,397
+fronteiriça entre a
+China e a Rússia.
+
+1213
+01:01:02,441 --> 01:01:04,356
+Robin mudou de trem em Buffalo?
+
+1214
+01:01:04,399 --> 01:01:05,836
+Quero esclarecer os fatos.
+
+1215
+01:01:05,879 --> 01:01:07,533
+Eles precisam de mim
+para substituir Mao,
+
+1216
+01:01:07,576 --> 01:01:09,448
+Vou colocar todos os chineses
+em campos de concentração.
+
+1217
+01:01:11,580 --> 01:01:13,147
+Mao não gostava dos chineses.
+
+1218
+01:01:13,191 --> 01:01:15,672
+Ele foi batizado como
+católico pelos missionários.
+
+1219
+01:01:19,066 --> 01:01:21,721
+Você vai escrever sobre
+meus campos de concentração?
+
+1220
+01:01:27,379 --> 01:01:30,469
+Ah, talvez eu devesse
+voltar para o hospital.
+
+1221
+01:01:30,512 --> 01:01:32,732
+Bobagem, você pertence a este lugar.
+
+1222
+01:01:32,776 --> 01:01:35,474
+Está muito frio
+em Buffalo, não é?
+
+1223
+01:01:35,517 --> 01:01:36,867
+Ninguém escuta!
+
+1224
+01:01:36,910 --> 01:01:39,478
+Eu estava ouvindo muito, Martin.
+
+1225
+01:01:39,521 --> 01:01:41,349
+Olha, eu posso
+escrever e posso ouvir,
+
+1226
+01:01:41,393 --> 01:01:44,178
+Posso ter um filho
+de uma vez, ok?
+
+1227
+01:01:44,222 --> 01:01:45,876
+Agora, como diabos
+você acha que vai
+
+1228
+01:01:45,919 --> 01:01:47,573
+levar esses chineses
+para os campos, hein?
+
+1229
+01:01:47,616 --> 01:01:51,316
+Serão jardins enormes
+com flores e tudo mais, cara,
+
+1230
+01:01:51,359 --> 01:01:54,232
+Vou anunciar na capital,
+vai ficar exposto lá dentro,
+
+1231
+01:01:54,275 --> 01:01:56,147
+e os chineses podem vir
+dar um soco nos tímpanos
+
+1232
+01:01:56,190 --> 01:01:57,452
+com pauzinhos.
+
+1233
+01:01:57,496 --> 01:01:59,193
+Martin, você já leu algum Chi?
+
+1234
+01:01:59,237 --> 01:01:59,890
+Não.
+
+1235
+01:02:01,326 --> 01:02:03,807
+Com os chineses nos
+campos e os russos nos
+
+1236
+01:02:03,850 --> 01:02:05,460
+campos, não haverá
+disputa de fronteira,
+
+1237
+01:02:05,504 --> 01:02:07,332
+e eu deveria colocar os
+capitalistas lá também, cara,
+
+1238
+01:02:07,375 --> 01:02:10,639
+Serei o maior inimigo
+do capitalismo na história.
+
+1239
+01:02:10,683 --> 01:02:12,772
+Há muitos
+capitalistas em Buffalo.
+
+1240
+01:02:12,816 --> 01:02:15,732
+Sim.  Bem, é por isso que
+está sempre pegando fogo.
+
+1241
+01:02:15,775 --> 01:02:18,735
+[Música, tocando]
+
+1242
+01:02:41,018 --> 01:02:42,759
+Jimmy quer saber
+o que você quer.
+
+1243
+01:02:42,802 --> 01:02:44,804
+Oh, apenas conte a ele uma introdução rápida.
+
+1244
+01:02:44,848 --> 01:02:45,979
+Um rufar de tambores alto.
+
+1245
+01:02:46,023 --> 01:02:47,241
+OK.
+
+1246
+01:02:47,285 --> 01:02:48,939
+O lugar bem na porta.
+
+1247
+01:02:48,982 --> 01:02:50,114
+Bem na porta?
+
+1248
+01:02:50,157 --> 01:02:53,160
+[Música, tocando]
+
+1249
+01:03:01,342 --> 01:03:04,345
+[Felicidades e aplausos]
+
+1250
+01:03:24,844 --> 01:03:26,759
+Aqui está olhando
+para você, Alonzo.
+
+1251
+01:03:26,803 --> 01:03:29,806
+[Música, tocando]
+
+1252
+01:03:52,350 --> 01:03:55,353
+[Felicidades e aplausos]
+
+1253
+01:03:59,183 --> 01:04:00,575
+Senhores e amores-perfeitos,
+
+1254
+01:04:00,619 --> 01:04:01,794
+reis e rainhas,
+
+1255
+01:04:01,838 --> 01:04:04,928
+soldados e frutos do mar,
+
+1256
+01:04:04,971 --> 01:04:06,364
+temos um novo
+artista esta noite,
+
+1257
+01:04:06,407 --> 01:04:09,193
+desde Toronto.
+
+1258
+01:04:09,236 --> 01:04:11,543
+Eu amo o norte do estado de Nova York.
+
+1259
+01:04:11,586 --> 01:04:13,066
+[Risada]
+
+1260
+01:04:13,110 --> 01:04:14,459
+Eu estive em Toronto uma
+
+1261
+01:04:14,502 --> 01:04:15,721
+vez, a única imitadora feminina
+
+1262
+01:04:15,764 --> 01:04:17,897
+que eles tinham na
+época era uma mulher.
+
+1263
+01:04:17,941 --> 01:04:19,159
+[Risada]
+
+1264
+01:04:19,203 --> 01:04:21,205
+De qualquer forma,
+aqui está ele, o homem
+
+1265
+01:04:21,248 --> 01:04:24,338
+favorito da cidade de
+Toronto, o Sr. Robin Turner.
+
+1266
+01:04:25,470 --> 01:04:28,560
+[Felicidades e aplausos]
+
+1267
+01:04:30,562 --> 01:04:31,519
+HOMEM: Tudo bem.
+
+1268
+01:04:31,563 --> 01:04:33,913
+Oh, salvem suas mãos, rapazes.
+
+1269
+01:04:33,957 --> 01:04:36,394
+Você pode precisar deles mais tarde.
+
+1270
+01:04:36,437 --> 01:04:39,049
+Oh, sinto-me um
+milhão esta noite.
+
+1271
+01:04:39,092 --> 01:04:41,529
+Ah, um de cada vez.
+
+1272
+01:04:42,748 --> 01:04:46,926
+Ooh, se eu soubesse
+que você estaria aqui,
+
+1273
+01:04:46,970 --> 01:04:48,797
+Eu teria usado uma boá de couro.
+
+1274
+01:04:48,841 --> 01:04:50,321
+[Rindo]
+
+1275
+01:04:50,364 --> 01:04:53,759
+Hum, quem é esse?  Seu amante?
+
+1276
+01:04:55,326 --> 01:04:56,370
+Experimente, você vai gostar.
+
+1277
+01:04:57,850 --> 01:05:02,724
+Eu não me importo com o
+tamanho deles, são muitos...
+
+1278
+01:05:02,768 --> 01:05:03,812
+HOMEM: Ah, sim?
+
+1279
+01:05:03,856 --> 01:05:05,336
+O que você sabe sobre isso, Mae?
+
+1280
+01:05:05,379 --> 01:05:08,339
+Bem, o segredo do meu sucesso...
+
+1281
+01:05:08,382 --> 01:05:09,166
+Oh...
+
+1282
+01:05:10,645 --> 01:05:11,864
+...não são os homens
+com quem você me viu,
+
+1283
+01:05:11,908 --> 01:05:14,780
+são os homens com
+quem você não me viu.
+
+1284
+01:05:14,823 --> 01:05:16,216
+Acertem, rapazes.
+
+1285
+01:05:16,260 --> 01:05:17,957
+HOMEM: Um, dois, três, quatro.
+
+1286
+01:05:18,001 --> 01:05:20,960
+[Música, tocando]
+
+1287
+01:05:23,920 --> 01:05:26,226
+♪ Frankie e Johnny
+eram amantes ♪
+
+1288
+01:05:26,270 --> 01:05:28,750
+♪ Senhor Deus, como
+eles poderiam amar ♪
+
+1289
+01:05:28,794 --> 01:05:30,883
+♪ Juraram ser
+fiéis um ao outro ♪
+
+1290
+01:05:30,927 --> 01:05:33,146
+♪ E, cara, eles cabem
+como uma luva ♪
+
+1291
+01:05:33,190 --> 01:05:35,235
+♪ Ele era seu homem
+
+1292
+01:05:35,279 --> 01:05:38,151
+♪ Mas ele estava fazendo errado
+
+1293
+01:05:38,195 --> 01:05:40,980
+♪ Ah, Frankie e
+Johnny foram dançar ♪
+
+1294
+01:05:41,024 --> 01:05:43,461
+♪ Eles adoram
+discoteca e cruzeiro ♪
+
+1295
+01:05:43,504 --> 01:05:46,116
+♪ Não leve seu homem
+para uma discoteca, querido ♪
+
+1296
+01:05:46,159 --> 01:05:48,118
+♪ Se você vai querer ele solto ♪
+
+1297
+01:05:48,161 --> 01:05:49,989
+♪ Segure suas armas
+
+1298
+01:05:50,033 --> 01:05:53,210
+♪ Eu vou colocar você em...
+
+1299
+01:05:53,253 --> 01:05:55,473
+♪ Uma noite, Frankie
+fez uma dança ♪
+
+1300
+01:05:55,516 --> 01:05:58,432
+♪ Como balançar várias músicas ♪
+
+1301
+01:05:58,476 --> 01:05:59,999
+♪ Johnny viu tudo acontecer ♪
+
+1302
+01:06:00,043 --> 01:06:04,569
+♪ Ele disse: "Frankie,
+você também" ♪
+
+1303
+01:06:04,612 --> 01:06:07,137
+♪ Você tem que boogie man
+
+1304
+01:06:07,180 --> 01:06:09,617
+♪ Ah, então eles
+começaram a brigar ♪
+
+1305
+01:06:09,661 --> 01:06:12,707
+♪ Ah, e saíram as
+botas e os chicotes ♪
+
+1306
+01:06:12,751 --> 01:06:15,058
+♪ Depois que eles
+brigaram e amaram tanto ♪
+
+1307
+01:06:15,101 --> 01:06:17,016
+♪ Johnny esmagou
+os quadris de Frankie ♪
+
+1308
+01:06:17,060 --> 01:06:18,931
+♪ Eles brigaram
+
+1309
+01:06:18,975 --> 01:06:21,064
+♪ E então eles
+amaram a noite toda ♪
+
+1310
+01:06:21,107 --> 01:06:24,850
+♪ Ah, ah, essa
+história não tem moral ♪
+
+1311
+01:06:24,893 --> 01:06:27,331
+♪ Este poema não tem rima
+
+1312
+01:06:27,374 --> 01:06:29,289
+♪ Minha mensagem aqui é simples
+
+1313
+01:06:29,333 --> 01:06:33,685
+♪ Eu dou a eles
+um toot-toot-toot ♪
+
+1314
+01:06:33,728 --> 01:06:36,209
+♪ Não faça mal a ele
+
+1315
+01:06:38,951 --> 01:06:41,432
+♪ Oh, Senhor
+
+1316
+01:06:41,475 --> 01:06:44,478
+[Felicidades e aplausos]
+
+1317
+01:06:50,310 --> 01:06:52,399
+Mas não sei onde ele está.
+
+1318
+01:06:57,013 --> 01:06:59,015
+Ele já foi violento com você?
+
+1319
+01:06:59,058 --> 01:07:00,277
+Oh, Martin é muito gentil.
+
+1320
+01:07:00,320 --> 01:07:01,365
+Quero dizer, se
+ele fez algo errado,
+
+1321
+01:07:01,408 --> 01:07:03,193
+você pode culpar Mao Tsé-tung.
+
+1322
+01:07:03,236 --> 01:07:05,369
+SRA.  CONNORS: Ela
+às vezes inventa nomes
+
+1323
+01:07:05,412 --> 01:07:07,371
+estrangeiros, uma vez ela
+inventou uma língua inteira,
+
+1324
+01:07:07,414 --> 01:07:09,503
+ela é uma garota muito doente.
+
+1325
+01:07:09,547 --> 01:07:12,680
+Bem, você não pode ficar
+aqui porque ele pode voltar.
+
+1326
+01:07:12,724 --> 01:07:14,160
+Martin nunca me machucaria.
+
+1327
+01:07:15,553 --> 01:07:18,121
+CARR: Liza, ele acabou de
+ferir um homem com uma faca.
+
+1328
+01:07:18,164 --> 01:07:20,079
+Talvez seja melhor você voltar
+para casa conosco, querido.
+
+1329
+01:07:20,123 --> 01:07:22,255
+-Vou falar com seu pai.
+-Não.  Não.
+
+1330
+01:07:22,299 --> 01:07:24,040
+Martin tinha algum
+lugar favorito?
+
+1331
+01:07:24,083 --> 01:07:25,824
+Sim.  Manicômio Morningside.
+
+1332
+01:07:25,867 --> 01:07:28,740
+Você deveria cooperar
+comigo, mocinha.
+
+1333
+01:07:28,783 --> 01:07:31,264
+Esse menino tem que
+ser capturado e preso.
+
+1334
+01:07:31,308 --> 01:07:33,310
+Por que todo mundo sempre
+quer trancar todo mundo?
+
+1335
+01:07:33,353 --> 01:07:35,660
+Quero dizer... quero
+dizer, quem é louco, afinal?
+
+1336
+01:07:35,703 --> 01:07:37,053
+SRA.  CONNORS: Vamos
+pegar sua mala de viagem.
+
+1337
+01:07:37,096 --> 01:07:39,229
+Não. Não. Mãe, tenho muitos
+
+1338
+01:07:39,272 --> 01:07:41,057
+lugares para ir e
+tenho muitos amigos.
+
+1339
+01:07:41,100 --> 01:07:42,493
+Eles vão machucar Martin?
+
+1340
+01:07:46,018 --> 01:07:48,107
+Como você faz seus peitos assim?
+
+1341
+01:07:48,151 --> 01:07:51,458
+Bem, geralmente
+alguém faz isso para mim.
+
+1342
+01:07:51,502 --> 01:07:53,156
+Aposto que você tomou uma injeção.
+
+1343
+01:07:53,199 --> 01:07:56,420
+Oh, pequenas injeções
+não são meu estilo.
+
+1344
+01:08:00,337 --> 01:08:02,382
+Ei, você é realmente o agente dele?
+
+1345
+01:08:02,426 --> 01:08:04,471
+Tive que moldar sua
+atuação durante anos.
+
+1346
+01:08:04,515 --> 01:08:07,648
+Então, vocês, querem
+vir até minha casa brincar?
+
+1347
+01:08:07,692 --> 01:08:09,259
+Nós três?
+
+1348
+01:08:09,302 --> 01:08:12,175
+Olha, só não quero que você
+faça uma escolha inteligente.
+
+1349
+01:08:12,218 --> 01:08:13,915
+OK.  Você está ligado.
+
+1350
+01:08:13,959 --> 01:08:15,352
+Eu volto já.
+
+1351
+01:08:17,571 --> 01:08:19,269
+-Ei.  Jimmy.
+-Oh.
+
+1352
+01:08:19,312 --> 01:08:20,966
+Ele vai cobrar uma
+cobertura na porta
+
+1353
+01:08:21,009 --> 01:08:22,576
+e poderíamos... vamos dividir,
+
+1354
+01:08:22,620 --> 01:08:25,536
+deve render 50 ou 75 para você.
+
+1355
+01:08:25,579 --> 01:08:28,452
+E há um quarto lá em
+cima, você entendeu.
+
+1356
+01:08:28,495 --> 01:08:30,280
+-A suíte privada?
+-Claro.
+
+1357
+01:08:30,323 --> 01:08:31,846
+Hmm, está equipado?
+
+1358
+01:08:31,890 --> 01:08:33,021
+Completamente.
+
+1359
+01:08:33,065 --> 01:08:35,067
+Que delícia.
+
+1360
+01:08:39,767 --> 01:08:42,988
+Hum, bom apetite.
+
+1361
+01:08:49,560 --> 01:08:52,302
+Eu realmente espero
+que você seja feliz aqui.
+
+1362
+01:08:52,345 --> 01:08:54,826
+Como coisas tão antigas
+podem ser tão limpas?
+
+1363
+01:08:56,219 --> 01:08:59,526
+Liza, você me deixaria ler
+algumas de suas histórias?
+
+1364
+01:08:59,570 --> 01:09:01,180
+Mas eles são apenas para loucos.
+
+1365
+01:09:01,224 --> 01:09:05,706
+Eu sei, mas sou um bom editor e
+conheço um pouco sobre as pessoas.
+
+1366
+01:09:05,750 --> 01:09:07,230
+Talvez eu possa
+ajudá-lo a começar.
+
+1367
+01:09:08,622 --> 01:09:11,451
+Quer dizer, você acha que
+posso vendê-los?  Por dinheiro?
+
+1368
+01:09:15,455 --> 01:09:17,109
+Veremos, ok?
+
+1369
+01:09:17,153 --> 01:09:18,023
+OK.
+
+1370
+01:09:48,619 --> 01:09:49,446
+Bebê,
+
+1371
+01:09:50,490 --> 01:09:53,319
+um bebê realmente
+vivo, normal e genial.
+
+1372
+01:10:02,676 --> 01:10:04,243
+Zara?
+
+1373
+01:10:04,287 --> 01:10:08,247
+Zara, você prometeu
+não me seguir mais aqui.
+
+1374
+01:10:08,291 --> 01:10:10,641
+Ah, sim, eu ainda te
+amo também, mas...
+
+1375
+01:10:11,990 --> 01:10:14,079
+Não não.
+
+1376
+01:10:14,122 --> 01:10:15,472
+Você não pode começar a
+
+1377
+01:10:15,515 --> 01:10:17,256
+passar por isso, não aqui, não.
+
+1378
+01:10:17,300 --> 01:10:21,913
+Você tem que ir embora para
+sempre agora, Zara, você tem que ir.
+
+1379
+01:10:21,956 --> 01:10:24,132
+Zara, eu moro em uma casa de
+
+1380
+01:10:24,176 --> 01:10:26,134
+verdade e tudo mais,
+você não entende?
+
+1381
+01:10:27,310 --> 01:10:28,920
+Não não.
+
+1382
+01:10:28,963 --> 01:10:31,575
+Sem piadas, eu não vou...
+não vou rir.
+
+1383
+01:10:31,618 --> 01:10:33,577
+Eu não vou, eu--
+
+1384
+01:10:35,492 --> 01:10:37,058
+Zara, estou normal agora.
+
+1385
+01:10:37,102 --> 01:10:41,498
+Eu sou normal e você
+não pode mais ficar aqui.
+
+1386
+01:10:41,541 --> 01:10:43,717
+Por favor, Zara, você
+precisa ir embora.
+
+1387
+01:10:52,160 --> 01:10:56,295
+Eu sabia que você entenderia,
+Zara, eu sabia que você entenderia.
+
+1388
+01:10:56,339 --> 01:10:57,905
+Vou sentir saudades.
+
+1389
+01:10:59,733 --> 01:11:02,040
+Sentirei sua falta
+até meu bebê chegar.
+
+1390
+01:11:09,265 --> 01:11:11,658
+[Conversa indistinta]
+
+1391
+01:11:11,702 --> 01:11:14,008
+Não. Nenhum movimento, para a esquerda.
+
+1392
+01:11:19,797 --> 01:11:21,320
+Sim.  Desculpe querida.
+
+1393
+01:11:21,364 --> 01:11:23,235
+Ajudantes de palco não sindicalizados.
+
+1394
+01:11:23,279 --> 01:11:25,150
+Você já economizou
+tanto em um mês?
+
+1395
+01:11:28,501 --> 01:11:31,199
+Meu agente me garantiu que me arranjaria
+um encontro em um clube na cidade alta.
+
+1396
+01:11:31,243 --> 01:11:33,419
+Ainda vou juntar
+o dinheiro, garoto.
+
+1397
+01:11:36,509 --> 01:11:38,206
+Luzes de Natal?
+
+1398
+01:11:38,250 --> 01:11:40,861
+Jimmy, sou uma estrela,
+mas não uma Estrela de Belém.
+
+1399
+01:11:40,905 --> 01:11:42,559
+Para que você
+saiba, comprei isso no
+
+1400
+01:11:42,602 --> 01:11:45,039
+guarda-roupa pessoal
+de Carol Channing.
+
+1401
+01:11:46,389 --> 01:11:48,129
+Ei, ouça, apresse-se e deixe
+
+1402
+01:11:48,173 --> 01:11:49,827
+o garoto, e depois desça aqui.
+
+1403
+01:11:50,654 --> 01:11:52,569
+Amo você.  Tchau.
+
+1404
+01:11:52,612 --> 01:11:54,179
+[Conversa indistinta]
+
+1405
+01:11:55,920 --> 01:11:57,356
+Só mais quatro semanas.
+
+1406
+01:11:58,705 --> 01:12:01,055
+Tempo de sobra para
+trabalhar na história.
+
+1407
+01:12:01,099 --> 01:12:03,754
+Quanto você acha que
+eu ganharia por isso?
+
+1408
+01:12:03,797 --> 01:12:05,843
+É bom, é muito bom.
+
+1409
+01:12:05,886 --> 01:12:08,802
+Apenas essas frases
+incompletas como,
+
+1410
+01:12:08,846 --> 01:12:10,804
+"Ela teve que extrair a
+verdade do cérebro dele",
+
+1411
+01:12:10,848 --> 01:12:13,241
+ela disse: "Ponto, ponto, ponto."
+
+1412
+01:12:13,285 --> 01:12:14,895
+Ela disse o que?
+
+1413
+01:12:14,939 --> 01:12:16,680
+O que você quiser.
+
+1414
+01:12:16,723 --> 01:12:19,030
+Mas não é assim que
+se escreve uma história.
+
+1415
+01:12:19,073 --> 01:12:20,553
+É a participação do leitor.
+
+1416
+01:12:20,597 --> 01:12:21,641
+Todo mundo sabe a verdade, a
+
+1417
+01:12:21,685 --> 01:12:23,556
+sua própria verdade,
+basta preencher.
+
+1418
+01:12:27,038 --> 01:12:28,648
+Opa, hora do barrigudo.
+
+1419
+01:12:28,692 --> 01:12:30,171
+JO: Você quer dizer o ginecologista?
+
+1420
+01:12:30,215 --> 01:12:31,738
+Certo.  Olha, por que você
+não conserta tudo sozinho?
+
+1421
+01:12:31,782 --> 01:12:33,305
+Eu realmente preciso do
+dinheiro para Nova York,
+
+1422
+01:12:33,349 --> 01:12:36,961
+e eu realmente apreciaria
+isso e... bem, você sabe, tchau.
+
+1423
+01:12:38,919 --> 01:12:39,877
+[Fechamento da porta]
+
+1424
+01:12:43,315 --> 01:12:45,099
+-[Sirenes tocando]
+-[Barulho metálico]
+
+1425
+01:12:48,407 --> 01:12:49,756
+Você está tomando?
+
+1426
+01:12:49,800 --> 01:12:51,802
+Hum-hmm.
+Está dentro do meu orçamento.
+
+1427
+01:12:54,021 --> 01:12:59,200
+Robin, este bairro é Freak City.
+
+1428
+01:12:59,244 --> 01:13:01,289
+Bem, quero que
+Liza se sinta em casa.
+
+1429
+01:13:06,294 --> 01:13:07,557
+Tira-lo daqui.
+
+1430
+01:13:07,600 --> 01:13:09,036
+Tire-o para fora.
+
+1431
+01:13:09,080 --> 01:13:11,299
+Liza, por favor, não... deite-se.
+
+1432
+01:13:11,343 --> 01:13:13,214
+Ele está machucando meu bebê.
+
+1433
+01:13:13,258 --> 01:13:15,216
+Você não está fazendo nenhum sentido.
+
+1434
+01:13:15,260 --> 01:13:18,132
+Doutor, doutor, apresse-se.
+Eu sei o que fazer.
+
+1435
+01:13:18,176 --> 01:13:20,874
+Você não pode ter meu bebê.
+Você não pode ter meu bebê.
+
+1436
+01:13:20,918 --> 01:13:22,267
+Você não pode tê-lo.
+
+1437
+01:13:22,310 --> 01:13:25,792
+Eu tenho uma responsabilidade,
+mas não sou enfermeira.
+
+1438
+01:13:27,228 --> 01:13:28,621
+Isso não o faz ir embora.
+
+1439
+01:13:28,665 --> 01:13:30,188
+Isso vai parar as alucinações.
+
+1440
+01:13:30,231 --> 01:13:33,583
+Mas não funciona,
+só me deixa fraco.
+
+1441
+01:13:33,626 --> 01:13:35,236
+Ele está bem ali!
+
+1442
+01:13:36,412 --> 01:13:38,414
+Empurre-o da minha barriga.
+
+1443
+01:13:41,025 --> 01:13:43,810
+-BOB: Robin, Robin, eu consegui.
+-Nesta hora?
+
+1444
+01:13:43,854 --> 01:13:45,725
+Ouça-me, você não
+vai acreditar nisso.
+
+1445
+01:13:45,769 --> 01:13:47,466
+Tudo começou tão bobo.
+
+1446
+01:13:47,510 --> 01:13:50,251
+Toda quinta-feira à noite,
+neste bar dos fundos,
+
+1447
+01:13:50,295 --> 01:13:52,602
+eu e esse super galã
+continuávamos nos divertindo,
+
+1448
+01:13:52,645 --> 01:13:54,038
+exceto que ele sempre
+foi tão desapegado, ele
+
+1449
+01:13:54,081 --> 01:13:56,910
+nunca falava, você
+sabe, do tipo, era só sexo.
+
+1450
+01:13:56,954 --> 01:13:57,694
+Só isso?
+
+1451
+01:13:59,130 --> 01:14:02,176
+BOB: Na terceira noite,
+cansei-me da rotina
+
+1452
+01:14:02,220 --> 01:14:04,483
+e pedi-lhe que
+viesse a minha casa...
+
+1453
+01:14:04,527 --> 01:14:05,266
+Nenhuma resposta.
+
+1454
+01:14:06,398 --> 01:14:09,227
+Aí eu falei que tinha um
+pouco de grama colombiana,
+
+1455
+01:14:09,270 --> 01:14:12,622
+ele ainda não quis
+falar, então fiquei bravo.
+
+1456
+01:14:12,665 --> 01:14:14,972
+“Ninguém é tão lindo”, eu disse.
+
+1457
+01:14:15,015 --> 01:14:16,495
+Então você sabe o que ele disse?
+
+1458
+01:14:16,539 --> 01:14:17,844
+ROBIN: O quê?
+
+1459
+01:14:20,934 --> 01:14:22,109
+Oh não.
+
+1460
+01:14:22,153 --> 01:14:25,112
+Ele era surdo-mudo,
+pelo amor de Deus.
+
+1461
+01:14:25,156 --> 01:14:28,333
+É bom saber que você é uma vagabunda
+que oferece oportunidades iguais.
+
+1462
+01:14:28,376 --> 01:14:29,639
+De qualquer forma, conheci o tio dele.
+
+1463
+01:14:29,682 --> 01:14:31,467
+Nunca ouvi falar de um tio doce.
+
+1464
+01:14:31,510 --> 01:14:36,733
+BOB: De qualquer forma, tio Ziggy dirige
+o Ziggy's Cabaret na parte alta da cidade.
+
+1465
+01:14:36,776 --> 01:14:38,865
+E ele tem noites de
+teste para novos artistas.
+
+1466
+01:14:38,909 --> 01:14:40,345
+ROBIN: Sim?
+
+1467
+01:14:40,388 --> 01:14:44,088
+BOB: E graças a mim, na próxima
+segunda-feira à noite, você é isso.
+
+1468
+01:14:44,131 --> 01:14:45,568
+ROBIN: Ah.
+
+1469
+01:14:46,699 --> 01:14:48,484
+BOB: Agora a multidão
+não é grande, e tudo
+
+1470
+01:14:48,527 --> 01:14:50,703
+o que você consegue
+é um palco simples,
+
+1471
+01:14:50,747 --> 01:14:53,489
+a banda da casa e um microfone,
+mas se eles gostam de você,
+
+1472
+01:14:53,532 --> 01:14:57,493
+Posso conseguir segundas-feiras
+regulares para você por um mês.
+
+1473
+01:14:57,536 --> 01:14:59,538
+Você sabe, todos esses
+anos eu pensei que
+
+1474
+01:14:59,582 --> 01:15:01,453
+era a estrela que
+conseguiu chegar ao topo.
+
+1475
+01:15:01,497 --> 01:15:04,282
+Acho que já é hora de você incluir
+algum material novo em sua apresentação.
+
+1476
+01:15:04,325 --> 01:15:05,457
+Que tal chiffon?
+
+1477
+01:15:05,501 --> 01:15:07,677
+Robin, você não está animado?
+
+1478
+01:15:07,720 --> 01:15:09,113
+Estou apavorado!
+
+1479
+01:15:21,342 --> 01:15:23,214
+Custo da aula.
+
+1480
+01:15:25,129 --> 01:15:27,218
+MULHER: Dra. Chatsworth,
+
+1481
+01:15:27,261 --> 01:15:28,915
+Dr.
+
+1482
+01:15:34,878 --> 01:15:36,706
+BOB: Você vai se acalmar?
+
+1483
+01:15:36,749 --> 01:15:38,055
+ROBIN: Quanto tempo eu tenho?
+
+1484
+01:15:38,098 --> 01:15:39,447
+BOB: Você tem 10 minutos.
+
+1485
+01:15:39,491 --> 01:15:41,188
+Caramba, tudo bem.  Eu vou fracassar.
+
+1486
+01:15:41,232 --> 01:15:42,581
+Você já viu aquela
+multidão lá fora?
+
+1487
+01:15:42,625 --> 01:15:43,843
+Não apenas
+heterossexual, morto, talvez.
+
+1488
+01:15:43,887 --> 01:15:45,845
+Robin, até o
+Waldorf não é hétero.
+
+1489
+01:15:45,889 --> 01:15:48,413
+Depende de qual banheiro
+você usa, vagabunda.
+
+1490
+01:15:48,456 --> 01:15:49,849
+[Rindo]
+
+1491
+01:15:54,201 --> 01:15:56,160
+Obrigado por ficar, Ana.
+
+1492
+01:15:56,203 --> 01:15:57,161
+Claro.
+
+1493
+01:15:58,118 --> 01:15:59,206
+Claro.
+
+1494
+01:16:01,600 --> 01:16:03,646
+[Gemendo]
+
+1495
+01:16:04,995 --> 01:16:07,040
+Eu acho que é isso.
+
+1496
+01:16:07,084 --> 01:16:09,042
+OK.  OK.  Enfermeira?
+
+1497
+01:16:09,782 --> 01:16:11,479
+[Conversa indistinta]
+
+1498
+01:16:11,523 --> 01:16:14,700
+[Rolamento de tambor]
+
+1499
+01:16:15,788 --> 01:16:18,791
+[Música, tocando]
+
+1500
+01:16:20,619 --> 01:16:23,317
+♪ Um beijo na mão
+
+1501
+01:16:23,361 --> 01:16:26,103
+♪ Pode ser bastante continental
+
+1502
+01:16:26,146 --> 01:16:31,499
+♪ Mas os diamantes são os
+melhores amigos de uma garota ♪
+
+1503
+01:16:31,543 --> 01:16:33,763
+♪ Um beijo pode ser grandioso
+
+1504
+01:16:33,806 --> 01:16:36,374
+♪ Mas não vai pagar o aluguel
+
+1505
+01:16:36,417 --> 01:16:39,159
+♪ No seu humilde apartamento
+
+1506
+01:16:39,203 --> 01:16:44,469
+♪ Ou ajudá-lo no automático
+
+1507
+01:16:44,512 --> 01:16:47,864
+Você sabe, cantamos essa música
+
+1508
+01:16:47,907 --> 01:16:49,517
+há 25 anos e é quase perfeita.
+
+1509
+01:16:49,561 --> 01:16:50,780
+[Rindo]
+
+1510
+01:16:50,823 --> 01:16:54,087
+Neste momento decidi assumir um
+
+1511
+01:16:54,131 --> 01:16:55,611
+novo papel, uma
+nova caracterização,
+
+1512
+01:16:55,654 --> 01:16:57,264
+uma peruca nova e tudo mais,
+
+1513
+01:16:57,308 --> 01:16:59,179
+Aceitei o papel-título em Quem
+
+1514
+01:16:59,223 --> 01:17:01,878
+Tem Medo de Virginia Woolf?
+
+1515
+01:17:01,921 --> 01:17:06,273
+Estamos abrindo no Owensboro
+Drive-in Dinner Theatre.
+
+1516
+01:17:06,317 --> 01:17:09,668
+Bem, recentemente, participei de
+uma audição para chamada de gado
+
+1517
+01:17:09,712 --> 01:17:13,150
+na cidade de Nova York, e eles
+estavam fazendo testes com garotas,
+
+1518
+01:17:13,193 --> 01:17:16,936
+sabe, para descobrir quem seria
+minha substituta como Lorelei Lee.
+
+1519
+01:17:16,980 --> 01:17:19,460
+Bem, algumas das melhores
+pessoas apareceram,
+
+1520
+01:17:19,504 --> 01:17:24,857
+e a minha favorita de todas
+foi Marlene Dietrack-- trich.
+
+1521
+01:17:26,424 --> 01:17:28,556
+É o melhor ato que você já teve.
+
+1522
+01:17:28,600 --> 01:17:31,603
+♪ Mas com corte quadrado
+ou em formato de pêra ♪
+
+1523
+01:17:31,647 --> 01:17:35,694
+♪ Essas rochas não
+perdem a forma ♪
+
+1524
+01:17:35,738 --> 01:17:41,482
+♪ Diamantes são os melhores
+amigos de uma garota ♪
+
+1525
+01:17:48,489 --> 01:17:51,492
+[Felicidades e aplausos]
+
+1526
+01:17:54,887 --> 01:17:58,151
+Não acho que essa música
+seja adequada para mim.
+
+1527
+01:17:58,195 --> 01:18:00,066
+Quebre sua câmera.
+
+1528
+01:18:05,942 --> 01:18:08,205
+Olá, aqui é Ethel Merman.
+
+1529
+01:18:08,248 --> 01:18:10,250
+Eu adoro músicas,
+vou cantar todas elas.
+
+1530
+01:18:10,294 --> 01:18:11,556
+Espero que você goste da letra
+
+1531
+01:18:11,599 --> 01:18:13,297
+porque com certeza vai ouvi-la.
+
+1532
+01:18:14,646 --> 01:18:16,082
+[Felicidades e aplausos]
+
+1533
+01:18:16,126 --> 01:18:21,435
+[Canto indistinto]
+
+1534
+01:18:21,479 --> 01:18:26,571
+♪ Diamantes são os melhores
+amigos de uma garota ♪
+
+1535
+01:18:34,361 --> 01:18:36,146
+[Aplausos]
+
+1536
+01:18:38,278 --> 01:18:41,629
+Vamos tentar Ella Fitzgerald.
+Ela é uma boa cantora.
+
+1537
+01:18:53,076 --> 01:18:59,647
+[Scat cantando]
+
+1538
+01:19:03,086 --> 01:19:07,264
+♪ Diamantes são os melhores
+amigos de uma garota ♪
+
+1539
+01:19:11,050 --> 01:19:13,487
+Oh, ei, querido...
+Pearly Mae aqui.
+
+1540
+01:19:13,531 --> 01:19:15,272
+Como vai?  Isso foi bom, Ella.
+
+1541
+01:19:15,315 --> 01:19:16,926
+Legal, hum-hmm.
+
+1542
+01:19:16,969 --> 01:19:21,278
+Mas eu... você sabe, eu te digo,
+eu sei muito sobre homens e pedras
+
+1543
+01:19:21,321 --> 01:19:25,673
+e muito sobre como salvar
+os veículos de Carol Channing.
+
+1544
+01:19:25,717 --> 01:19:28,720
+Então, faremos com que
+funcione por mais um ano.
+
+1545
+01:19:28,764 --> 01:19:30,983
+Vamos, tenham calma, rapazes.
+
+1546
+01:19:32,593 --> 01:19:35,509
+♪ Muito legal, mmm
+
+1547
+01:19:35,553 --> 01:19:39,687
+♪ Mas pegue aquele gelo
+ou então não há dados ♪
+
+1548
+01:19:39,731 --> 01:19:42,386
+♪ Guarde essas pedras
+
+1549
+01:19:42,429 --> 01:19:45,693
+♪ Mmm, no seu cofre
+
+1550
+01:19:45,737 --> 01:19:51,308
+♪ Pois deles você
+sempre pode confiar ♪
+
+1551
+01:19:55,094 --> 01:19:56,313
+Eu não preciso deste trabalho,
+
+1552
+01:19:56,356 --> 01:19:58,663
+Eu não preciso deste trabalho.
+
+1553
+01:19:58,706 --> 01:20:01,144
+Vamos tentar a Sra. Bette Midler.
+
+1554
+01:20:01,187 --> 01:20:02,536
+[Aplausos]
+
+1555
+01:20:07,846 --> 01:20:12,459
+♪ Eu dei um mergulho
+no Continental ♪
+
+1556
+01:20:12,503 --> 01:20:17,682
+♪ Onde as travestis são as
+melhores amigas das meninas ♪
+
+1557
+01:20:17,725 --> 01:20:20,032
+♪ Eu simplesmente amo a força
+
+1558
+01:20:20,076 --> 01:20:22,818
+♪ Mas eles não vão
+pagar o aluguel ♪
+
+1559
+01:20:22,861 --> 01:20:25,516
+♪ No meu vestido lixo
+
+1560
+01:20:25,559 --> 01:20:29,041
+♪ Ou me ajude com
+essa bagunça excêntrica ♪
+
+1561
+01:20:29,085 --> 01:20:34,525
+[Canto indistinto]
+
+1562
+01:20:34,568 --> 01:20:37,484
+♪ Você sempre pode depender
+
+1563
+01:20:37,528 --> 01:20:39,182
+♪ Sério, Murray?
+
+1564
+01:20:39,225 --> 01:20:43,795
+♪ A libertação gay foi
+minha própria salvação ♪
+
+1565
+01:20:43,839 --> 01:20:47,233
+♪ Divas são as melhores
+amigas das meninas ♪
+
+1566
+01:20:47,277 --> 01:20:49,670
+[Scat cantando]
+
+1567
+01:20:49,714 --> 01:20:52,195
+♪ Divas são...
+
+1568
+01:20:52,238 --> 01:20:57,765
+♪ Melhor amiga da garota
+
+1569
+01:20:57,809 --> 01:21:00,812
+[Felicidades e aplausos]
+
+1570
+01:21:02,248 --> 01:21:03,859
+ROBIN [como Carol Channing]:
+
+1571
+01:21:03,902 --> 01:21:05,208
+Não, pare, sério, só
+existe uma Lorelei,
+
+1572
+01:21:05,251 --> 01:21:07,036
+e esse sou eu, e
+esse é o caminho
+
+1573
+01:21:07,079 --> 01:21:09,342
+a música deveria
+ser feita para sempre.
+
+1574
+01:21:09,386 --> 01:21:11,692
+Lápis prontos?
+
+1575
+01:21:11,736 --> 01:21:13,912
+[Aplausos]
+
+1576
+01:21:13,956 --> 01:21:16,349
+♪ O tempo passa
+
+1577
+01:21:16,393 --> 01:21:18,569
+♪ E a juventude se foi
+
+1578
+01:21:18,612 --> 01:21:24,183
+♪ E você não consegue se
+endireitar quando se curva ♪
+
+1579
+01:21:24,227 --> 01:21:27,578
+♪ Mas costas rígidas
+ou joelhos rígidos ♪
+
+1580
+01:21:27,621 --> 01:21:30,668
+♪ Você fica direto
+na Tiffany's ♪
+
+1581
+01:21:30,711 --> 01:21:34,063
+♪ Diamantes são os melhores
+amigos de uma garota ♪
+
+1582
+01:21:34,106 --> 01:21:36,543
+♪ Não me refiro a strass
+
+1583
+01:21:36,587 --> 01:21:39,720
+♪ Diamantes, diamantes
+
+1584
+01:21:39,764 --> 01:21:42,593
+♪ Diamantes, diamantes
+
+1585
+01:21:42,636 --> 01:21:48,686
+♪ Diamantes são os melhores
+amigos de uma garota ♪
+
+1586
+01:21:48,729 --> 01:21:51,732
+[Felicidades e aplausos]
+
+1587
+01:22:09,272 --> 01:22:10,969
+Eles estão enlouquecendo
+com você lá fora.
+
+1588
+01:22:11,013 --> 01:22:13,537
+-Você tem que fazer um encore.
+-Ah, não sei de mais nada.
+
+1589
+01:22:13,580 --> 01:22:14,581
+Eu fiz tudo que sei.
+
+1590
+01:22:14,625 --> 01:22:15,800
+Você tem que fazer um.  Peggy.
+
+1591
+01:22:15,843 --> 01:22:18,194
+Não. Júlio?
+
+1592
+01:22:18,237 --> 01:22:19,760
+Judy, você não fez Judy.
+
+1593
+01:22:19,804 --> 01:22:22,111
+Ah, Judy, tudo bem.
+
+1594
+01:22:23,634 --> 01:22:27,072
+Aqui vamos nós.  Vou cantar
+todos e ficaremos a noite toda.
+
+1595
+01:22:29,945 --> 01:22:32,643
+[Música, tocando]
+
+1596
+01:22:32,686 --> 01:22:35,515
+♪ Você já viu dois amigos ♪
+
+1597
+01:22:35,559 --> 01:22:39,693
+♪ Parta para uma terra estrangeira
+
+1598
+01:22:39,737 --> 01:22:43,393
+♪ Quando o avião
+está prestes a partir ♪
+
+1599
+01:22:43,436 --> 01:22:47,658
+♪ Para a velha Nova York conforme planejado
+
+1600
+01:22:47,701 --> 01:22:51,662
+♪ Com os olhos marejados
+de lágrimas alguém dá adeus ♪
+
+1601
+01:22:51,705 --> 01:22:55,448
+♪ Eles são amigos sem dúvida ♪
+
+1602
+01:22:55,492 --> 01:22:58,060
+♪ E enquanto eu
+procurava um caminho ♪
+
+1603
+01:22:58,103 --> 01:23:00,714
+♪ eu a ouvi dizer
+
+1604
+01:23:00,758 --> 01:23:06,459
+♪ Enquanto os jatos rugem
+
+1605
+01:23:06,503 --> 01:23:10,420
+♪ Dê meus cumprimentos à Broadway
+
+1606
+01:23:10,463 --> 01:23:14,902
+♪ Lembre-se de mim
+no Herald Square ♪
+
+1607
+01:23:14,946 --> 01:23:18,384
+♪ Conte para toda
+a turma da Rua 42 ♪
+
+1608
+01:23:18,428 --> 01:23:22,823
+♪ Que em breve estarei lá
+
+1609
+01:23:22,867 --> 01:23:26,175
+♪ Sussurro de como estou desejando
+
+1610
+01:23:26,218 --> 01:23:30,701
+♪ Para se misturar com a
+multidão dos velhos tempos ♪
+
+1611
+01:23:30,744 --> 01:23:33,704
+♪ Dê meus cumprimentos
+à velha Broadway ♪
+
+1612
+01:23:33,747 --> 01:23:38,361
+♪ E diga a eles que
+estarei lá em breve ♪
+
+1613
+01:23:38,404 --> 01:23:41,799
+♪ Sussurro de como estou desejando
+
+1614
+01:23:41,842 --> 01:23:45,716
+♪ Para se misturar com a
+multidão dos velhos tempos ♪
+
+1615
+01:23:45,759 --> 01:23:49,154
+♪ Dê meus cumprimentos
+à velha Broadway ♪
+
+1616
+01:23:49,198 --> 01:23:53,506
+♪ E diga a eles que estarei lá
+
+1617
+01:23:53,550 --> 01:23:57,119
+♪ eu estarei lá
+
+1618
+01:23:57,162 --> 01:24:02,733
+♪ Eu estarei lá, em breve
+
+1619
+01:24:08,695 --> 01:24:11,698
+[Felicidades e aplausos]
+
+1620
+01:24:15,441 --> 01:24:16,964
+Você só pode estar brincando!
+
+1621
+01:24:17,008 --> 01:24:19,184
+Você tem alguma ideia de
+qual é a nossa sobrecarga?
+
+1622
+01:24:19,228 --> 01:24:20,707
+Este número não é
+suficiente e não me importa
+
+1623
+01:24:20,751 --> 01:24:22,448
+se jogarmos apenas
+uma noite por semana.
+
+1624
+01:24:22,492 --> 01:24:24,755
+Agora, fale comigo sobre
+dinheiro e me diga alguns números.
+
+1625
+01:24:24,798 --> 01:24:27,236
+Tudo bem.  Tudo bem.
+Que tal mais US$ 75?
+
+1626
+01:24:27,279 --> 01:24:30,587
+OK.  Isso é legal, mas não é
+um contrato de exclusividade.
+
+1627
+01:24:30,630 --> 01:24:31,892
+Podemos tocar no
+Jackrabbit Club no
+
+1628
+01:24:31,936 --> 01:24:34,417
+centro da cidade
+nos fins de semana.
+
+1629
+01:24:34,460 --> 01:24:35,940
+Tudo bem.  Sim.
+Agora é só assinar.
+
+1630
+01:24:35,983 --> 01:24:37,333
+Não, não, espere um minuto.
+
+1631
+01:24:37,376 --> 01:24:40,118
+Há uma cláusula sobre
+fantasias e música...
+
+1632
+01:24:40,162 --> 01:24:41,380
+Droga.
+
+1633
+01:24:44,035 --> 01:24:45,819
+Ok, ótimo, na próxima segunda-feira.
+
+1634
+01:24:45,863 --> 01:24:48,126
+Agora, quero ver exatamente o
+mesmo show que vi esta noite.
+
+1635
+01:24:48,170 --> 01:24:49,867
+-Veremos.
+-Sem improvisação.
+
+1636
+01:24:52,609 --> 01:24:54,001
+-Conseguimos.
+-Conseguimos.
+
+1637
+01:24:54,045 --> 01:24:55,481
+[Rindo]
+
+1638
+01:25:01,444 --> 01:25:03,881
+Bem, é menino ou
+menina ou não vai dizer?
+
+1639
+01:25:05,491 --> 01:25:07,711
+O bebê nasceu morto.
+
+1640
+01:25:07,754 --> 01:25:09,930
+Estou morto por dentro, Robin.
+
+1641
+01:25:09,974 --> 01:25:12,107
+O Bonecrusher conquistou.
+
+1642
+01:25:13,978 --> 01:25:15,675
+Isso não é verdade, Lisa.
+
+1643
+01:25:16,850 --> 01:25:19,984
+Você vê o que fez com minha
+
+1644
+01:25:20,027 --> 01:25:22,204
+garotinha e sua vida selvagem?
+
+1645
+01:25:22,247 --> 01:25:23,814
+Vou perder meu bebê de novo,
+
+1646
+01:25:23,857 --> 01:25:26,295
+ela precisa voltar
+para Morningside,
+
+1647
+01:25:26,338 --> 01:25:28,993
+e a culpa é sua, Robin Turner.
+
+1648
+01:25:33,345 --> 01:25:34,564
+Não foi culpa dele.
+
+1649
+01:25:35,521 --> 01:25:38,176
+Bem, foi culpa de alguém.
+
+1650
+01:25:45,836 --> 01:25:47,620
+Vamos, Bob, dirija.
+
+1651
+01:25:47,664 --> 01:25:49,013
+Para onde?
+
+1652
+01:25:49,056 --> 01:25:50,667
+Canadá.
+
+1653
+01:25:53,974 --> 01:25:56,412
+[Aceleração do motor do carro]
+
+1654
+01:25:58,892 --> 01:26:02,940
+Então, se precisar de
+alguma coisa, basta gritar
+
+1655
+01:26:02,983 --> 01:26:04,246
+ou deixar cair um
+livro, e eu estarei lá, ok?
+
+1656
+01:26:08,163 --> 01:26:11,818
+Ei, eles não podem forçar
+você a entrar em Morningside,
+
+1657
+01:26:11,862 --> 01:26:14,430
+não se você estiver agindo
+de forma saudável, sabe?
+
+1658
+01:26:14,473 --> 01:26:15,953
+Eles pegaram Martin.
+
+1659
+01:26:15,996 --> 01:26:19,261
+Agora eu, para sempre.
+
+1660
+01:26:19,304 --> 01:26:20,392
+Lisa.
+
+1661
+01:26:21,437 --> 01:26:22,351
+[Batendo]
+
+1662
+01:26:22,394 --> 01:26:23,830
+Entre.
+
+1663
+01:26:27,573 --> 01:26:29,227
+Anne, vim buscar Liza.
+
+1664
+01:26:29,271 --> 01:26:31,534
+Por favor, não me
+dê nenhum problema.
+
+1665
+01:26:35,146 --> 01:26:37,409
+OK.  Mas apresse-se
+antes que Jo entre.
+
+1666
+01:26:39,846 --> 01:26:42,545
+ROBIN: Ok.  Até consegui um
+novo motorista de táxi para você.
+
+1667
+01:26:42,588 --> 01:26:46,026
+Um nova-iorquino,
+gay, graças a Deus.
+
+1668
+01:26:46,070 --> 01:26:48,768
+Papai tem um show para fazer agora.
+Precisamos de alguns vestidos novos.
+
+1669
+01:26:48,812 --> 01:26:49,769
+Cuidadoso.
+
+1670
+01:26:49,813 --> 01:26:51,684
+Ah, tchau, Anne, obrigado.
+
+1671
+01:26:51,728 --> 01:26:53,686
+Adeus, Robin.
+
+1672
+01:26:53,730 --> 01:26:54,948
+Tchau, Liza.
+
+1673
+01:27:00,432 --> 01:27:02,826
+E com o Ziggy's às segundas
+e o Jackrabbit nos fins
+
+1674
+01:27:02,869 --> 01:27:04,958
+de semana, ganhamos
+dinheiro, dinheiro, dinheiro.
+
+1675
+01:27:05,002 --> 01:27:07,091
+Ah, as gavetas costuradas
+de Liza eram piores.
+
+1676
+01:27:09,746 --> 01:27:11,356
+Aqui, você está tudo descompactado.
+
+1677
+01:27:13,706 --> 01:27:14,533
+Você está em casa.
+
+1678
+01:27:15,447 --> 01:27:19,016
+Vamos, diga "casa" para o papai.
+
+1679
+01:27:19,059 --> 01:27:20,147
+Você está em casa.
+
+1680
+01:27:20,191 --> 01:27:22,149
+BOB: Robin, você tem certeza
+
+1681
+01:27:22,193 --> 01:27:24,761
+este é o lugar certo para ela?
+
+1682
+01:27:24,804 --> 01:27:28,591
+Não existem lugares certos
+para pessoas como Liza.
+
+1683
+01:27:28,634 --> 01:27:30,636
+Vem cá Neném.  Altura de começar.
+
+1684
+01:27:31,550 --> 01:27:32,943
+Eu estou morto.
+
+1685
+01:27:34,336 --> 01:27:36,294
+Você não está morto, mas
+está ficando muito chato.
+
+1686
+01:27:36,338 --> 01:27:37,513
+BOB: Quem você
+vai fazer esta noite?
+
+1687
+01:27:37,556 --> 01:27:39,863
+Alguém novo para
+Miss Living Dead.
+
+1688
+01:27:39,906 --> 01:27:42,909
+BOB: Você vai levá-la
+para o Jackrabbit?
+
+1689
+01:27:42,953 --> 01:27:44,215
+Não, você é.
+
+1690
+01:27:44,259 --> 01:27:46,478
+E isso e isso, veja
+se consegue fazer
+
+1691
+01:27:46,522 --> 01:27:47,784
+com que ela rabisque
+alguma coisa nele.
+
+1692
+01:27:47,827 --> 01:27:50,308
+-E vista-a um pouco.  -Meu?
+
+1693
+01:27:50,352 --> 01:27:51,918
+Finja que ela é um
+cara, deixe-a bonita.
+
+1694
+01:27:51,962 --> 01:27:53,529
+Robin, caramba.
+
+1695
+01:27:53,572 --> 01:27:55,705
+Você é louco.
+
+1696
+01:27:55,748 --> 01:27:56,836
+ROBIN: Boas notícias.
+
+1697
+01:28:01,319 --> 01:28:04,279
+[Música, tocando]
+
+1698
+01:28:07,325 --> 01:28:10,372
+[Felicidades e aplausos]
+
+1699
+01:28:12,504 --> 01:28:15,681
+♪ Às vezes estou feliz
+
+1700
+01:28:15,725 --> 01:28:18,467
+♪ Pacífico e gratuito
+
+1701
+01:28:18,510 --> 01:28:23,515
+♪ Nada nem ninguém
+está me incomodando ♪
+
+1702
+01:28:23,559 --> 01:28:29,216
+♪ Mas às vezes vejo o
+diabo na minha porta ♪
+
+1703
+01:28:29,260 --> 01:28:33,569
+♪ Parece que ninguém pode me ajudar
+
+1704
+01:28:33,612 --> 01:28:39,401
+♪ Para te encontrar
+de novo, meu amigo ♪
+
+1705
+01:28:41,316 --> 01:28:44,014
+♪ Às vezes estou ganhando
+
+1706
+01:28:44,057 --> 01:28:47,191
+♪ Rodada após rodada
+
+1707
+01:28:47,234 --> 01:28:52,370
+♪ Pessoal, venham ases...
+
+1708
+01:28:52,414 --> 01:28:57,897
+♪ Mas às vezes ela apenas
+olha para o outro lado ♪
+
+1709
+01:28:57,941 --> 01:29:01,771
+♪ Eu não sou bom em rir
+
+1710
+01:29:01,814 --> 01:29:05,122
+♪ Você pode me salvar de novo?
+
+1711
+01:29:07,342 --> 01:29:09,518
+♪ Não é fácil
+
+1712
+01:29:09,561 --> 01:29:14,392
+♪ Neste mundo louco
+
+1713
+01:29:14,436 --> 01:29:18,222
+♪ Eu nunca conseguiria
+
+1714
+01:29:18,265 --> 01:29:21,356
+♪ Sem você
+
+1715
+01:29:21,399 --> 01:29:23,793
+♪ Nós nos amamos
+
+1716
+01:29:23,836 --> 01:29:28,363
+♪ Do nosso jeito maluco
+
+1717
+01:29:28,406 --> 01:29:31,540
+♪ Quem sabe quando eles virão
+
+1718
+01:29:31,583 --> 01:29:35,021
+♪ Para nos levar embora
+
+1719
+01:29:35,065 --> 01:29:38,024
+♪ Ah, mas hoje
+
+1720
+01:29:40,375 --> 01:29:43,769
+♪ Me sentindo tão gay
+
+1721
+01:29:45,467 --> 01:29:48,426
+[Felicidades e aplausos]
+
+1722
+01:29:58,175 --> 01:30:02,353
+MULHER: ♪ Fácil, fácil, não é?
+
+1723
+01:30:02,397 --> 01:30:06,096
+♪ Você tem que sair
+
+1724
+01:30:12,842 --> 01:30:15,845
+[Felicidades e aplausos]
+
+1725
+01:30:25,071 --> 01:30:27,117
+Fantástico.
+
+1726
+01:30:31,382 --> 01:30:35,952
+MULHER: ♪ Saia, há um
+mundo que você nunca viu ♪
+
+1727
+01:30:38,520 --> 01:30:43,307
+♪ Saia, não adianta
+viver no meio ♪
+
+1728
+01:30:45,657 --> 01:30:48,791
+♪ Chame o estranho
+que mora lá dentro ♪
+
+1729
+01:30:48,834 --> 01:30:53,099
+♪ Não há perigo,
+você tem que sair ♪
+
+1730
+01:30:54,971 --> 01:30:58,844
+♪ Ah, você pode
+colocar fogo no mundo ♪
+
+1731
+01:30:58,888 --> 01:31:02,457
+♪ Ah, você pode
+colocar fogo no mundo ♪
+
+1732
+01:31:02,500 --> 01:31:07,592
+♪ Você pode colocar
+fogo no mundo se tentar ♪
+
+1733
+01:31:09,507 --> 01:31:13,380
+♪ É fácil, fácil
+
+1734
+01:31:13,424 --> 01:31:15,687
+♪ Fácil é isso
+
+1735
+01:31:15,731 --> 01:31:19,343
+♪ Você tem que sair
+
+1736
+01:31:19,386 --> 01:31:22,738
+♪ Vamos, vamos e saia ♪
+
+1737
+01:31:22,781 --> 01:31:27,830
+♪ Vamos, você tem
+que sair, apenas tente ♪
+
+1738
+01:31:27,873 --> 01:31:30,702
+♪ Saia, saia
+
+1739
+01:31:30,746 --> 01:31:33,836
+♪ Saia, saia
+
+1740
+01:31:33,879 --> 01:31:37,187
+♪ Apenas tente sair
+
+1741
+01:31:37,230 --> 01:31:39,798
+♪ Venha e saia e saia ♪
+
+1742
+01:31:39,842 --> 01:31:42,497
+Autógrafos?  Claro.
+
+1743
+01:31:47,763 --> 01:31:51,375
+Tem Valium aí, garota?
+
+1744
+01:31:52,811 --> 01:31:54,683
+Espero que você tenha gostado da minha música.
+
+1745
+01:31:55,727 --> 01:31:58,338
+Eu faço o meu melhor, eu tento.
+
+1746
+01:31:59,296 --> 01:32:01,254
+O Bonecrusher, ele não está aqui.
+
+1747
+01:32:02,604 --> 01:32:05,694
+Ele vai aparecer, todo mundo
+chega aqui eventualmente.
+
+1748
+01:32:05,737 --> 01:32:07,652
+Mas estou em seu domínio.
+
+1749
+01:32:07,696 --> 01:32:09,001
+Estou morto por dentro.
+
+1750
+01:32:10,220 --> 01:32:12,570
+Você não está morto.
+
+1751
+01:32:12,614 --> 01:32:14,703
+Você está vivo e
+doente e mora em Nova
+
+1752
+01:32:14,746 --> 01:32:16,705
+York, como oito milhões
+de outras pessoas.
+
+1753
+01:32:17,662 --> 01:32:20,230
+Ouça, você é Liza,
+
+1754
+01:32:20,273 --> 01:32:22,275
+você não é Jo,
+você não é sua mãe,
+
+1755
+01:32:22,319 --> 01:32:23,625
+você não é nenhuma das pessoas
+
+1756
+01:32:23,668 --> 01:32:25,931
+os médicos queriam
+transformar você.
+
+1757
+01:32:25,975 --> 01:32:27,454
+Você nunca será normal,
+
+1758
+01:32:28,194 --> 01:32:30,283
+mas você é especial e
+
+1759
+01:32:30,327 --> 01:32:33,460
+pode se divertir muito.
+
+1760
+01:32:35,550 --> 01:32:36,551
+Você sabe,
+
+1761
+01:32:37,464 --> 01:32:38,944
+só há uma coisa:
+
+1762
+01:32:39,989 --> 01:32:42,121
+você está louco como
+um chapeleiro, querido.
+
+1763
+01:32:42,165 --> 01:32:43,949
+[Rindo]
+
+1764
+01:32:45,777 --> 01:32:49,302
+Mas está tudo bem,
+porque eu também estou.
+
+1765
+01:32:49,346 --> 01:32:51,566
+Eu também sou.
+
+1766
+01:32:51,609 --> 01:32:54,699
+Nunca conheci ninguém
+que valesse a pena conhecer
+
+1767
+01:32:54,743 --> 01:32:56,614
+que não fosse um
+bolo de frutas positivo.
+
+1768
+01:32:57,702 --> 01:32:59,225
+Estamos todos loucos.
+
+1769
+01:33:00,792 --> 01:33:05,971
+Você e eu estamos aqui para
+amar e cuidar um do outro.
+
+1770
+01:33:06,015 --> 01:33:07,277
+Você não está morto.
+
+1771
+01:33:07,320 --> 01:33:10,106
+Você apenas tem um
+caso saudável de loucura.
+
+1772
+01:33:10,149 --> 01:33:13,979
+-Loucura?
+-Sim, faça funcionar para você.
+
+1773
+01:33:14,023 --> 01:33:15,285
+Louco.
+
+1774
+01:33:16,460 --> 01:33:18,636
+Louco, querido.
+
+1775
+01:33:18,680 --> 01:33:21,508
+-Louco.
+-Louco.
+
+1776
+01:33:21,552 --> 01:33:23,859
+-Louco.
+-Louco.
+
+1777
+01:33:23,902 --> 01:33:25,382
+Louco.
+
+1778
+01:33:25,425 --> 01:33:27,123
+[Rindo]
+
+1779
+01:33:27,166 --> 01:33:29,952
+-Louco.
+-Louco.
+
+1780
+01:33:29,995 --> 01:33:33,172
+[Rindo]
+
+1781
+01:33:33,216 --> 01:33:35,044
+Você entendeu, louco.
+
+1782
+01:33:35,087 --> 01:33:37,046
+-Louco.
+-Louco.
+
+1783
+01:33:37,089 --> 01:33:38,874
+-Louco.
+-Louco.
+
+1784
+01:33:38,917 --> 01:33:40,789
+Louco.
+
+1785
+01:33:40,832 --> 01:33:43,835
+[Música, tocando]
+
+1786
+01:33:48,884 --> 01:33:53,540
+MULHER: ♪ Saia, deixe
+sua mente correr livremente ♪
+
+1787
+01:33:55,934 --> 01:34:01,331
+♪ Saia, tenha que ser o
+que você tem que ser ♪
+
+1788
+01:34:03,420 --> 01:34:06,423
+♪ Chame o estranho
+que mora lá dentro ♪
+
+1789
+01:34:06,466 --> 01:34:11,254
+♪ Não há perigo,
+você tem que sair ♪
+
+1790
+01:34:16,563 --> 01:34:21,525
+♪ Saia, há um mundo
+que você nunca viu ♪
+
+1791
+01:34:23,658 --> 01:34:28,750
+♪ Saia, não adianta
+viver no meio ♪
+
+1792
+01:34:31,056 --> 01:34:34,233
+♪ Chame o estranho
+que mora lá dentro ♪
+
+1793
+01:34:34,277 --> 01:34:39,021
+♪ Não há perigo,
+você tem que sair ♪
+
+1794
+01:34:40,675 --> 01:34:44,330
+♪ Você pode colocar
+fogo no mundo ♪
+
+1795
+01:34:44,374 --> 01:34:47,856
+♪ Você pode colocar
+fogo no mundo ♪
+
+1796
+01:34:47,899 --> 01:34:52,904
+♪ Você pode colocar
+fogo no mundo se tentar ♪
+
+1797
+01:34:55,080 --> 01:34:58,867
+♪ É fácil, fácil
+
+1798
+01:34:58,910 --> 01:35:01,217
+♪ Fácil é isso
+
+1799
+01:35:01,260 --> 01:35:04,611
+♪ Você tem que sair
+
+1800
+01:35:30,289 --> 01:35:35,120
+♪ Saia, há um mundo
+que você nunca viu ♪
+
+1801
+01:35:37,427 --> 01:35:42,388
+♪ Saia, não adianta
+viver no meio ♪
+
+1802
+01:35:44,739 --> 01:35:47,785
+♪ Chame o estranho
+que mora lá dentro ♪
+
+1803
+01:35:47,829 --> 01:35:53,922
+♪ Não há perigo,
+você tem que sair ♪
+
+1804
+01:35:53,965 --> 01:35:57,795
+♪ Ah, você pode
+colocar fogo no mundo ♪
+
+1805
+01:35:57,839 --> 01:36:01,364
+♪ Você pode colocar
+fogo no mundo ♪
+
+1806
+01:36:01,407 --> 01:36:06,761
+♪ Você pode colocar
+fogo no mundo se tentar ♪
+
+1807
+01:36:08,588 --> 01:36:12,549
+♪ É fácil, fácil
+
+1808
+01:36:12,592 --> 01:36:14,769
+♪ Fácil é isso
+
+1809
+01:36:14,812 --> 01:36:18,076
+♪ Você tem que sair
