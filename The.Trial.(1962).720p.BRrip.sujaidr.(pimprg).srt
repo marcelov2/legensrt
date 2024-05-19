@@ -1,0 +1,6635 @@
+1
+00:00:21,185 --> 00:00:23,184
+Começando com uma
+idéia relativamente simples,
+
+2
+00:00:24,273 --> 00:00:28,272
+Kafka nos Iança a um mundo
+incoerente, absurdo e surreal.
+
+3
+00:00:29,110 --> 00:00:30,109
+A idéia é a seguinte:
+
+4
+00:00:31,153 --> 00:00:35,152
+Burocratas, o sistema da administração
+e o poder esmagam o indivíduo.
+
+5
+00:00:35,989 --> 00:00:37,989
+O indivíduo torna-se uma
+vítima da asfixia da sociedade
+
+6
+00:00:38,908 --> 00:00:39,908
+quando por sorte - ou azar -
+
+7
+00:00:40,993 --> 00:00:43,992
+esta o Iança em uma
+das engrenagens de seu sistema.
+
+8
+00:00:44,996 --> 00:00:47,995
+De um artigo de Louis Chauvet
+(Le Figaro)
+
+9
+00:01:51,083 --> 00:01:55,021
+Diante da lei, há um guarda.
+
+10
+00:01:57,091 --> 00:02:02,031
+Um homem vem do interior
+pedindo para entrar.
+
+11
+00:02:02,099 --> 00:02:05,035
+Mas o guarda, não pode
+deixá-lo entrar.
+
+12
+00:02:05,103 --> 00:02:08,039
+Ele pergunta se pode
+entrar mais tarde.
+
+13
+00:02:08,107 --> 00:02:11,043
+"É possível", diz o guarda.
+
+14
+00:02:11,111 --> 00:02:17,053
+O homem tenta olhar. Aprendeu que
+a lei foi feita para todos.
+
+15
+00:02:18,121 --> 00:02:23,059
+"Não tente entrar sem minha permissão",
+diz o guarda.
+
+16
+00:02:23,127 --> 00:02:27,065
+"Sou poderoso, apesar de ser
+o menor dos guardas".
+
+17
+00:02:27,133 --> 00:02:32,573
+"A cada sala e porta, cada guarda é
+mais poderoso que o anterior".
+
+18
+00:02:32,608 --> 00:02:38,013
+Com a permissão dada, o homem senta
+ao lado da porta, e espera.
+
+19
+00:02:42,087 --> 00:02:45,023
+Espera durante anos.
+
+20
+00:02:47,095 --> 00:02:52,033
+Ele vende tudo o que tem, na esperança
+de subornar o guarda.
+
+21
+00:02:52,101 --> 00:02:56,039
+Este, sempre aceita o que o
+homem Ihe dá,...
+
+22
+00:02:56,107 --> 00:02:59,043
+para que o homem não sinta,
+que não tentou.
+
+23
+00:02:59,111 --> 00:03:03,049
+Fazendo vigília ao
+longo dos anos,...
+
+24
+00:03:03,117 --> 00:03:08,055
+o homem conhece até as pulgas
+no colarinho do guarda.
+
+25
+00:03:09,125 --> 00:03:12,061
+Ficando gagá com a idade...
+
+26
+00:03:12,130 --> 00:03:17,067
+pede às pulgas, que convençam o guarda
+a deixá-lo entrar.
+
+27
+00:03:18,137 --> 00:03:21,073
+Sua visão é curta, mas
+na escuridão...
+
+28
+00:03:21,142 --> 00:03:25,079
+ele percebe o brilho imortal
+na porta da lei.
+
+29
+00:03:25,148 --> 00:03:27,082
+E agora antes de morrer,...
+
+30
+00:03:27,150 --> 00:03:32,089
+toda sua experiência se concentra em
+uma pergunta que nunca fez.
+
+31
+00:03:32,157 --> 00:03:36,027
+Ele chama o guarda, que pergunta
+o que ele quer.
+
+32
+00:03:37,098 --> 00:03:42,037
+O homem diz que todos lutam
+para ter lei.
+
+33
+00:03:42,104 --> 00:03:46,042
+Então, por que em todos
+aqueles anos...
+
+34
+00:03:46,110 --> 00:03:48,045
+ninguém pediu para entrar?
+
+35
+00:03:51,118 --> 00:03:55,055
+Sua audição não é boa, e o guarda
+grita em seu ouvido:
+
+36
+00:03:55,122 --> 00:03:58,060
+Só você poderia entrar.
+
+37
+00:03:58,127 --> 00:04:00,062
+Ninguém passaria por
+esta porta.
+
+38
+00:04:01,132 --> 00:04:06,071
+Esta porta foi feita somente
+para você.
+
+39
+00:04:08,141 --> 00:04:12,079
+"Agora eu a fecharei".
+
+40
+00:04:20,158 --> 00:04:26,099
+Essa é uma passagem do romance,
+"O Processo".
+
+41
+00:04:26,167 --> 00:04:31,106
+Diz-se que a lógica
+dessa história,...
+
+42
+00:04:31,173 --> 00:04:34,041
+é a lógica de um sonho.
+
+43
+00:04:35,112 --> 00:04:37,047
+De um pesadelo.
+
+44
+00:05:04,152 --> 00:05:06,086
+Srta. Burstner?
+
+45
+00:05:13,164 --> 00:05:16,101
+Esperava a Srta. Burstner?
+
+46
+00:05:17,170 --> 00:05:20,107
+Não, que idéia,...
+claro que não.
+
+47
+00:05:21,176 --> 00:05:23,110
+Mas falou seu nome.
+
+48
+00:05:24,181 --> 00:05:28,118
+- Quando?
+- Chamou-me assim, quando entrei.
+
+49
+00:05:28,185 --> 00:05:30,121
+Bem, é o quarto dela.
+
+50
+00:05:31,191 --> 00:05:35,059
+O que faz aqui? O que quer?
+Quem é você?
+
+51
+00:05:35,128 --> 00:05:39,066
+A Srta. Burstner vem aqui
+toda noite?
+
+52
+00:05:39,134 --> 00:05:41,068
+Não, nunca.
+
+53
+00:05:41,137 --> 00:05:45,074
+A porta fica trancada, e a chave fica
+com a Sra. Grubach.
+
+54
+00:05:46,144 --> 00:05:52,085
+- Onde está ela? Sra. Grubach!
+- Esperava a Sra. Grubach?
+
+55
+00:05:52,152 --> 00:05:57,091
+Não esperava ninguém. Nem você,
+seja quem for.
+
+56
+00:05:57,160 --> 00:05:59,095
+Aonde vai?
+
+57
+00:05:59,162 --> 00:06:05,104
+Acho que a Sra. Grubach gostaria de
+saber que há estranhos aqui.
+
+58
+00:06:05,170 --> 00:06:09,108
+Ia para lá. Pelo que disse, é o quarto
+da Sra. Burstner.
+
+59
+00:06:09,176 --> 00:06:13,113
+- Sim, ela gostaria de saber disso.
+- Ela não está aí.
+
+60
+00:06:13,181 --> 00:06:18,121
+Isso não é uma surpresa. Às vezes,
+ela chega tarde.
+
+61
+00:06:21,193 --> 00:06:25,131
+- Você é da polícia?
+- Ela costuma chegar tarde?
+
+62
+00:06:25,199 --> 00:06:28,134
+- Não tire conclusões.
+- Que conclusões?
+
+63
+00:06:28,203 --> 00:06:31,139
+O horário do clube, não
+é culpa dela.
+
+64
+00:06:31,208 --> 00:06:35,077
+Ela mesma responderá,
+está pra chegar.
+
+65
+00:06:36,146 --> 00:06:41,086
+- Você é da polícia?
+- Por que acha que a queremos?
+
+66
+00:06:41,155 --> 00:06:45,092
+Não tenho opinião formada
+à respeito.
+
+67
+00:06:45,160 --> 00:06:49,097
+Nada tenho com isso.
+Mal conheço a Srta. Burstner.
+
+68
+00:06:49,164 --> 00:06:52,101
+Somos vizinhos,
+isso é óbvio.
+
+69
+00:06:52,169 --> 00:06:56,107
+Ela está metida em
+algum problema?
+
+70
+00:06:56,175 --> 00:06:59,110
+Acha que viemos procurar
+a Srta. Burstner?
+
+71
+00:07:00,181 --> 00:07:04,119
+A mim é que não vieram
+procurar,... não é?
+
+72
+00:07:08,191 --> 00:07:12,129
+Você não nega, nem
+afirma nada.
+
+73
+00:07:12,197 --> 00:07:18,138
+Só fica ai me olhando em meu quarto,
+às 6:14 da manhã.
+
+74
+00:07:19,207 --> 00:07:23,145
+Por que devo tolerar isso?
+
+75
+00:07:23,212 --> 00:07:26,149
+- Nem mostrou seus documentos.
+- Não é você que deve?
+
+76
+00:07:26,217 --> 00:07:30,155
+Meus documentos estão em
+ordem. Pode ver.
+
+77
+00:07:30,223 --> 00:07:34,091
+Por que não termina
+de se vestir?
+
+78
+00:07:34,162 --> 00:07:39,101
+Para sua informação, tenho
+hábitos regulares.
+
+79
+00:07:39,169 --> 00:07:43,106
+Vestir-me às 6:15 não
+é um deles.
+
+80
+00:07:43,174 --> 00:07:47,111
+Além disso, acho que não conseguirei
+mais dormir.
+
+81
+00:07:47,180 --> 00:07:49,115
+Aonde vai?
+
+82
+00:07:50,184 --> 00:07:54,122
+Tomo banho de manhã se quer
+saber. Por quê?
+
+83
+00:07:54,189 --> 00:07:58,128
+- Não se troca diante de mim...
+- Eu me troco no banheiro.
+
+84
+00:08:00,198 --> 00:08:04,135
+- Por quê?
+- O banheiro é quente...
+
+85
+00:08:04,204 --> 00:08:07,140
+e a sala é fria. Mais
+alguma pergunta?
+
+86
+00:08:07,208 --> 00:08:11,146
+- Por que se vestiria na sala?
+- Fique aqui.
+
+87
+00:08:11,213 --> 00:08:15,152
+- Por que ia se vestir na sala?
+- Não me visto na sala.
+
+88
+00:08:15,219 --> 00:08:18,156
+Se não me trocar no banheiro
+após o banho,...
+
+89
+00:08:18,224 --> 00:08:25,154
+serei obrigado a andar pelo
+corredor de roupão.
+
+90
+00:08:25,233 --> 00:08:28,169
+Espero que entenda.
+
+91
+00:08:28,237 --> 00:08:32,175
+Você disse que ia se vestir na sala,
+não disse?
+
+92
+00:08:33,210 --> 00:08:39,117
+Para que se vestir? Não vai a lugar
+nenhum, está preso.
+
+93
+00:08:43,192 --> 00:08:45,126
+É uma acusação formal?
+
+94
+00:08:45,194 --> 00:08:47,129
+Eu não poderia fazer isso.
+
+95
+00:08:47,198 --> 00:08:52,135
+- De que sou acusado?
+- Tentativa de falar com o inspetor.
+
+96
+00:08:53,206 --> 00:08:58,144
+Começou o processo. Até depor,
+ficará em seu quarto.
+
+97
+00:08:58,212 --> 00:09:01,148
+- Estou em meu quarto.
+- Não posso evitar.
+
+98
+00:09:01,216 --> 00:09:04,152
+- Belas camisas.
+- Deixe-as aí.
+
+99
+00:09:04,221 --> 00:09:07,157
+É melhor dar suas camisas
+para nós.
+
+100
+00:09:07,224 --> 00:09:12,164
+Se as confiscarem e as levarem para
+a central, desaparecem.
+
+101
+00:09:12,232 --> 00:09:15,168
+No serviço público há
+muita corrupção.
+
+102
+00:09:15,236 --> 00:09:17,170
+- Somos seus amigos.
+- Poderia nos dar algumas...
+
+103
+00:09:18,240 --> 00:09:21,176
+Deve ser uma brincadeira...
+
+104
+00:09:21,245 --> 00:09:25,182
+dos meus amigos do escritório.
+
+105
+00:09:25,250 --> 00:09:27,185
+- Eles estão lá.
+- Quem está lá?
+
+106
+00:09:32,260 --> 00:09:34,126
+São do meu escritório.
+
+107
+00:09:35,197 --> 00:09:37,132
+Quem os trouxe?
+
+108
+00:09:38,201 --> 00:09:40,135
+A polícia?
+
+109
+00:09:40,204 --> 00:09:43,140
+O que eles têm a ver
+com isso?
+
+110
+00:09:43,208 --> 00:09:46,144
+Rabenstein, Kublick e Kaminer.
+
+111
+00:09:46,212 --> 00:09:51,152
+- O que é isso? Uma senhora!
+- É a mãe dela. Deixem isso aí!
+
+112
+00:09:51,219 --> 00:09:58,150
+Especialmente você. O que faz
+aqui, Rabenstein?
+
+113
+00:09:58,229 --> 00:10:02,166
+O inspetor disse que seria mais
+discreto se fossem juntos.
+
+114
+00:10:02,235 --> 00:10:06,172
+Discreto, pois sim! "Comedido"
+é a palavra.
+
+115
+00:10:06,240 --> 00:10:10,178
+- Como posso ir se estou preso?
+- Não precisa trabalhar.
+
+116
+00:10:10,246 --> 00:10:14,183
+- Disse para eu ficar no quarto.
+- Leu a página.
+
+117
+00:10:18,257 --> 00:10:21,193
+Obviamente, isso não deve
+ser importante.
+
+118
+00:10:23,264 --> 00:10:28,203
+Não me lembro de nada que possa
+ser acusado.
+
+119
+00:10:29,272 --> 00:10:33,211
+Só pode ser um engano.
+Algo banal.
+
+120
+00:10:38,285 --> 00:10:43,223
+Mas a verdadeira questão é:
+Quem me acusa?
+
+121
+00:10:43,292 --> 00:10:48,231
+- Com que autoridade?...
+- Não se preocupe com isso.
+
+122
+00:10:50,301 --> 00:10:54,239
+Lamento, mas não encontro
+nada subversivo...
+
+123
+00:10:54,307 --> 00:10:57,243
+- ou pornográfico.
+- Não toque em meus discos!
+
+124
+00:10:57,312 --> 00:11:00,247
+- O que é isso?
+- Meu "pornógrafo".
+
+125
+00:11:00,316 --> 00:11:03,252
+- O que é isso?
+- O quê?
+
+126
+00:11:03,319 --> 00:11:09,261
+Uma linha com quatro furos. Não é
+circular, é mais "ovular".
+
+127
+00:11:09,328 --> 00:11:12,264
+- Não anote isso.
+- Por que não?
+
+128
+00:11:12,332 --> 00:11:16,270
+- "Ovular".
+- Só porque você não quer?
+
+129
+00:11:16,338 --> 00:11:20,276
+- A palavra não é essa.
+- Nega que há algo ovular aqui?
+
+130
+00:11:20,343 --> 00:11:23,280
+- Ele nega tudo.
+- O Sr. Grubach era dentista.
+
+131
+00:11:23,348 --> 00:11:26,284
+Aí está ela.
+Sra. Grubach!
+
+132
+00:11:29,356 --> 00:11:33,329
+- Era o consultório do Sr. Grubach.
+- Ela não pode entrar aqui.
+
+133
+00:11:33,364 --> 00:11:36,231
+A cadeira de dentista estava
+pregada no chão.
+
+134
+00:11:37,302 --> 00:11:42,240
+Quer um conselho, amigo?
+Não quero que ouçam.
+
+135
+00:11:42,308 --> 00:11:44,242
+Quer dinheiro? Pegou o
+cara errado.
+
+136
+00:11:45,313 --> 00:11:49,250
+- É o que todos dizem.
+- Isto é extorsão!
+
+137
+00:11:50,320 --> 00:11:53,256
+Espere aí. Pedi
+algo à você?
+
+138
+00:11:53,324 --> 00:11:56,260
+- Vamos sair, amigo.
+- Vai criar problemas?
+
+139
+00:11:56,328 --> 00:11:59,264
+Bom dia, Sr. K. Seu café
+está pronto.
+
+140
+00:11:59,332 --> 00:12:02,268
+Gostaria que contasse a ele.
+
+141
+00:12:02,337 --> 00:12:07,275
+Ele se acha inocente e não quer
+falar. Entende?
+
+142
+00:12:07,343 --> 00:12:10,279
+Isso causa uma péssima
+impressão.
+
+143
+00:12:25,368 --> 00:12:29,306
+- Devo-Ihe desculpas.
+- Não, Sr. K.
+
+144
+00:12:34,314 --> 00:12:37,250
+Prometo que não acontecerá
+de novo.
+
+145
+00:12:37,318 --> 00:12:41,256
+Muitas coisas acontecem nesse
+mundo, Sr. K.
+
+146
+00:12:42,325 --> 00:12:45,261
+É meu melhor inquilino.
+
+147
+00:12:46,331 --> 00:12:50,268
+- Creio que posso ser franca.
+- Pode falar.
+
+148
+00:12:50,337 --> 00:12:54,274
+Penso no seu bem e levo isso mais
+a sério do que devia.
+
+149
+00:12:54,342 --> 00:12:57,278
+Sou apenas a sua senhoria.
+
+150
+00:13:01,351 --> 00:13:05,289
+Tive uma conversa particular
+com o inspetor.
+
+151
+00:13:05,357 --> 00:13:09,295
+Parece que o senhor está
+preso, Sr. K.
+
+152
+00:13:09,363 --> 00:13:12,299
+- Disso eu sei.
+- Mas não como um ladrão.
+
+153
+00:13:13,368 --> 00:13:20,300
+Sinto que sua prisão é algo mais
+abstrato, se é que me entende.
+
+154
+00:13:20,379 --> 00:13:23,314
+Tão abstrato, que não se
+aplica a mim.
+
+155
+00:13:23,383 --> 00:13:26,319
+Claro que não, Sr. K. Não vai
+comer nada?
+
+156
+00:13:26,387 --> 00:13:30,324
+Entrar assim no meu quarto...
+eu não estava preparado.
+
+157
+00:13:31,393 --> 00:13:35,263
+No escritório estou
+sempre preparado.
+
+158
+00:13:35,332 --> 00:13:38,268
+Lá eu não permitiria que
+entrassem assim.
+
+159
+00:13:38,337 --> 00:13:43,275
+As pessoas levam uma semana para
+falar com a minha secretária.
+
+160
+00:13:43,343 --> 00:13:49,285
+Meu erro foi deixá-los entrar antes
+de tomar meu café.
+
+161
+00:13:49,352 --> 00:13:52,288
+Tem sempre café pronto
+no fogão.
+
+162
+00:13:52,356 --> 00:13:56,293
+Deixo para a Sta. Burstner,
+quando voltar do trabalho.
+
+163
+00:13:56,361 --> 00:13:58,296
+Que horário ingrato.
+
+164
+00:13:58,364 --> 00:14:01,301
+- É a sua profissão.
+- Imagino que sim.
+
+165
+00:14:01,368 --> 00:14:05,307
+É o horário da boate, não é
+culpa dela.
+
+166
+00:14:05,374 --> 00:14:09,312
+Talvez não. Acha que devo
+oferecer-Ihes café?
+
+167
+00:14:10,381 --> 00:14:13,317
+- À quem?
+- Aos que trabalham com o senhor.
+
+168
+00:14:13,385 --> 00:14:16,321
+No quarto da Sta. Burstner?
+
+169
+00:14:17,391 --> 00:14:21,328
+Pensei que tivessem partido.
+O que fazem aqui?
+
+170
+00:14:24,401 --> 00:14:27,337
+Rabenstein, ponha às fotos
+onde estavam!
+
+171
+00:14:27,405 --> 00:14:30,341
+- Café para os cavalheiros.
+- Não, Sra. Grubach.
+
+172
+00:14:30,409 --> 00:14:35,279
+Não são meus amigos. Deviam ter
+saído com a polícia. Leve-os.
+
+173
+00:14:35,349 --> 00:14:40,288
+- Por aqui, senhores.
+- O que são vocês? Informantes?
+
+174
+00:14:43,361 --> 00:14:45,295
+Sobre o que informarão?
+
+175
+00:14:48,367 --> 00:14:53,307
+- Ainda está aqui?
+- Está chamando a atenção, Sr. K.
+
+176
+00:14:55,376 --> 00:15:00,315
+Chamando a atenção? Quero meus
+documentos de volta.
+
+177
+00:15:00,384 --> 00:15:04,321
+Acha que não sabemos quem
+você é?
+
+178
+00:15:04,390 --> 00:15:07,325
+Sr. K. não está ajudando seu
+caso em nada.
+
+179
+00:15:07,393 --> 00:15:10,330
+De que caso está falando?
+
+180
+00:15:10,397 --> 00:15:13,333
+- Não estou falando de nada.
+- Por que não?
+
+181
+00:15:13,402 --> 00:15:17,339
+- De que sou acusado?
+- Não posso falar do seu caso.
+
+182
+00:15:17,408 --> 00:15:19,343
+- Inspetor?
+- Sim!
+
+183
+00:15:22,415 --> 00:15:24,349
+Qual é a acusação?
+
+184
+00:15:24,417 --> 00:15:28,355
+Sr. K. está se declarando
+inocente?
+
+185
+00:15:29,424 --> 00:15:31,360
+Claro.
+
+186
+00:15:31,427 --> 00:15:37,300
+Isso é invasão de privacidade e abuso
+dos direitos civis.
+
+187
+00:15:37,369 --> 00:15:41,308
+Não conheço a tecnologia legal, mas
+um advogado me ajudará.
+
+188
+00:15:41,375 --> 00:15:45,313
+Um famoso advogado é amigo de
+minha família.
+
+189
+00:15:45,380 --> 00:15:48,317
+Ameaça fazer uma queixa oficial?
+
+190
+00:15:48,386 --> 00:15:52,322
+E farei. Também posso mencionar
+uma tentativa de extorsão.
+
+191
+00:15:52,391 --> 00:15:55,326
+Aí vem sua amiga, a
+Sra. Burstner.
+
+192
+00:15:56,396 --> 00:16:02,338
+Não é bem minha amiga. Vai ficar aqui
+na minha casa a manhã toda?
+
+193
+00:16:02,404 --> 00:16:05,340
+- Vai tirar minhas digitais?
+- Podemos fazê-lo na delegacia.
+
+194
+00:16:05,409 --> 00:16:08,344
+Onde mais registraria
+uma queixa?
+
+195
+00:16:09,415 --> 00:16:13,352
+- Vamos esquecer isso.
+- Está registrado.
+
+196
+00:16:14,421 --> 00:16:16,356
+Usou a palavra "ameaçar".
+
+197
+00:16:16,424 --> 00:16:20,362
+- Quem a usou foi você.
+- O que é esse "pornógrafo"?
+
+198
+00:16:20,430 --> 00:16:24,367
+Não tente entender, a menos que
+tenha uma mente suja.
+
+199
+00:16:25,436 --> 00:16:27,370
+Fique, Sra. Grubach.
+
+200
+00:16:27,439 --> 00:16:30,375
+Nada disso ficará bem
+no relatório.
+
+201
+00:16:30,443 --> 00:16:34,313
+Meus homens disseram que tentou
+impedir que escrevessem.
+
+202
+00:16:34,382 --> 00:16:38,320
+Tentei impedir que um deles fizesse
+papel de bobo. "Ovular".
+
+203
+00:16:38,388 --> 00:16:41,323
+O que é isso? Não existe
+tal palavra.
+
+204
+00:16:42,393 --> 00:16:45,329
+O marido da Sra. Grubach
+era dentista?
+
+205
+00:16:45,398 --> 00:16:49,335
+O que isso tem a ver com
+seu caso?
+
+206
+00:16:49,404 --> 00:16:53,340
+- Nunca disse que tivesse.
+- Por que mencionou isso?
+
+207
+00:16:53,409 --> 00:16:56,344
+Para explicar que
+formato ovular...
+
+208
+00:16:56,412 --> 00:16:59,349
+"Formato ovular"...
+
+209
+00:17:01,419 --> 00:17:03,355
+Escreve tudo o que digo!
+
+210
+00:17:03,422 --> 00:17:07,361
+O relatório deve ser completo, mas
+essa conversa fiada...
+
+211
+00:17:07,428 --> 00:17:11,365
+não causará boa impressão,
+Sr. K.
+
+212
+00:17:11,434 --> 00:17:13,368
+Não vai mesmo.
+
+213
+00:17:17,442 --> 00:17:21,380
+Ainda bem que ele se foi. Temia que
+amolasse a Srta. Burstner.
+
+214
+00:17:22,448 --> 00:17:26,387
+- Ela está subindo.
+- Mais atrasada do que nunca.
+
+215
+00:17:26,454 --> 00:17:30,392
+Espero que tenha estado fora ontem.
+A que horas ela trabalha?
+
+216
+00:17:31,462 --> 00:17:36,333
+Acho que se veste, ou se despe,
+para o 1º show, à meia noite.
+
+217
+00:17:36,401 --> 00:17:38,337
+- Um jantar dançante?
+- Não sei como chamam.
+
+218
+00:17:38,404 --> 00:17:41,340
+- É um jantar dançante.
+- Não sei dizer...
+
+219
+00:17:41,409 --> 00:17:45,346
+- É como o chamam.
+- Nunca estive em tal lugar.
+
+220
+00:17:45,415 --> 00:17:51,356
+Por que alugo meu 2º quarto a
+uma mulher desse tipo?
+
+221
+00:17:51,422 --> 00:17:54,358
+- Como assim?
+- Gente de teatro, Sr. K.
+
+222
+00:17:54,427 --> 00:17:57,363
+Não é lugar para elas. Sei que
+concorda comigo.
+
+223
+00:17:57,430 --> 00:18:02,370
+Eu não sabia. Veio com a mãe,
+uma senhora respeitável.
+
+224
+00:18:02,439 --> 00:18:05,374
+Ela também parecia. Quando
+a mãe morreu...
+
+225
+00:18:06,443 --> 00:18:10,381
+Bem, sempre tive o
+coração mole.
+
+226
+00:18:11,451 --> 00:18:15,388
+Sra. Grubach, o que está
+querendo dizer?
+
+227
+00:18:15,457 --> 00:18:18,392
+Tenho a impressão de que é sobre
+a Srta. Burstner.
+
+228
+00:18:18,460 --> 00:18:22,398
+Já que perguntou, ela não faz
+só o espetáculo,...
+
+229
+00:18:22,466 --> 00:18:26,403
+mas bebe com os homens
+depois.
+
+230
+00:18:26,471 --> 00:18:31,411
+Só perguntei se estava divagando
+sobre a moral de sua inquilina.
+
+231
+00:18:32,480 --> 00:18:35,349
+Sr. K., não diga isso...
+
+232
+00:18:35,417 --> 00:18:37,352
+Boa noite, Sra. Grubach.
+
+233
+00:18:37,419 --> 00:18:41,358
+Não a mandaria embora sem
+provas concretas.
+
+234
+00:18:43,428 --> 00:18:47,365
+Um senhorio deve manter
+sua casa...
+
+235
+00:18:48,435 --> 00:18:51,371
+acima de qualquer suspeita.
+
+236
+00:18:51,440 --> 00:18:53,374
+Acima de qualquer suspeita?
+
+237
+00:18:54,443 --> 00:18:59,382
+Sra. Grubach, se mandará gente
+embora daqui comece comigo!
+
+238
+00:19:00,452 --> 00:19:02,387
+Boa noite, Sra. Grubach.
+
+239
+00:19:03,457 --> 00:19:07,394
+- Não me entendeu...
+- Boa noite Sra. Grubach.
+
+240
+00:19:13,470 --> 00:19:15,405
+Srta. Burstner?
+
+241
+00:19:29,493 --> 00:19:32,429
+Boa noite. Ou melhor,
+bom dia.
+
+242
+00:19:32,496 --> 00:19:37,367
+Se quer dizer algo, diga:
+"Feliz Aniversário".
+
+243
+00:19:37,437 --> 00:19:41,375
+Seu aniversário? Por isso
+chegou mais tarde?
+
+244
+00:19:41,443 --> 00:19:45,381
+Não sabia que controlava meu
+horário, senhor...
+
+245
+00:19:45,449 --> 00:19:50,388
+Não quis dizer isso. Além disso,
+não é da minha conta.
+
+246
+00:19:51,458 --> 00:19:53,392
+Certo. Boa noite.
+
+247
+00:19:55,463 --> 00:19:57,398
+Feliz aniversário!
+
+248
+00:20:14,490 --> 00:20:16,424
+Desculpe...
+
+249
+00:20:31,513 --> 00:20:33,448
+Eu devia ter feito isso.
+
+250
+00:20:33,516 --> 00:20:35,451
+O quê?
+
+251
+00:20:35,519 --> 00:20:40,458
+Quando bati, devia ter esperado que
+mandasse entrar.
+
+252
+00:20:41,526 --> 00:20:45,465
+- Está com alguma idéia?
+- Claro que não.
+
+253
+00:20:45,532 --> 00:20:47,467
+Só porque bati na sua porta...
+
+254
+00:20:47,535 --> 00:20:52,475
+É o que quero dizer. Você bateu, não?
+Por que não?
+
+255
+00:20:54,545 --> 00:20:58,483
+É um bom rapaz, mas não
+estou disposta.
+
+256
+00:21:00,553 --> 00:21:03,489
+Foi uma noite longa
+e cansativa.
+
+257
+00:21:03,557 --> 00:21:06,494
+- É verdade.
+- Como sabe?
+
+258
+00:21:07,563 --> 00:21:10,499
+- Eu falava de mim. É o que
+todos fazem.
+
+259
+00:21:10,567 --> 00:21:15,507
+De que mais pode falar?
+Deixe-me descansar.
+
+260
+00:21:15,574 --> 00:21:17,509
+- Certo.
+- Certo o quê?
+
+261
+00:21:17,577 --> 00:21:23,519
+Farei o que quiser. Mas não quer
+que eu fale, não entra...
+
+262
+00:21:23,585 --> 00:21:29,526
+Como posso? A bruxa velha está doida
+para me mandar embora.
+
+263
+00:21:29,594 --> 00:21:33,531
+- Quem, a Sra. Grubach?
+- Ela está sempre me vigiando.
+
+264
+00:21:37,538 --> 00:21:41,476
+- Algum problema?
+- Já disse, estou cansada.
+
+265
+00:21:41,544 --> 00:21:42,476
+Desculpe.
+
+266
+00:21:46,550 --> 00:21:50,489
+- Esqueci o que ia Ihe perguntar.
+- Talvez se lembre.
+
+267
+00:21:51,557 --> 00:21:56,496
+Nunca lembro de nada. Grande frase...
+Fique quieto!
+
+268
+00:21:56,565 --> 00:21:58,499
+- Desculpe.
+- Desculpe...
+
+269
+00:21:58,567 --> 00:22:01,503
+Vive se desculpando.
+Quem se importa?
+
+270
+00:22:01,571 --> 00:22:03,507
+Eu sei. Des...
+
+271
+00:22:03,574 --> 00:22:06,511
+- Qual é a graça?
+- Eu ia dizer de novo.
+
+272
+00:22:06,579 --> 00:22:10,517
+Você tem razão. Ninguém dá a
+mínima, nem você.
+
+273
+00:22:10,585 --> 00:22:14,521
+Eu o quê? Deixe a
+porta aberta!
+
+274
+00:22:14,590 --> 00:22:17,525
+Concordei com você, com
+o que disse.
+
+275
+00:22:17,594 --> 00:22:19,529
+Nem sei o que eu disse.
+
+276
+00:22:19,597 --> 00:22:22,533
+Droga, todo aquele champanhe
+nacional barato...
+
+277
+00:22:22,601 --> 00:22:25,537
+Sabe de que é feito?
+
+278
+00:22:25,605 --> 00:22:27,540
+Ninguém sabe.
+
+279
+00:22:27,608 --> 00:22:30,544
+Não trocaram por
+chá gelado.
+
+280
+00:22:31,614 --> 00:22:34,482
+O freguês sabia disso...
+
+281
+00:22:34,550 --> 00:22:37,487
+E tomava pequenos goles
+da minha taça,...
+
+282
+00:22:37,555 --> 00:22:42,494
+para ter certeza de que eu
+ficaria bêbada!
+
+283
+00:22:42,562 --> 00:22:44,496
+Desculpe.
+
+284
+00:22:44,565 --> 00:22:47,501
+Droga, falei de novo.
+
+285
+00:22:47,569 --> 00:22:49,503
+Adianta se desculpar?
+
+286
+00:22:49,571 --> 00:22:53,509
+É pior quando não se fez nada e
+se sente culpado.
+
+287
+00:22:53,577 --> 00:22:56,513
+Lembro de meu pai olhando-me
+fixamente.
+
+288
+00:22:56,581 --> 00:23:00,519
+Ele dizia: "O que andou
+fazendo, rapaz"?
+
+289
+00:23:00,587 --> 00:23:04,525
+Mesmo que eu não tivesse feito,
+sentia-me culpado. Sentiu isso?
+
+290
+00:23:04,593 --> 00:23:08,531
+Depois a professora dizendo que
+sumira algo de sua mesa.
+
+291
+00:23:08,598 --> 00:23:10,533
+"Quem é o culpado"?
+
+292
+00:23:10,601 --> 00:23:14,539
+Eu, claro. Eu me sentia mal de
+tão culpado.
+
+293
+00:23:14,607 --> 00:23:17,543
+E sequer sabia o que
+havia sumido.
+
+294
+00:23:18,612 --> 00:23:20,547
+Talvez seja isso.
+
+295
+00:23:20,615 --> 00:23:25,554
+A menos que seus pensamentos
+sejam puros.
+
+296
+00:23:27,625 --> 00:23:30,561
+Isso se aplica a todos?
+
+297
+00:23:31,630 --> 00:23:34,498
+Mesmos os santos,
+têm tentações.
+
+298
+00:23:42,579 --> 00:23:46,516
+- O que acha?
+- Acho que é louco.
+
+299
+00:23:46,585 --> 00:23:48,519
+Tem razão. Isso explicaria...
+
+300
+00:23:48,587 --> 00:23:52,525
+Devo rejeitar tudo,
+exceto os fatos.
+
+301
+00:23:54,596 --> 00:23:57,531
+Sou normal, inocente, não cometi
+crime algum..
+
+302
+00:23:57,599 --> 00:23:59,535
+Três vivas para você.
+
+303
+00:23:59,603 --> 00:24:02,539
+- Não acredita em mim.
+- Claro que acredito.
+
+304
+00:24:02,607 --> 00:24:05,543
+Seja franca. O que pensa?
+
+305
+00:24:05,611 --> 00:24:07,545
+Esteve em algum lugar.
+
+306
+00:24:07,614 --> 00:24:10,549
+Acha que fui beber, que
+estou bêbado?
+
+307
+00:24:10,617 --> 00:24:15,557
+Na próxima, beba onde trabalho.
+Ganho uma porcentagem.
+
+308
+00:24:15,625 --> 00:24:21,567
+Não saí do meu quarto desde que
+voltei do trabalho ontem à noite.
+
+309
+00:24:21,633 --> 00:24:25,571
+- E não sou de beber sozinho.
+- Então, qual é seu problema?
+
+310
+00:24:26,640 --> 00:24:28,575
+Estou preso.
+
+311
+00:24:29,644 --> 00:24:32,580
+- Inacreditável, não?
+- Como aconteceu?
+
+312
+00:24:32,648 --> 00:24:35,517
+Não tenho a menor idéia.
+
+313
+00:24:35,586 --> 00:24:39,524
+Como sabe? Não é algo que
+aconteceu de repente.
+
+314
+00:24:39,592 --> 00:24:42,528
+- Fui acordado e me disseram.
+- Estava mesmo acordado?
+
+315
+00:24:42,597 --> 00:24:46,534
+Se acha que eu estava sonhando,
+veja suas fotos.
+
+316
+00:24:47,604 --> 00:24:52,543
+É minha mãe, em diferentes poses.
+"Os Pássaros", um bom show.
+
+317
+00:24:52,610 --> 00:24:56,548
+Deixe minha mãe fora disso!
+Por que o pegaram?
+
+318
+00:24:56,616 --> 00:24:59,552
+- Não me pegaram.
+- Não disse que o prenderam?
+
+319
+00:24:59,621 --> 00:25:03,558
+- Foi o que disseram.
+- Qual é a acusação?
+
+320
+00:25:03,626 --> 00:25:08,564
+Não disseram. Só sei que
+serei interrogado.
+
+321
+00:25:08,633 --> 00:25:12,570
+- É para crimes sérios.
+- Foi o que pensei.
+
+322
+00:25:12,639 --> 00:25:14,573
+Disseram que o crime não
+era sério?
+
+323
+00:25:14,641 --> 00:25:17,577
+- Não disseram isso.
+- Talvez seja um trote.
+
+324
+00:25:17,645 --> 00:25:22,585
+Pensei nisso. Algum dos colegas do
+escritório brincando comigo.
+
+325
+00:25:22,652 --> 00:25:27,591
+Mas não acreditei,
+queria acreditar.
+
+326
+00:25:27,659 --> 00:25:31,597
+É fácil ser desmoralizado,
+não é?
+
+327
+00:25:31,665 --> 00:25:34,533
+É o que querem.
+
+328
+00:25:35,604 --> 00:25:39,541
+Contam com isso. Mas
+não sou bobo...
+
+329
+00:25:39,610 --> 00:25:42,545
+Você deve ter feito algo.
+
+330
+00:25:43,615 --> 00:25:48,554
+Talvez sejam apenas boatos
+vindos do escritório.
+
+331
+00:25:48,622 --> 00:25:52,559
+- Que tipo boatos?
+- Quer dizer no meu caso?
+
+332
+00:25:52,627 --> 00:25:56,564
+Não faço a menor idéia!
+
+333
+00:25:56,633 --> 00:25:59,569
+Espero que não seja
+política!
+
+334
+00:25:59,636 --> 00:26:02,573
+- Não é nada disso.
+- Não me meta nisso!
+
+335
+00:26:02,641 --> 00:26:04,576
+Andamos em círculos.
+
+336
+00:26:04,645 --> 00:26:08,582
+Não é culpa minha. Não quero falar.
+O que faz aqui?
+
+337
+00:26:08,650 --> 00:26:11,586
+- Você me convidou.
+- É o que diz.
+
+338
+00:26:11,654 --> 00:26:14,591
+- Srta. Burstner, por favor...
+- Por favor, o quê?
+
+339
+00:26:14,658 --> 00:26:19,597
+Se está em apuros lamento, mas
+não me meta nisso.
+
+340
+00:26:19,665 --> 00:26:23,603
+Eu disse que você nada tinha com
+isso, mas não me ouviram.
+
+341
+00:26:23,671 --> 00:26:26,606
+Quando mexeram nas fotos
+de sua mãe...
+
+342
+00:26:26,675 --> 00:26:29,611
+O quê? Quem mexeu nas fotos
+de minha mãe?
+
+343
+00:26:29,679 --> 00:26:32,615
+Acho que foi o Rabenstein.
+
+344
+00:26:35,621 --> 00:26:37,556
+Mas também a polícia.
+
+345
+00:26:38,624 --> 00:26:41,561
+- A polícia?
+- Era o que eu ia Ihe dizer.
+
+346
+00:26:42,630 --> 00:26:44,564
+Fora daqui!
+
+347
+00:26:44,633 --> 00:26:47,569
+Fora daqui, deixe-me
+em paz!
+
+348
+00:26:47,636 --> 00:26:50,573
+O que os outros pensarão? Acordará
+a Sra. Grubach.
+
+349
+00:26:50,641 --> 00:26:54,579
+- Saia do meu quarto!
+- Já saí!
+
+350
+00:27:23,687 --> 00:27:27,625
+- Se tiver alguém, atendo logo.
+- O gerente geral o procura.
+
+351
+00:27:27,693 --> 00:27:29,627
+E sua prima está aqui.
+
+352
+00:27:29,695 --> 00:27:33,668
+Minha prima? Ela não devia vir
+ao escritório.
+
+353
+00:27:33,703 --> 00:27:35,569
+Ela disse que
+era sério.
+
+354
+00:27:41,647 --> 00:27:46,586
+Bom dia, senhor. Eu preparava uma
+surpresa de aniversário.
+
+355
+00:27:46,653 --> 00:27:48,588
+No armário de limpeza?
+
+356
+00:27:48,655 --> 00:27:54,598
+Comprei um bolo para uma colega, mas
+não posso deixá-lo na mesa.
+
+357
+00:27:54,665 --> 00:27:57,601
+- Não acha?
+- Quem é ela?
+
+358
+00:27:57,670 --> 00:28:01,606
+Se soubesse, eu a teria convidado
+para hoje à noite.
+
+359
+00:28:01,674 --> 00:28:05,612
+- Os ingressos se esgotaram.
+- Entendo.
+
+360
+00:28:05,679 --> 00:28:09,618
+- Espero que entenda.
+- Ela não se chateará...
+
+361
+00:28:09,685 --> 00:28:12,622
+Já se chateou. O bolo é meu
+presente de paz.
+
+362
+00:28:12,690 --> 00:28:16,628
+Se ela não aceitar, não é
+moça para você.
+
+363
+00:28:16,696 --> 00:28:18,630
+Quem é?
+
+364
+00:28:21,702 --> 00:28:24,639
+É minha prima Irmie. O que ela
+faz aqui?
+
+365
+00:28:24,706 --> 00:28:29,646
+- Sua prima?
+- É do interior, e estuda aqui.
+
+366
+00:28:30,714 --> 00:28:35,586
+- Tomo conta dela.
+- E temos de tomar conta de você.
+
+367
+00:28:35,655 --> 00:28:37,589
+Parece jovem.
+
+368
+00:28:38,659 --> 00:28:41,595
+Há hora para tudo,
+certo?
+
+369
+00:28:41,664 --> 00:28:45,601
+Garanto que ela nunca
+ousou vir aqui.
+
+370
+00:28:45,670 --> 00:28:49,606
+É um dos nossos jovens mais
+brilhantes, e em ascensão.
+
+371
+00:28:49,673 --> 00:28:51,610
+Não estrague tudo.
+
+372
+00:28:51,677 --> 00:28:54,613
+- Qual é a idade dela?
+- A Irmie?
+
+373
+00:28:56,684 --> 00:28:59,620
+Deve ter 16, no máximo.
+
+374
+00:29:00,690 --> 00:29:02,624
+Meu Deus!
+
+375
+00:29:03,694 --> 00:29:05,628
+Sr., a jovem...
+
+376
+00:29:05,696 --> 00:29:08,634
+- Tire-a daqui.
+- Ela disse que é urgente.
+
+377
+00:29:08,700 --> 00:29:12,639
+Pouco importa o que ela disse.
+Tire-a daqui!
+
+378
+00:29:31,732 --> 00:29:34,600
+- Não é o baú da Srta. Burstner?
+- E se for?
+
+379
+00:29:34,670 --> 00:29:37,606
+Pensei tê-lo reconhecido.
+Pegue o bolo.
+
+380
+00:29:37,673 --> 00:29:41,612
+Estou ocupada com
+essa coisa.
+
+381
+00:29:41,679 --> 00:29:44,616
+Deixe-me ajudá-la.
+Tome.
+
+382
+00:29:45,685 --> 00:29:48,622
+Deixe-me chamar um táxi.
+
+383
+00:29:48,690 --> 00:29:51,625
+Nem todos podem pagar um táxi,
+Sr. K.
+
+384
+00:29:51,694 --> 00:29:53,629
+Sabe meu nome?
+
+385
+00:29:53,696 --> 00:29:58,636
+Se for amiga dela, pode me dizer
+se ela está em casa?
+
+386
+00:29:58,703 --> 00:30:01,640
+Se, se refere à casa da
+Sra. Grubach,...
+
+387
+00:30:01,708 --> 00:30:04,644
+a resposta é "não".
+
+388
+00:30:04,712 --> 00:30:08,649
+Marika tem um lar, mas não é o da
+Sra. Grubach.
+
+389
+00:30:08,718 --> 00:30:10,652
+- Marika?
+- Como?
+
+390
+00:30:10,720 --> 00:30:14,658
+- Não sabia seu primeiro nome.
+- Que ironia!
+
+391
+00:30:14,726 --> 00:30:16,660
+Ela tem outra casa?
+
+392
+00:30:16,729 --> 00:30:19,665
+Agora tem, felizmente.
+
+393
+00:30:20,735 --> 00:30:23,671
+Deixe-me ajudá-la, parece
+pesado.
+
+394
+00:30:23,738 --> 00:30:27,676
+É pesado, mas eu levo
+sozinha. Obrigada.
+
+395
+00:30:27,744 --> 00:30:31,682
+- Levar o baú para onde?
+- Espero que não me siga.
+
+396
+00:30:31,750 --> 00:30:36,689
+- De forma alguma.
+- Até agora, está me seguindo.
+
+397
+00:30:36,756 --> 00:30:40,695
+Só não gosto de ver uma mulher
+carregando coisas pesadas.
+
+398
+00:30:40,762 --> 00:30:42,697
+Sobretudo as paralíticas,
+não é?
+
+399
+00:30:43,767 --> 00:30:48,705
+Já que sente tanta pena Sr. K.,
+por que não se afasta...
+
+400
+00:30:48,773 --> 00:30:52,711
+da causa do seu desconforto?
+
+401
+00:30:52,779 --> 00:30:54,713
+Desculpe.
+
+402
+00:30:56,785 --> 00:31:01,724
+Não quero incomodá-la, mas
+gostaria de saber...
+
+403
+00:31:01,791 --> 00:31:05,729
+se a Srta. Burstner se mudará,
+e para onde?
+
+404
+00:31:05,797 --> 00:31:07,731
+Algo mais?
+
+405
+00:31:07,800 --> 00:31:11,737
+Também gostaria de saber porque
+está se mudando.
+
+406
+00:31:11,806 --> 00:31:14,742
+E ainda diz que não sabe?
+
+407
+00:31:14,809 --> 00:31:18,748
+Como poderia? Acabei
+de chegar.
+
+408
+00:31:18,815 --> 00:31:21,752
+Ela não me disse que
+se mudaria.
+
+409
+00:31:21,820 --> 00:31:25,758
+Ela não ia mudar. Foi uma
+surpresa desagradável.
+
+410
+00:31:25,826 --> 00:31:28,761
+Fala como se eu fosse
+o culpado.
+
+411
+00:31:28,830 --> 00:31:32,767
+- Finge nada ter com isso?
+- Não finjo nada.
+
+412
+00:31:32,836 --> 00:31:35,704
+Só falei com ela e a beijei.
+
+413
+00:31:37,775 --> 00:31:42,714
+Não diga que só porque a beijei,
+está se mudando.
+
+414
+00:31:42,783 --> 00:31:48,724
+Afinal, é uma mulher experiente.
+Trabalha em uma boate.
+
+415
+00:31:48,791 --> 00:31:50,725
+O que está insinuando?
+
+416
+00:31:51,795 --> 00:31:56,734
+Nada, mas deve admitir que ela é
+uma mulher adulta.
+
+417
+00:31:56,802 --> 00:31:59,737
+Já devem tê-la beijado antes.
+
+418
+00:31:59,806 --> 00:32:02,742
+Acha que é um assunto para ser
+discutido na rua?
+
+419
+00:32:02,809 --> 00:32:06,748
+- Ora, diabos!
+- Não é preciso xingar.
+
+420
+00:32:06,815 --> 00:32:10,753
+Por que estou sempre errado, sem
+ao menos saber o motivo?
+
+421
+00:32:10,821 --> 00:32:13,758
+Não discutirei isso com você.
+
+422
+00:32:13,826 --> 00:32:18,764
+- Examine sua consciência.
+- Ela vai bem, obrigado.
+
+423
+00:32:18,832 --> 00:32:23,772
+Ela estava com a Sra. Grubach há
+mais tempo que o senhor.
+
+424
+00:32:23,839 --> 00:32:26,776
+Ela gostava daquele quarto.
+
+425
+00:32:26,844 --> 00:32:30,782
+O meu é pequeno, escuro,
+úmido e frio.
+
+426
+00:32:30,850 --> 00:32:34,718
+- Não terá conforto comigo.
+- Então, por que se mudou?
+
+427
+00:32:34,788 --> 00:32:39,727
+Não grite comigo. Sou aleijada,
+mas não tolerarei abusos.
+
+428
+00:32:39,796 --> 00:32:43,733
+Grite com essa tal de
+Grubach.
+
+429
+00:32:43,802 --> 00:32:46,738
+Espere aí. Quer dizer que...
+
+430
+00:32:46,805 --> 00:32:49,742
+Droga, é tarde.
+
+431
+00:32:49,810 --> 00:32:54,749
+Diga a verdade. A Sra. Grubach
+pediu que ela saísse?
+
+432
+00:32:54,816 --> 00:32:56,751
+Pensei que não soubesse.
+
+433
+00:32:56,820 --> 00:33:01,758
+Ela falou da Srta. Burstner,
+e eu contestei.
+
+434
+00:33:01,827 --> 00:33:05,764
+Eu disse que ela estava
+se excedendo.
+
+435
+00:33:05,832 --> 00:33:08,768
+Quer dizer que ela
+foi despejada?
+
+436
+00:33:11,840 --> 00:33:15,778
+Então acho que sou
+o responsável.
+
+437
+00:33:15,846 --> 00:33:17,780
+Ouça, senhora...
+
+438
+00:33:36,808 --> 00:33:38,743
+Com licença, senhor.
+
+439
+00:33:38,810 --> 00:33:41,748
+Um bilhete para o senhor. Um
+homem o espera.
+
+440
+00:33:42,816 --> 00:33:44,751
+- Onde?
+- Lá fora.
+
+441
+00:34:17,865 --> 00:34:19,801
+Acompanhe-me.
+
+442
+00:34:37,827 --> 00:34:40,762
+Estamos fazendo o
+máximo esforço...
+
+443
+00:34:40,830 --> 00:34:44,768
+para não interferirmos na
+sua vida.
+
+444
+00:34:45,838 --> 00:34:51,779
+Por exemplo, para não ter de se
+ausentar do escritório,...
+
+445
+00:34:51,846 --> 00:34:57,787
+encaixamos os interrogatórios fora
+das horas de trabalho.
+
+446
+00:35:02,861 --> 00:35:04,797
+Fique sob a lâmpada.
+
+447
+00:35:05,865 --> 00:35:07,800
+Quem são eles?
+
+448
+00:35:07,869 --> 00:35:11,806
+Não pode saber onde estão
+os interrogadores.
+
+449
+00:35:11,874 --> 00:35:13,809
+Certo, não sei.
+
+450
+00:35:15,879 --> 00:35:20,819
+Preenchi isso em seu nome. Há um
+pequeno mapa do outro lado.
+
+451
+00:35:20,887 --> 00:35:23,823
+Você o entregará assim que
+chegar.
+
+452
+00:35:23,891 --> 00:35:26,827
+- Quando será isso?
+- Agora.
+
+453
+00:35:26,895 --> 00:35:29,831
+- Está noite?
+- Espero que ache o lugar.
+
+454
+00:35:29,899 --> 00:35:33,872
+Esses dois podem me
+orientar.
+
+455
+00:35:33,907 --> 00:35:35,773
+Como assim?
+
+456
+00:35:35,840 --> 00:35:39,778
+Não me seguirão e observarão
+meus documentos?
+
+457
+00:35:41,848 --> 00:35:45,786
+Não, eles não o seguirão. Não é o
+trabalho deles.
+
+458
+00:37:01,894 --> 00:37:03,829
+Entre aí.
+
+459
+00:37:11,908 --> 00:37:15,846
+Devo fechar a porta. Ninguém mais
+deve entrar.
+
+460
+00:37:28,932 --> 00:37:32,870
+Devia ter chegado há uma hora e
+cinco minutos.
+
+461
+00:37:33,904 --> 00:37:38,810
+Tais atrasos, não devem se repetir.
+Aproxime-se, por favor.
+
+462
+00:37:51,897 --> 00:37:53,832
+Você é pintor de casas?
+
+463
+00:37:58,907 --> 00:38:03,846
+A pergunta do magistrado sobre ser
+pintor, parece típica...
+
+464
+00:38:03,914 --> 00:38:06,851
+desse processo que foi
+impetrado.
+
+465
+00:38:07,920 --> 00:38:12,858
+O livro do magistrado confirma
+o que digo.
+
+466
+00:38:12,926 --> 00:38:17,866
+Este é o relatório do magistrado
+examinador!
+
+467
+00:38:17,934 --> 00:38:20,870
+O que acontece comigo não
+é importante,...
+
+468
+00:38:20,938 --> 00:38:25,877
+mas acho que representa o que
+acontece com outras pessoas.
+
+469
+00:38:27,947 --> 00:38:31,884
+É por eles que estou aqui,
+não por mim.
+
+470
+00:38:31,953 --> 00:38:33,888
+Apoiado!
+
+471
+00:38:33,923 --> 00:38:37,827
+Fui preso e talvez, segundo às
+palavras do magistrado,...
+
+472
+00:38:37,894 --> 00:38:43,836
+haja uma ordem de prender um pedreiro,
+tão inocente quanto eu.
+
+473
+00:38:43,903 --> 00:38:48,842
+Os policiais sugeriram o suborno e
+tentaram roubar minhas roupas.
+
+474
+00:38:48,910 --> 00:38:52,848
+Fiquei calmo e pergunte o motivo
+da prisão.
+
+475
+00:38:52,915 --> 00:38:55,852
+Qual foi à resposta do inspetor?
+
+476
+00:38:55,920 --> 00:38:58,856
+Se ele estivesse aqui,
+me ajudaria.
+
+477
+00:38:58,924 --> 00:39:01,860
+Mas não falou nada, apenas
+me prendeu.
+
+478
+00:39:03,930 --> 00:39:07,869
+Vi o magistrado sinalizar
+para alguém.
+
+479
+00:39:07,936 --> 00:39:10,872
+Não sei se foi sinal de aplauso,
+ou de vaia.
+
+480
+00:39:10,941 --> 00:39:16,882
+Mas autorizo o magistrado a
+dirigir-se a seus agentes...
+
+481
+00:39:16,949 --> 00:39:20,887
+em voz alta, para que vaiem ou
+façam o que quiserem.
+
+482
+00:39:20,955 --> 00:39:24,893
+Há alguma dúvida de que, por trás
+da minha prisão...
+
+483
+00:39:24,960 --> 00:39:27,896
+está agindo uma enorme
+organização?
+
+484
+00:39:27,965 --> 00:39:31,902
+Organização composta de servidores
+civis, policiais,...
+
+485
+00:39:31,971 --> 00:39:34,839
+talvez até carrascos.
+
+486
+00:39:50,930 --> 00:39:54,866
+Vejo que todos vocês são servidores
+de algum tipo.
+
+487
+00:39:54,935 --> 00:39:58,872
+Significa que vieram ouvir o que
+puderem sobre mim.
+
+488
+00:39:58,941 --> 00:40:01,877
+Metade me aplaudiu para me animar.
+Saiam da frente!
+
+489
+00:40:01,944 --> 00:40:05,882
+Talvez treinem para iludir
+um inocente...
+
+490
+00:40:05,950 --> 00:40:10,889
+Ou se divirtam por eu achar que
+queiram justiça.
+
+491
+00:40:11,959 --> 00:40:15,896
+Espere! Só quero mencionar que
+hoje desperdiçou...
+
+492
+00:40:15,965 --> 00:40:18,901
+por conta própria,...
+
+493
+00:40:18,968 --> 00:40:22,906
+as vantagens que um interrogatório
+dá ao acusado.
+
+494
+00:40:22,974 --> 00:40:25,911
+Espere para ver.
+
+495
+00:41:25,060 --> 00:41:27,996
+- O que fazem aqui?
+- Seremos chicoteados.
+
+496
+00:41:29,066 --> 00:41:32,002
+- O quê?
+- Por sua culpa, amigo.
+
+497
+00:41:32,071 --> 00:41:35,940
+Reclamou de nós às
+autoridades.
+
+498
+00:41:36,010 --> 00:41:38,947
+- Acusou-nos de corrupção.
+- Fez uma queixa.
+
+499
+00:41:39,014 --> 00:41:42,952
+- Apenas mencionei ao inspetor.
+- E ao magistrado.
+
+500
+00:41:43,020 --> 00:41:46,957
+- Vamos embora.
+- Disse que pedimos suborno.
+
+501
+00:41:47,026 --> 00:41:49,962
+- Inocentes, vocês não são.
+- Se soubesse nosso salário...
+
+502
+00:41:50,030 --> 00:41:52,966
+Tenho família, e Frank
+quer se casar.
+
+503
+00:41:53,034 --> 00:41:55,971
+É hábito ficar com a roupa
+do preso.
+
+504
+00:41:56,038 --> 00:41:59,975
+Que diferença faz umas camisas,
+a quem vai preso?
+
+505
+00:42:00,043 --> 00:42:02,980
+- Nada.
+- Mas você abriu o bico!
+
+506
+00:42:03,049 --> 00:42:06,985
+Não foi nada pessoal, só defendi
+um princípio.
+
+507
+00:42:07,053 --> 00:42:08,989
+Não disse? Não quer que
+nos castiguem!
+
+508
+00:42:17,067 --> 00:42:22,007
+Nada teria nos acontecido se você
+não tivesse nos denunciado!
+
+509
+00:42:23,075 --> 00:42:25,010
+Por que você...
+
+510
+00:42:25,079 --> 00:42:30,018
+Que justiça é essa? Temos fichas
+limpas. Eu principalmente.
+
+511
+00:42:31,087 --> 00:42:34,956
+Se alguém se queixasse dele, ele
+estaria aqui?
+
+512
+00:42:37,028 --> 00:42:38,962
+Tire a roupa você também.
+
+513
+00:42:39,031 --> 00:42:40,966
+Tirar minhas roupas...
+
+514
+00:42:42,034 --> 00:42:44,971
+- Ouça...
+- O que você quer?
+
+515
+00:42:46,040 --> 00:42:48,977
+Se puder deixá-lo ir,
+eu agradeceria.
+
+516
+00:42:49,045 --> 00:42:51,981
+O que pretende? Vai dar
+queixa de mim?
+
+517
+00:42:52,049 --> 00:42:54,985
+Não fiz queixa alguma.
+
+518
+00:42:55,053 --> 00:42:57,989
+Se eu quisesse que fossem punidos,
+eu iria embora,...
+
+519
+00:42:58,057 --> 00:43:01,995
+fechava a porta, os olhos, não
+ouviria nada e esqueceria tudo.
+
+520
+00:43:02,063 --> 00:43:03,998
+Mas não acho que devam
+ser punidos.
+
+521
+00:43:04,067 --> 00:43:08,003
+Os seus superiores, sim. As
+autoridades, a organização.
+
+522
+00:43:08,071 --> 00:43:11,007
+Se eu fosse um juiz, não
+me importaria.
+
+523
+00:43:11,075 --> 00:43:14,012
+Até pagaria por um
+bom serviço.
+
+524
+00:43:14,080 --> 00:43:16,015
+Não aceito suborno algum.
+
+525
+00:43:16,083 --> 00:43:19,019
+Por favor, tente me
+tirar daqui!
+
+526
+00:43:19,087 --> 00:43:24,026
+Frank é mais velho que eu. Ele
+agüenta. Já apanhou antes.
+
+527
+00:43:24,093 --> 00:43:26,029
+Chega de conversa!
+
+528
+00:43:26,097 --> 00:43:29,033
+Ele sabe que merece!
+
+529
+00:44:14,097 --> 00:44:19,036
+Há um homem em seu escritório. Ele
+diz que é seu tio Max.
+
+530
+00:44:43,071 --> 00:44:45,006
+Tio Max!
+
+531
+00:44:49,080 --> 00:44:53,017
+- Olá meu rapaz.
+- O que o traz à cidade?
+
+532
+00:44:54,086 --> 00:44:55,019
+Joseph...
+
+533
+00:44:56,089 --> 00:44:58,024
+É verdade?
+
+534
+00:45:01,096 --> 00:45:05,034
+Sim, é verdade. Pelo
+menos acho.
+
+535
+00:45:05,102 --> 00:45:07,036
+E você foi preso?
+
+536
+00:45:08,106 --> 00:45:12,044
+- Tento escrever uma carta.
+- Muito bem.
+
+537
+00:45:12,112 --> 00:45:14,046
+Continue com seu trabalho.
+
+538
+00:45:24,129 --> 00:45:26,063
+Não se incomode comigo.
+
+539
+00:45:40,084 --> 00:45:43,020
+- É um caso criminal?
+- Por favor...
+
+540
+00:45:49,096 --> 00:45:51,031
+Foi o que me disseram.
+
+541
+00:45:51,100 --> 00:45:53,034
+E fica aí sentado?
+
+542
+00:46:01,112 --> 00:46:03,048
+Se não pensa em si mesmo...
+
+543
+00:46:03,116 --> 00:46:07,054
+Se não pensa em você, pense na
+família, no nosso bom nome!
+
+544
+00:46:12,129 --> 00:46:15,064
+Como veio à saber?
+
+545
+00:46:15,133 --> 00:46:17,068
+Irmie me ligou.
+
+546
+00:46:18,136 --> 00:46:23,076
+A pobre Irmie, que você não quis
+receber no escritório.
+
+547
+00:46:26,148 --> 00:46:29,084
+Não posso manter longas
+conversas...
+
+548
+00:46:29,153 --> 00:46:33,090
+com parentes durante o horário
+de trabalho.
+
+549
+00:46:34,125 --> 00:46:37,027
+- Também diz respeito a mim.
+- Tio Max...
+
+550
+00:46:37,096 --> 00:46:42,035
+Fiz essa longa viagem com o
+objetivo de tentar ajudá-lo.
+
+551
+00:46:46,108 --> 00:46:48,044
+Mas você nem quer me ver.
+
+552
+00:46:48,112 --> 00:46:50,046
+Claro que quero,...
+
+553
+00:46:52,118 --> 00:46:56,054
+mas deve entender como
+é difícil...
+
+554
+00:46:56,123 --> 00:47:00,060
+durante o horário de trabalho.
+
+555
+00:47:05,136 --> 00:47:09,073
+Parece que seu horário de trabalho
+terminou, Joseph.
+
+556
+00:47:10,142 --> 00:47:12,077
+Vamos.
+
+557
+00:47:13,147 --> 00:47:17,084
+Afinal, sou a coisa mais próxima
+de um pai...
+
+558
+00:47:17,153 --> 00:47:20,088
+que você pode achar no mundo.
+Não se esqueça disso.
+
+559
+00:47:20,156 --> 00:47:22,091
+Não esqueço tio, acredite.
+
+560
+00:47:34,144 --> 00:47:37,046
+Precisamos de ajuda legal.
+
+561
+00:47:37,113 --> 00:47:41,051
+Coisas assim, não ocorrem de repente.
+Um caso criminal!
+
+562
+00:47:41,118 --> 00:47:44,054
+- As pessoas estão ouvindo.
+- O que é aquilo?
+
+563
+00:47:44,123 --> 00:47:46,058
+Um computador.
+
+564
+00:47:49,130 --> 00:47:55,071
+Uma daquelas coisas eletrônicas que
+respondem a qualquer coisa?
+
+565
+00:47:58,142 --> 00:48:00,077
+- Pronto!
+- O quê?
+
+566
+00:48:00,145 --> 00:48:04,083
+Quer saber sobre seu caso?
+Pergunte à máquina!
+
+567
+00:48:04,150 --> 00:48:06,086
+Não é permitido.
+
+568
+00:48:06,154 --> 00:48:09,090
+Isso pode ser arranjado,
+não?
+
+569
+00:48:09,159 --> 00:48:11,093
+A quem pedirei?
+
+570
+00:48:12,162 --> 00:48:15,099
+Nem sei do que me acusam.
+
+571
+00:48:15,166 --> 00:48:20,105
+Essa é uma pergunta que o computador
+poderia responder.
+
+572
+00:48:20,173 --> 00:48:25,112
+Precisaria de dados econômicos,
+sociais e psicológicos.
+
+573
+00:48:25,180 --> 00:48:29,117
+Pode ser que consiga. Processa testes
+de personalidade.
+
+574
+00:48:29,185 --> 00:48:33,123
+Ela teria de ser alimentada com
+muitos dados.
+
+575
+00:48:33,191 --> 00:48:37,061
+- Disse "ela"?
+- É como os técnicos a chamam.
+
+576
+00:48:37,131 --> 00:48:40,067
+Como um carro, ou um
+barco. Afeição.
+
+577
+00:48:40,136 --> 00:48:43,071
+Mais do que isso.
+
+578
+00:48:44,141 --> 00:48:46,076
+Amor? Terror?
+
+579
+00:48:46,143 --> 00:48:49,079
+- Não sei.
+- Se for uma mulher, tome cuidado.
+
+580
+00:48:54,155 --> 00:48:55,087
+Espere.
+
+581
+00:49:00,163 --> 00:49:03,100
+Deve ser aquele cão
+no parque.
+
+582
+00:49:08,174 --> 00:49:12,112
+Está colocando esparadrapo. Não
+ouvirá seus gritos.
+
+583
+00:49:16,186 --> 00:49:19,121
+Vê? Assim não ouvirá nada.
+
+584
+00:49:33,209 --> 00:49:36,078
+Ele diz que toma conta
+do computador.
+
+585
+00:49:36,146 --> 00:49:38,082
+- Não toma conta.
+- É um dos técnicos.
+
+586
+00:49:39,151 --> 00:49:43,088
+Falando de fatos, um crime
+é um fato.
+
+587
+00:49:43,156 --> 00:49:45,091
+Suponha que eu tivesse cometido
+ou não um crime.
+
+588
+00:49:45,160 --> 00:49:49,097
+- Eles estão ocupados.
+- Trabalham em turnos.
+
+589
+00:49:49,165 --> 00:49:53,102
+O pessoal da noite, depois das 23:00,
+pode Ihe mostrar.
+
+590
+00:49:53,169 --> 00:49:58,109
+Tem razão, Joseph. Essa
+parafernália eletrônica...
+
+591
+00:49:58,178 --> 00:50:01,113
+não serve para nada prático.
+
+592
+00:50:02,183 --> 00:50:07,121
+Não diga que se livrará de uma
+acusação com uma calculadora.
+
+593
+00:50:12,196 --> 00:50:15,132
+Abram! Somos amigos
+do advogado.
+
+594
+00:50:15,201 --> 00:50:20,139
+É um assunto importante, e precisamos
+vê-lo agora mesmo.
+
+595
+00:50:26,216 --> 00:50:30,154
+O nome é K., pode nos anunciar?
+Parece mais uma enfermeira.
+
+596
+00:50:30,222 --> 00:50:34,160
+- O advogado está doente.
+- Disse que está doente?
+
+597
+00:50:34,227 --> 00:50:38,165
+Deve ser o coração. Nunca
+foi saudável.
+
+598
+00:50:38,233 --> 00:50:41,168
+Pode ser uma hora estranha
+para uma consulta,...
+
+599
+00:50:41,237 --> 00:50:44,173
+mas o bom Hastler não
+recusará.
+
+600
+00:50:44,240 --> 00:50:47,177
+Estudamos juntos, como
+já Ihe disse.
+
+601
+00:50:47,245 --> 00:50:49,180
+Ele tinha boa reputação.
+
+602
+00:50:52,252 --> 00:50:56,190
+- Albert, sou eu, Max!
+- Leni, estou doente para visitas!
+
+603
+00:50:57,260 --> 00:51:00,195
+Não os deixe entrar.
+Vão embora!
+
+604
+00:51:00,263 --> 00:51:03,200
+Albert, não se lembra de mim?
+
+605
+00:51:03,267 --> 00:51:05,203
+Sou seu velho amigo,
+Max!
+
+606
+00:51:06,273 --> 00:51:10,209
+- Venha, Leni.
+- Albert, o que há com você?
+
+607
+00:51:12,281 --> 00:51:16,218
+Teve outro ataque? Tudo bem,
+você se recuperará.
+
+608
+00:51:16,286 --> 00:51:20,224
+Estão cuidando de você? Está
+escuro, aqui não há luz.
+
+609
+00:51:21,293 --> 00:51:25,231
+Falta de energia claro, mas que
+tal sua enfermeira?
+
+610
+00:51:25,299 --> 00:51:27,233
+Quem? Leni?
+
+611
+00:51:28,303 --> 00:51:30,238
+Boa garota.
+
+612
+00:51:31,308 --> 00:51:37,179
+Muito boa. Cuida muito bem de
+mim, não é querida?
+
+613
+00:51:37,249 --> 00:51:42,186
+Deixe-nos a sós. Preciso falar um
+assunto pessoal com ele.
+
+614
+00:51:42,255 --> 00:51:45,191
+Não pode falar com ele,
+agora.
+
+615
+00:51:50,267 --> 00:51:53,203
+Podemos falar tudo diante
+de Leni.
+
+616
+00:51:54,273 --> 00:51:57,209
+Ela é muito discreta.
+
+617
+00:51:57,276 --> 00:52:00,213
+Não tenho nada com isso,
+não é meu assunto.
+
+618
+00:52:00,281 --> 00:52:04,218
+- De quem se trata?
+- De meu sobrinho. Eu o trouxe.
+
+619
+00:52:04,286 --> 00:52:07,222
+- Joseph K.
+- Quem?
+
+620
+00:52:11,296 --> 00:52:13,231
+Joseph K.?
+
+621
+00:52:15,302 --> 00:52:17,236
+Não tinha reparado.
+
+622
+00:52:17,304 --> 00:52:21,242
+Veio me consultar sobre seu caso.
+Isso é bom.
+
+623
+00:52:21,310 --> 00:52:25,248
+- É um caso interessante.
+- Cuidado agora.
+
+624
+00:52:25,316 --> 00:52:27,250
+- Então conhece o caso?
+- O que disse?
+
+625
+00:52:30,322 --> 00:52:32,257
+Não compreendo...
+
+626
+00:52:34,295 --> 00:52:36,196
+Eu é que não compreendo.
+
+627
+00:52:36,264 --> 00:52:40,201
+É sobre o seu caso que quer
+me consultar?
+
+628
+00:52:40,269 --> 00:52:45,209
+- Claro, o que há com você?
+- Parece que ele já sabe de mim.
+
+629
+00:52:45,276 --> 00:52:49,213
+Nos círculos que freqüento, muitos
+casos são discutidos,...
+
+630
+00:52:49,281 --> 00:52:55,223
+e lembro dos mais notórios, como o
+do sobrinho de um amigo.
+
+631
+00:52:55,291 --> 00:52:58,227
+Claro é lógico, Joseph.
+
+632
+00:52:58,294 --> 00:53:01,231
+Diz que freqüenta
+esses círculos.
+
+633
+00:53:02,299 --> 00:53:05,237
+Está ligado ao tribunal?
+
+634
+00:53:05,304 --> 00:53:09,242
+Com quem me ligaria, a não ser com
+homens da profissão?
+
+635
+00:53:09,310 --> 00:53:11,245
+Isso é indiscutível.
+
+636
+00:53:11,313 --> 00:53:14,249
+Estou em desvantagem
+pela doença,...
+
+637
+00:53:14,317 --> 00:53:18,254
+mas bons amigos do tribunal
+me visitam...
+
+638
+00:53:18,322 --> 00:53:21,259
+e ouço coisas interessantes
+deles.
+
+639
+00:53:21,326 --> 00:53:24,263
+Por exemplo, há um querido amigo
+me visitando.
+
+640
+00:53:25,332 --> 00:53:31,273
+Estávamos conversando quando vocês
+nos surpreenderam.
+
+641
+00:53:31,340 --> 00:53:35,210
+Ele preferiu retirar-se com sua
+cadeira e mesa a um canto.
+
+642
+00:53:37,283 --> 00:53:39,217
+O presidente do tribunal.
+
+643
+00:53:41,288 --> 00:53:42,221
+Onde?
+
+644
+00:53:51,303 --> 00:53:53,238
+Com licença, senhor.
+
+645
+00:53:53,306 --> 00:53:58,244
+Esqueci de apresentar. Este é meu
+velho amigo K...
+
+646
+00:53:58,312 --> 00:54:02,250
+e seu sobrinho. Sei que se interessa
+pelo seu caso.
+
+647
+00:54:02,318 --> 00:54:04,252
+Joseph K.
+
+648
+00:54:04,321 --> 00:54:07,257
+Saia, Leni. O presidente é
+muito ocupado,...
+
+649
+00:54:07,324 --> 00:54:11,263
+mas, como o caso interessa a todos,
+talvez ele fique.
+
+650
+00:54:11,330 --> 00:54:13,264
+Ficaríamos honrados.
+
+651
+00:54:13,333 --> 00:54:18,273
+- Só posso ficar alguns minutos.
+- Sabemos que não tem tempo.
+
+652
+00:54:19,341 --> 00:54:23,279
+O presidente é que pode dizer,
+meu velho amigo...
+
+653
+00:54:23,347 --> 00:54:26,283
+como defendi muitos
+casos assim.
+
+654
+00:54:26,351 --> 00:54:30,289
+E até ganhei alguns,
+parcialmente.
+
+655
+00:54:30,357 --> 00:54:36,229
+O importante é a petição inicial.
+Isso determina o processo.
+
+656
+00:54:36,298 --> 00:54:41,238
+Mas na prática, a petição inicial
+não é lida pelo júri.
+
+657
+00:54:41,306 --> 00:54:44,241
+- E por que não?
+- Costumam arquivá-las.
+
+658
+00:54:50,318 --> 00:54:53,254
+Seu amigo deve ser
+alertado...
+
+659
+00:54:53,322 --> 00:54:59,264
+de que o caso pode passar por muitos
+tribunais e, às vezes...
+
+660
+00:55:12,348 --> 00:55:14,283
+Quebrei o vidro.
+
+661
+00:55:15,353 --> 00:55:19,291
+- Por quê?
+- Para chamar a sua atenção.
+
+662
+00:55:19,359 --> 00:55:22,294
+Queria que viesse aqui.
+
+663
+00:55:30,373 --> 00:55:34,311
+- Você também me intrigou.
+- Não tirou os olhos de mim.
+
+664
+00:55:35,314 --> 00:55:37,248
+E me deixou esperando.
+
+665
+00:55:39,319 --> 00:55:42,256
+Não podia sair sem um
+motivo. Deixe...
+
+666
+00:55:42,324 --> 00:55:44,258
+Mas saiu.
+
+667
+00:55:45,328 --> 00:55:48,264
+Sim. Esse não é o
+meu casaco.
+
+668
+00:55:49,333 --> 00:55:53,270
+É melhor sair com ele,
+estava sem casaco.
+
+669
+00:55:53,339 --> 00:55:57,276
+Não sairei nem ficarei aqui.
+Voltarei para lá.
+
+670
+00:55:59,347 --> 00:56:02,283
+Sei que não gosta de mim,...
+
+671
+00:56:03,353 --> 00:56:08,292
+mas farei amor com você, e então,
+não poderá voltar.
+
+672
+00:56:09,361 --> 00:56:11,296
+O que dirão?
+
+673
+00:56:14,369 --> 00:56:16,303
+Não gosta mesmo de mim.
+
+674
+00:56:18,373 --> 00:56:21,310
+Gostar, é uma palavra fraca.
+
+675
+00:56:22,379 --> 00:56:24,315
+Tem namorada?
+
+676
+00:56:25,383 --> 00:56:29,321
+Aposto que tem. Um rapaz como você,
+deve ter alguém
+
+677
+00:56:31,392 --> 00:56:34,328
+- Para dizer a verdade...
+- Fale-me dela.
+
+678
+00:56:35,330 --> 00:56:39,268
+Não há muito a dizer. Nem sei mais
+onde mora. Tenho uma foto...
+
+679
+00:56:39,336 --> 00:56:41,270
+Tem uma foto dela?
+
+680
+00:56:44,342 --> 00:56:46,278
+É alguma atriz?
+
+681
+00:56:46,346 --> 00:56:48,281
+Não, dançarina.
+
+682
+00:56:50,351 --> 00:56:52,287
+Não é tão jovem assim.
+
+683
+00:56:52,354 --> 00:56:56,292
+Não gostei dela. Parece
+durona e egoísta.
+
+684
+00:56:56,360 --> 00:56:59,296
+Não se sacrificaria por
+um homem.
+
+685
+00:57:00,365 --> 00:57:02,300
+Não por mim.
+
+686
+00:57:04,371 --> 00:57:07,307
+Ela tem defeito físico?
+
+687
+00:57:09,378 --> 00:57:12,314
+Ela tem algum defeito físico?
+
+688
+00:57:12,383 --> 00:57:14,317
+Claro que não.
+
+689
+00:57:15,387 --> 00:57:20,325
+Se não sabe dela, então não
+significa muito para você.
+
+690
+00:57:21,395 --> 00:57:23,329
+Vou descobrir.
+
+691
+00:57:29,406 --> 00:57:32,341
+Eu tenho um defeito físico.
+
+692
+00:57:34,380 --> 00:57:36,281
+Mostrarei a você, venha.
+
+693
+00:57:58,380 --> 00:57:59,313
+Olhe!
+
+694
+00:57:59,382 --> 00:58:02,318
+A pele dos meus dedos
+médios.
+
+695
+00:58:07,392 --> 00:58:09,328
+É como uma teia.
+
+696
+00:58:10,397 --> 00:58:13,334
+Uma teia?
+Que bela mãozinha!
+
+697
+00:58:29,424 --> 00:58:31,359
+É melhor você ir.
+
+698
+00:58:32,428 --> 00:58:33,360
+Ir?
+
+699
+00:58:34,397 --> 00:58:39,302
+Direi que não se sentia bem, que
+precisava de ar fresco.
+
+700
+00:58:40,372 --> 00:58:44,309
+Volto logo com as chaves
+para você sair.
+
+701
+00:58:44,378 --> 00:58:46,312
+Não posso sair sem as chaves?
+
+702
+00:58:46,380 --> 00:58:48,315
+Não quero prendê-lo.
+
+703
+00:58:49,384 --> 00:58:54,324
+As chaves são para você entrar
+à noite... quando quiser.
+
+704
+00:58:55,393 --> 00:58:56,325
+ótimo.
+
+705
+00:59:01,402 --> 00:59:04,338
+- Quem é aquele?
+- Aquele quadro?
+
+706
+00:59:04,406 --> 00:59:08,343
+- Podia ser meu juiz.
+- Eu o conheço.
+
+707
+00:59:08,410 --> 00:59:13,350
+Ele não é assim tão alto. É
+baixinho, quase um anão.
+
+708
+00:59:16,422 --> 00:59:19,359
+Ele quis ser pintado assim.
+
+709
+00:59:20,428 --> 00:59:23,365
+Ele é vaidoso, como todos aqui.
+
+710
+00:59:25,434 --> 00:59:30,374
+Sou vaidosa e fico chateada, que não
+se interesse mais por mim.
+
+711
+00:59:30,443 --> 00:59:35,313
+- Juizes, vêm aqui ver você?
+- Ele só é um magistrado inquiridor.
+
+712
+00:59:35,381 --> 00:59:37,317
+Magistrado inquiridor!
+
+713
+00:59:37,384 --> 00:59:41,322
+Como será um juiz da
+Corte Suprema?
+
+714
+00:59:41,390 --> 00:59:45,327
+O trono e o traje são
+de invenção.
+
+715
+00:59:45,396 --> 00:59:50,335
+Está numa cadeira, com um tapete
+embaixo, para ficar mais alto.
+
+716
+01:00:01,419 --> 01:00:06,356
+- Está sempre vendo seu caso?
+- Não penso o suficiente.
+
+717
+01:00:06,425 --> 01:00:09,362
+Não, é esse o seu erro.
+
+718
+01:00:10,431 --> 01:00:14,368
+Você é teimoso e encrenqueiro,
+foi o que soube.
+
+719
+01:00:14,437 --> 01:00:18,374
+- Quem Ihe disse isso?
+- Não me pergunte nomes.
+
+720
+01:00:18,443 --> 01:00:23,380
+Siga o meu conselho, seja
+mais prestativo.
+
+721
+01:00:23,449 --> 01:00:26,385
+Prestativo? Ora essa!
+
+722
+01:00:45,479 --> 01:00:48,415
+Assim que possível, eles o
+farão confessar.
+
+723
+01:00:49,485 --> 01:00:53,423
+E nesse caso, nunca mais sairá
+de suas garras.
+
+724
+01:00:54,492 --> 01:00:56,427
+Não há esperanças.
+
+725
+01:00:56,496 --> 01:01:00,433
+E mesmo assim, precisará de
+ajuda externa.
+
+726
+01:01:00,501 --> 01:01:01,432
+Leni?
+
+727
+01:01:04,505 --> 01:01:07,442
+- Querida?
+- Onde você está, querida?
+
+728
+01:01:07,510 --> 01:01:10,447
+O presidente vai embora.
+Acompanhe-o até à saída.
+
+729
+01:01:11,516 --> 01:01:13,451
+Boa noite.
+
+730
+01:01:14,520 --> 01:01:18,457
+- Está ficando tarde.
+- O que falou sobre advogados?
+
+731
+01:01:18,526 --> 01:01:20,460
+Fazem de tudo para nos
+desencorajar.
+
+732
+01:01:20,528 --> 01:01:23,465
+O quarto deles nos tribunais, é
+tão pequeno!
+
+733
+01:01:24,534 --> 01:01:27,470
+- Pequeno?
+- E sem ventilação.
+
+734
+01:01:28,540 --> 01:01:32,478
+Só uma clarabóia. Se quiser
+respirar, tem de pedir...
+
+735
+01:01:32,546 --> 01:01:36,414
+para outro levantá-lo! Há um
+buraco no chão.
+
+736
+01:01:36,485 --> 01:01:38,420
+Se você cair nele,...
+
+737
+01:01:38,488 --> 01:01:41,423
+sua perna fica sobre o
+corredor abaixo.
+
+738
+01:01:41,492 --> 01:01:44,428
+O lugar onde os clientes
+esperam.
+
+739
+01:01:45,498 --> 01:01:48,434
+Não sabia das dificuldades.
+
+740
+01:01:51,506 --> 01:01:53,440
+Muito humilhante.
+
+741
+01:01:53,509 --> 01:01:57,446
+Só queria que o meu sobrinho
+ouvisse isso.
+
+742
+01:02:26,554 --> 01:02:29,491
+- Quem é aquele homem?
+- Qual?
+
+743
+01:02:29,559 --> 01:02:32,495
+- Ali.
+- Não devia ter aberto a porta.
+
+744
+01:02:33,565 --> 01:02:36,433
+- Quem é ele?
+- Não faz diferença.
+
+745
+01:02:37,503 --> 01:02:39,438
+Como assim?
+
+746
+01:02:40,507 --> 01:02:42,442
+Preciso ir.
+
+747
+01:02:44,512 --> 01:02:45,445
+Certo.
+
+748
+01:02:47,517 --> 01:02:51,455
+Saia por trás. Finja que estava
+esperando na rua.
+
+749
+01:02:51,522 --> 01:02:54,458
+Diga que precisava tomar
+ar fresco.
+
+750
+01:02:55,528 --> 01:02:59,467
+- O que ele faz?
+- Ele espera. É um cliente.
+
+751
+01:03:01,536 --> 01:03:03,470
+A chave.
+
+752
+01:03:08,547 --> 01:03:09,478
+Leni...
+
+753
+01:03:19,562 --> 01:03:21,497
+Joseph, como vai?
+
+754
+01:03:21,565 --> 01:03:24,500
+A enfermeira é amante
+do advogado.
+
+755
+01:03:24,569 --> 01:03:27,505
+Está querendo complicar mais
+sua situação?
+
+756
+01:03:27,573 --> 01:03:29,508
+Quer perder o caso?
+
+757
+01:03:53,542 --> 01:03:55,476
+- Procura alguém?
+- O que foi?
+
+758
+01:03:56,547 --> 01:03:59,482
+- Não há sessão?
+- Hoje, não.
+
+759
+01:04:00,552 --> 01:04:02,487
+- E por quê?
+- Virão amanhã.
+
+760
+01:04:02,554 --> 01:04:05,491
+- Certeza?
+- Meu marido é segurança aqui..
+
+761
+01:04:05,559 --> 01:04:09,497
+- Aquele que a beijou e...
+- Aquele é estudante de Direito.
+
+762
+01:04:09,565 --> 01:04:13,503
+- Mas tem influência.
+- Influência?
+
+763
+01:04:13,571 --> 01:04:15,505
+- Ele é influente.
+- Deve ser.
+
+764
+01:04:15,573 --> 01:04:18,509
+Estavam se amando no meio de
+uma multidão.
+
+765
+01:04:18,577 --> 01:04:22,515
+Acabamos com seu discurso, mas
+não pude fazer nada.
+
+766
+01:04:22,583 --> 01:04:26,521
+Quando ele começa... Não pode
+mexer nisso!
+
+767
+01:04:26,588 --> 01:04:29,524
+- É do magistrado inquiridor!
+- Entendo.
+
+768
+01:04:29,593 --> 01:04:31,527
+É o regulamento, não
+tenho culpa.
+
+769
+01:04:32,597 --> 01:04:36,466
+Lembra-se de mim?
+Ontem à noite?
+
+770
+01:04:36,535 --> 01:04:40,473
+- Meu nome é Hilda.
+- Devem ser livros de Direito...
+
+771
+01:04:40,541 --> 01:04:44,479
+e eu devo estar no meio. Acho
+que não entenderia...
+
+772
+01:04:44,547 --> 01:04:46,481
+Que sujeira!
+
+773
+01:04:51,557 --> 01:04:53,491
+É sujeira mesmo!
+
+774
+01:04:57,565 --> 01:05:00,500
+São esses os homens que
+me julgam!
+
+775
+01:05:02,571 --> 01:05:05,507
+Vou ajudá-lo. Você
+não quer?
+
+776
+01:05:05,575 --> 01:05:07,511
+Como? Se seu marido é só
+o segurança?
+
+777
+01:05:07,578 --> 01:05:10,515
+Quero ajudar, por isso
+entrei aqui.
+
+778
+01:05:10,583 --> 01:05:13,519
+Mesmo sendo proibido.
+
+779
+01:05:13,587 --> 01:05:16,523
+Obrigado, mas não quero
+envolvê-la.
+
+780
+01:05:16,591 --> 01:05:18,526
+Não saia assim, ainda não.
+
+781
+01:05:19,595 --> 01:05:22,532
+Tem idéias erradas sobre mim.
+
+782
+01:05:22,599 --> 01:05:27,539
+Sou tão insignificante para não
+ficar se eu pedir?
+
+783
+01:05:27,607 --> 01:05:31,544
+Tenho muito tempo. Vim aqui
+achando que haveria sessão.
+
+784
+01:05:31,612 --> 01:05:36,483
+Não se ofenda se eu pedir para
+não ajudar no caso.
+
+785
+01:05:36,553 --> 01:05:40,491
+Não ligo para o resultado. Se for
+sentenciado, vou rir deles.
+
+786
+01:05:40,558 --> 01:05:44,495
+Não chegará a tanto, mas
+vão protelar...
+
+787
+01:05:44,564 --> 01:05:47,500
+para tentar me arrancar
+dinheiro.
+
+788
+01:05:47,568 --> 01:05:51,506
+Diga ao magistrado que não
+darei dinheiro...
+
+789
+01:05:51,573 --> 01:05:54,510
+aos preciosos jurados.
+
+790
+01:05:56,581 --> 01:06:00,518
+Você falou que só os maiorais
+podem ajudá-lo.
+
+791
+01:06:00,586 --> 01:06:02,522
+Acho que sim.
+
+792
+01:06:02,590 --> 01:06:06,527
+Ele sempre escreve e deve mandar
+para as autoridades.
+
+793
+01:06:06,595 --> 01:06:11,534
+Ontem, quando os outros saíram, ele
+ficou escrevendo até tarde.
+
+794
+01:06:11,602 --> 01:06:15,540
+Cortaram a luz, e ele trouxe
+uma vela.
+
+795
+01:06:15,608 --> 01:06:20,547
+Aí meu marido chegou. Pusemos
+os móveis no lugar...
+
+796
+01:06:20,614 --> 01:06:24,552
+e os vizinhos trouxeram cerveja,
+conversamos à luz de velas.
+
+797
+01:06:24,620 --> 01:06:27,556
+E esquecemos completamente
+do magistrado.
+
+798
+01:06:28,626 --> 01:06:32,563
+À noite, acordei, e lá
+estava ele...
+
+799
+01:06:32,631 --> 01:06:36,500
+ao lado da cama, cobrindo a luz para
+não acordar meu marido.
+
+800
+01:06:36,570 --> 01:06:41,509
+Nem precisava, quando ele dorme,
+nada o acorda.
+
+801
+01:06:41,576 --> 01:06:47,519
+Quase soltei um grito, mas o
+magistrado foi gentil comigo.
+
+802
+01:06:47,585 --> 01:06:53,526
+Disse que havia ficado escrevendo
+e que viera devolver a vela.
+
+803
+01:06:53,594 --> 01:06:57,531
+Disse que, enquanto vivesse, não
+esqueceria o quadro...
+
+804
+01:06:57,600 --> 01:07:01,536
+que eu compunha dormindo
+na cama.
+
+805
+01:07:01,604 --> 01:07:06,544
+Isto prova que ele anda ocupado
+escrevendo longos relatórios.
+
+806
+01:07:06,612 --> 01:07:10,548
+O de ontem, deve ter sido o seu,
+e alguém deve lê-lo.
+
+807
+01:07:10,617 --> 01:07:13,554
+E está interessado em mim.
+
+808
+01:07:13,622 --> 01:07:16,558
+Talvez possa ajudar você.
+
+809
+01:07:16,626 --> 01:07:21,565
+Mandou-me meias pelo
+estudante. Quer ver?
+
+810
+01:07:21,632 --> 01:07:23,567
+Cuidado!
+
+811
+01:07:25,638 --> 01:07:27,572
+- Bert?
+- Eu sei, ele é feio.
+
+812
+01:07:27,641 --> 01:07:30,577
+Viu as pernas dele?
+
+813
+01:07:30,645 --> 01:07:33,581
+Preciso ficar com ele agora.
+
+814
+01:07:33,649 --> 01:07:37,519
+Voltarei logo. Irei com você
+aonde quiser.
+
+815
+01:07:37,588 --> 01:07:39,522
+E poderá fazer o que
+quiser comigo.
+
+816
+01:07:39,590 --> 01:07:42,527
+Não acredita em mim?
+
+817
+01:07:43,596 --> 01:07:45,531
+Por que deveria?
+
+818
+01:07:46,600 --> 01:07:49,536
+Pode ser armadilha.
+
+819
+01:07:50,606 --> 01:07:54,544
+- Está com medo?
+- Quem é o estudante?
+
+820
+01:07:54,612 --> 01:07:56,546
+- E se for?
+- Só estava pensando.
+
+821
+01:07:56,614 --> 01:07:58,549
+Não pense.
+
+822
+01:08:01,622 --> 01:08:05,559
+Seria uma doce vingança
+tirá-la deles.
+
+823
+01:08:06,628 --> 01:08:10,566
+- Por quê não?
+- À noite, quando o magistrado...
+
+824
+01:08:10,634 --> 01:08:14,572
+ficasse escrevendo relatórios
+sobre mim,...
+
+825
+01:08:14,640 --> 01:08:17,576
+encontraria sua cama vazia.
+
+826
+01:08:28,659 --> 01:08:31,595
+Vá embora! Devia ter saído
+quando eu cheguei.
+
+827
+01:08:31,663 --> 01:08:34,634
+- Acha mesmo?
+- É como deve ser.
+
+828
+01:08:34,669 --> 01:08:37,536
+Eu chego, e você dá o fora!
+
+829
+01:08:41,610 --> 01:08:46,549
+Estou detectando a insolência de
+um futuro magistrado.
+
+830
+01:08:46,618 --> 01:08:50,554
+Não deviam deixá-lo solto assim.
+Foi um erro.
+
+831
+01:08:50,622 --> 01:08:52,558
+Falei ao magistrado.
+
+832
+01:08:52,626 --> 01:08:54,560
+Não banque o engraçado!
+
+833
+01:08:57,632 --> 01:08:59,568
+Espere!
+
+834
+01:09:00,637 --> 01:09:03,572
+- Não adianta!
+- Como assim?
+
+835
+01:09:03,641 --> 01:09:05,576
+- Ele mandou me buscar.
+- Quem?
+
+836
+01:09:05,644 --> 01:09:08,580
+O magistrado inquiridor.
+
+837
+01:09:08,649 --> 01:09:11,584
+Não quero, mas o monstro
+não me larga!
+
+838
+01:09:15,658 --> 01:09:17,592
+Desculpe. Preciso ir.
+
+839
+01:09:22,667 --> 01:09:26,605
+- Agora escute.
+- Deixe-o, quer me arruinar?
+
+840
+01:09:26,673 --> 01:09:30,611
+- Ele segue ordens do magistrado.
+- Está bem, leve-a!
+
+841
+01:09:30,679 --> 01:09:34,652
+- Mentiu para mim.
+- Por que eu mentiria?
+
+842
+01:09:34,687 --> 01:09:37,554
+- Não vai com o magistrado.
+- Vou sim!
+
+843
+01:09:37,623 --> 01:09:41,560
+Vai dizer que ele a espera num
+lugar destes.
+
+844
+01:09:41,627 --> 01:09:44,564
+São as salas do tribunal. Onde
+mais seria?
+
+845
+01:09:44,633 --> 01:09:46,567
+As salas do tribunal...
+
+846
+01:09:46,635 --> 01:09:48,569
+Um lugar...
+
+847
+01:09:51,642 --> 01:09:52,574
+Droga!
+
+848
+01:10:12,671 --> 01:10:14,606
+Você é o réu?
+
+849
+01:10:14,674 --> 01:10:16,609
+Meu nome é K.
+
+850
+01:10:17,678 --> 01:10:20,614
+É o segurança do tribunal?
+
+851
+01:10:20,682 --> 01:10:22,617
+Sou o marido dela.
+
+852
+01:10:22,686 --> 01:10:24,620
+É domingo de noite.
+
+853
+01:10:27,692 --> 01:10:29,627
+Não devia trabalhar hoje.
+
+854
+01:10:29,695 --> 01:10:34,634
+Mas para que eu não atrapalhe, me
+mandam fazer tarefas inúteis.
+
+855
+01:10:37,706 --> 01:10:41,644
+Aquele estudante... se meu trabalho
+não dependesse disso...
+
+856
+01:10:41,712 --> 01:10:46,650
+já o teria jogado contra a parede
+há muito tempo.
+
+857
+01:10:48,722 --> 01:10:51,658
+Lá, um pouco acima do chão.
+
+858
+01:10:52,727 --> 01:10:57,667
+Tudo ensangüentado, com os braços,
+os dedos,...
+
+859
+01:10:57,734 --> 01:11:00,670
+e aquelas pernas tortas,
+retorcidas,...
+
+860
+01:11:01,740 --> 01:11:06,679
+como uma barata esmagada.
+
+861
+01:11:10,753 --> 01:11:13,688
+Antes ele satisfazia
+seus prazeres...
+
+862
+01:11:13,757 --> 01:11:16,693
+mas agora, é o magistrado
+inquiridor!
+
+863
+01:11:18,763 --> 01:11:20,699
+E ela não tem culpa?
+
+864
+01:11:20,766 --> 01:11:23,703
+Ela se atira para ele. Na minha
+posição, nada posso fazer.
+
+865
+01:11:23,771 --> 01:11:26,707
+Mas queria que ele levasse
+uma sova!
+
+866
+01:11:26,775 --> 01:11:30,712
+Ele é covarde. Nunca mais
+tocaria nela.
+
+867
+01:11:30,781 --> 01:11:32,715
+Só você pode fazer isso.
+
+868
+01:11:32,783 --> 01:11:34,717
+Só eu?
+
+869
+01:11:35,721 --> 01:11:38,656
+- Como assim?
+- Não o prenderam?
+
+870
+01:11:38,724 --> 01:11:42,662
+Por isso, eu é que devo ter
+medo dele.
+
+871
+01:11:42,730 --> 01:11:45,667
+- Ouvi falar do seu discurso.
+- E daí?
+
+872
+01:11:47,736 --> 01:11:50,673
+Achei que não tivesse
+medo algum.
+
+873
+01:11:50,741 --> 01:11:52,676
+E não tenho.
+
+874
+01:11:52,745 --> 01:11:58,686
+Nem pessoalmente, nem de jeito nenhum
+deles. Mas ele tem influência.
+
+875
+01:11:58,753 --> 01:12:02,691
+É amigo do magistrado, e meu caso já
+levanta preconceitos.
+
+876
+01:12:02,758 --> 01:12:06,696
+- Não há preconceitos!
+- Terei de discordar de você.
+
+877
+01:12:07,765 --> 01:12:12,703
+- Mas posso cuidar do estudante.
+- Eu Ihe agradeceria muito.
+
+878
+01:12:32,800 --> 01:12:35,668
+Estas são as salas do tribunal.
+
+879
+01:12:39,742 --> 01:12:42,679
+Minha esposa e o magistrado
+estão aqui.
+
+880
+01:12:46,753 --> 01:12:50,691
+Não tenho a chave desta.
+
+881
+01:13:06,781 --> 01:13:10,717
+- Quem é essa gente?
+- São os acusados.
+
+882
+01:13:38,758 --> 01:13:41,694
+- O que faz aqui?
+- Estou esperando.
+
+883
+01:13:42,763 --> 01:13:45,700
+- O quê?
+- Entreguei várias petições.
+
+884
+01:13:45,769 --> 01:13:49,705
+Faz tempo, estou esperando
+o resultado.
+
+885
+01:13:49,774 --> 01:13:53,711
+- Parece estar tendo trabalho.
+- Sim, mas é meu caso.
+
+886
+01:13:53,778 --> 01:13:57,717
+Estou preso e não faço petições.
+Acha isso necessário?
+
+887
+01:13:57,784 --> 01:14:01,723
+Não sei exatamente, mas fiz
+minhas petições.
+
+888
+01:14:01,790 --> 01:14:04,727
+Não acredita que estou preso?
+
+889
+01:14:04,795 --> 01:14:08,732
+- Claro que sim.
+- Por que não acredita?
+
+890
+01:14:11,804 --> 01:14:14,740
+O que acha que sou?
+
+891
+01:14:14,807 --> 01:14:17,745
+Acha que sou um juiz?
+
+892
+01:14:27,826 --> 01:14:30,763
+Abram caminho. Saiam todos
+da frente!
+
+893
+01:14:36,773 --> 01:14:39,710
+Como saio daqui? Já
+me cansei.
+
+894
+01:14:40,778 --> 01:14:45,718
+- Já vai? Ainda não viu nada.
+- Nem quero, só quero ir embora.
+
+895
+01:14:46,788 --> 01:14:49,724
+Fique á direita da passarela...
+
+896
+01:14:50,793 --> 01:14:53,728
+e depois, vá até...
+
+897
+01:14:53,796 --> 01:14:56,733
+à segunda esquina, e depois à
+esquerda pelo saguão...
+
+898
+01:14:56,801 --> 01:15:01,740
+É melhor me mostrar. Não vou
+conseguir achar sozinho.
+
+899
+01:15:01,808 --> 01:15:03,742
+Tenho uma mensagem
+a entregar.
+
+900
+01:15:03,811 --> 01:15:06,747
+- Venha comigo!
+- Não grite!
+
+901
+01:15:06,814 --> 01:15:11,754
+Quer atrair os seguranças? Terá de
+dizer que é um acusado.
+
+902
+01:15:11,823 --> 01:15:13,757
+Não quero esconder nada.
+
+903
+01:15:13,825 --> 01:15:16,760
+- O que direi a eles?
+- A verdade.
+
+904
+01:15:16,829 --> 01:15:19,765
+Vim ver se este famoso
+sistema judiciário,...
+
+905
+01:15:19,832 --> 01:15:22,769
+é tão detestável quanto
+eu pensava.
+
+906
+01:15:23,838 --> 01:15:26,775
+Estou muito deprimido para
+ver mais.
+
+907
+01:15:26,843 --> 01:15:29,778
+Quero sair e ficar só.
+
+908
+01:16:00,823 --> 01:16:02,758
+Está com tontura?
+
+909
+01:16:04,829 --> 01:16:07,765
+Todos passam mal na
+primeira visita.
+
+910
+01:16:07,832 --> 01:16:10,769
+É o ar. É o cheiro de
+roupa lavada.
+
+911
+01:16:10,837 --> 01:16:14,775
+Não pode impedir que lavem
+sua roupa.
+
+912
+01:16:14,843 --> 01:16:17,778
+Não podemos fazer nada.
+
+913
+01:16:17,847 --> 01:16:19,782
+Aonde vai?
+
+914
+01:16:25,859 --> 01:16:29,795
+- Quer ir a enfermaria?
+- Não se incomode.
+
+915
+01:16:31,867 --> 01:16:37,739
+- Se eu pudesse respirar ar puro...
+- Falta pouco. Aí está a porta.
+
+916
+01:16:40,812 --> 01:16:42,747
+Você não queria sair?
+
+917
+01:16:50,826 --> 01:16:53,762
+Não estou acostumada ao
+ar fresco.
+
+918
+01:17:19,867 --> 01:17:24,805
+- Irmie, o que faz aqui?
+- Eu estava procurando você.
+
+919
+01:17:24,873 --> 01:17:27,810
+O tio Max deve estar me
+espionando.
+
+920
+01:17:27,878 --> 01:17:30,813
+Ele escreve pedindo notícias.
+
+921
+01:17:30,882 --> 01:17:35,753
+Não tem notícias do caso, e está
+preocupado. Todos nós estamos.
+
+922
+01:17:35,823 --> 01:17:37,758
+Diga-Ihe que não se preocupe.
+
+923
+01:17:37,826 --> 01:17:40,761
+Preciso escrever alguma coisa.
+
+924
+01:17:41,831 --> 01:17:44,767
+- Diga que está tudo sob controle.
+- Está mesmo?
+
+925
+01:17:44,836 --> 01:17:46,771
+Não sei...
+
+926
+01:17:46,838 --> 01:17:49,775
+Detesto ser chata, mas sabe
+como ele é...
+
+927
+01:17:49,843 --> 01:17:52,779
+quanto a honrar o nome
+da família.
+
+928
+01:17:52,847 --> 01:17:56,784
+- Talvez tenha razão.
+- Não diga besteiras.
+
+929
+01:17:56,852 --> 01:18:00,790
+Espero que não tenha dito o
+que pensei.
+
+930
+01:18:00,857 --> 01:18:03,794
+- Que vergonha. Qual a sua idade?
+- Quase 16.
+
+931
+01:18:03,862 --> 01:18:07,800
+Tem 15, e não devia ter
+vindo sozinha.
+
+932
+01:18:07,868 --> 01:18:10,804
+Vim porque você se meteu
+em encrencas.
+
+933
+01:18:10,872 --> 01:18:12,806
+- Não a vigiam na escola?
+- Tentam.
+
+934
+01:18:12,874 --> 01:18:16,812
+- Sai depois da hora?
+- Você não é o único malandro.
+
+935
+01:18:16,880 --> 01:18:19,816
+- Não tem graça.
+- Diga que sou delinqüente.
+
+936
+01:18:19,884 --> 01:18:22,820
+O que direi sobre você? Não
+há novidades?
+
+937
+01:18:25,892 --> 01:18:30,832
+Estou pensando em me livrar do
+velho amigo de seu pai.
+
+938
+01:18:30,900 --> 01:18:35,771
+O Dr. Hastler nada faz além de
+adiar o processo.
+
+939
+01:18:35,839 --> 01:18:38,776
+É seu advogado? Vai ficar
+sem advogado?
+
+940
+01:18:38,844 --> 01:18:40,779
+Fácil é só demiti-lo
+do caso.
+
+941
+01:18:41,848 --> 01:18:43,783
+E depois?
+
+942
+01:18:43,851 --> 01:18:45,785
+Sei lá.
+
+943
+01:18:46,856 --> 01:18:48,790
+Nada mais concreto?
+
+944
+01:18:48,857 --> 01:18:50,793
+- Nada.
+- Mas precisa de advogado.
+
+945
+01:18:50,861 --> 01:18:56,803
+Hastler vive se gabando de seus
+contatos, mas o que ele pretende?
+
+946
+01:18:56,869 --> 01:19:01,808
+Não sou burro, sei me defender. Veja
+meu cargo no escritório.
+
+947
+01:19:01,876 --> 01:19:04,812
+Posso chegar a gerente geral
+do departamento.
+
+948
+01:19:04,880 --> 01:19:08,818
+É só aplicar os conhecimentos
+no meu caso.
+
+949
+01:19:08,886 --> 01:19:12,824
+Livrando-me do advogado, posso fazer
+meu próprio plano.
+
+950
+01:19:13,892 --> 01:19:17,830
+- Aqui nos separamos.
+- Vai trabalhar agora?
+
+951
+01:19:17,898 --> 01:19:21,836
+O serviço acumulou, preciso
+terminar o trabalho.
+
+952
+01:19:21,904 --> 01:19:26,843
+- Devia levá-la até a escola.
+- Só falta chegar com um homem.
+
+953
+01:19:26,910 --> 01:19:28,846
+- Sou seu primo.
+- Primos se casam.
+
+954
+01:19:28,914 --> 01:19:31,850
+- Casar com um bandido?
+- Bandidos se casam.
+
+955
+01:19:32,919 --> 01:19:34,855
+Até mais.
+
+956
+01:19:53,881 --> 01:19:55,816
+É ele!
+
+957
+01:19:58,888 --> 01:20:01,825
+- Quem é você?
+- Bloch.
+
+958
+01:20:01,892 --> 01:20:04,829
+- É empregado.
+- Não, sou cliente.
+
+959
+01:20:04,898 --> 01:20:06,832
+Estou só a negócios.
+
+960
+01:20:06,900 --> 01:20:09,836
+- Em mangas de camisa?
+- Com licença.
+
+961
+01:20:09,904 --> 01:20:11,838
+Fazia amor com Leni?
+
+962
+01:20:12,908 --> 01:20:16,846
+Parece ser honesto. Seu nome
+é Bloch?
+
+963
+01:20:16,914 --> 01:20:17,847
+Exato.
+
+964
+01:20:17,915 --> 01:20:20,852
+- É seu nome verdadeiro?
+- Claro, por que não seria?
+
+965
+01:20:20,920 --> 01:20:24,856
+Sei lá, pode ter motivos para
+escondê-lo.
+
+966
+01:20:30,933 --> 01:20:32,868
+- Sabe quem é?
+- Um juiz.
+
+967
+01:20:32,936 --> 01:20:34,871
+- Da Corte Suprema?
+- Deve ser.
+
+968
+01:20:35,940 --> 01:20:39,879
+Sabe pouco sobre lei. É o mais
+baixo dos juízes.
+
+969
+01:20:39,946 --> 01:20:43,883
+Agora me lembrei! Já me
+disseram isso.
+
+970
+01:20:43,951 --> 01:20:45,886
+Claro que já Ihe disseram.
+
+971
+01:20:45,954 --> 01:20:49,892
+- Sim, já me disseram.
+- Onde ela está agora?
+
+972
+01:20:49,960 --> 01:20:52,897
+Onde está Leni? Onde
+se escondeu?
+
+973
+01:20:52,964 --> 01:20:56,902
+Não está se escondendo. Deve
+estar na cozinha.
+
+974
+01:20:56,969 --> 01:21:01,909
+Isso mesmo, deve estar fazendo
+sopa para o advogado.
+
+975
+01:21:01,977 --> 01:21:03,911
+- Por que não falou?
+- Ia levá-lo lá.
+
+976
+01:21:03,980 --> 01:21:05,915
+- Não pense que é esperto.
+- Não mesmo!
+
+977
+01:21:05,983 --> 01:21:07,917
+Nem eu penso.
+
+978
+01:21:13,993 --> 01:21:15,928
+Boa noite, Joseph.
+
+979
+01:21:26,010 --> 01:21:28,946
+- Quem é ele?
+- Ele se chama Bloch.
+
+980
+01:21:31,017 --> 01:21:32,952
+Você estava de camisola.
+
+981
+01:21:34,990 --> 01:21:36,891
+É seu amante?
+
+982
+01:21:37,960 --> 01:21:39,894
+Quero uma resposta.
+
+983
+01:21:39,963 --> 01:21:42,899
+Vá até o estúdio,
+que eu conto.
+
+984
+01:21:45,971 --> 01:21:48,907
+Quero que me diga aqui.
+
+985
+01:21:49,977 --> 01:21:53,915
+Está com ciúmes do pobre Bloch?
+Ele não é nada.
+
+986
+01:21:53,983 --> 01:21:58,921
+Dou Ihe atenção porque é um dos
+melhores clientes do advogado.
+
+987
+01:22:04,998 --> 01:22:08,935
+- Vai passar a noite comigo?
+- Os ovos estão queimando.
+
+988
+01:22:13,010 --> 01:22:15,945
+ótimo. Ovos Ihe
+fazem mal.
+
+989
+01:22:16,013 --> 01:22:19,951
+Se quer ver o advogado, eu digo.
+Ele perguntou de você.
+
+990
+01:22:20,018 --> 01:22:22,956
+- Aposto que sim.
+- Onde você esteve?
+
+991
+01:22:25,025 --> 01:22:27,962
+Tenho informações. Coisas
+que descobri.
+
+992
+01:22:28,030 --> 01:22:30,966
+Mas primeiro tire o casaco.
+
+993
+01:22:31,034 --> 01:22:35,905
+- Eu o anuncio, ou Ihe dou a sopa?
+- Dá-Ihe a sopa, vai precisar dela.
+
+994
+01:22:35,976 --> 01:22:40,914
+- É cliente do advogado?
+- O que tem com isso?
+
+995
+01:22:40,982 --> 01:22:42,916
+Fique quieto, Rudy!
+
+996
+01:22:42,984 --> 01:22:46,922
+Vou Ihe dar a sopa, mas talvez
+ele durma depois.
+
+997
+01:22:46,990 --> 01:22:48,925
+Ele ficará acordado.
+
+998
+01:22:48,993 --> 01:22:51,930
+Falarei de você assim que acabar.
+Quero que volte comigo.
+
+999
+01:22:51,997 --> 01:22:53,933
+Fique sentado.
+
+1000
+01:22:56,002 --> 01:22:56,935
+Então...
+
+1001
+01:23:01,011 --> 01:23:01,941
+você é...
+
+1002
+01:23:03,012 --> 01:23:04,948
+cliente do advogado?
+
+1003
+01:23:07,018 --> 01:23:08,953
+Um cliente muito antigo.
+
+1004
+01:23:10,023 --> 01:23:12,958
+Faz tempo que cuida dos
+seus assuntos?
+
+1005
+01:23:14,029 --> 01:23:17,965
+Ele é meu representante desde
+o começo.
+
+1006
+01:23:22,039 --> 01:23:25,977
+Mas meu caso, talvez estivesse
+pensando nisso,...
+
+1007
+01:23:26,044 --> 01:23:30,983
+está tudo aqui. Não sei Ihe dar
+as datas exatas.
+
+1008
+01:23:31,052 --> 01:23:33,987
+É difícil guardar tudo
+na cabeça.
+
+1009
+01:23:34,055 --> 01:23:37,926
+Não achei que Hastler estivesse
+no comércio também.
+
+1010
+01:23:38,996 --> 01:23:40,930
+Claro, ora.
+
+1011
+01:23:42,000 --> 01:23:43,934
+Sabe o que dizem...
+
+1012
+01:23:45,005 --> 01:23:49,943
+que é melhor advogado comercial
+do que outro tipo.
+
+1013
+01:23:52,014 --> 01:23:53,948
+Não vai me denunciar?
+
+1014
+01:23:55,018 --> 01:23:56,953
+Não sou informante.
+
+1015
+01:23:58,023 --> 01:24:01,960
+Ele é um homem muito
+vingativo.
+
+1016
+01:24:04,031 --> 01:24:07,969
+Ele não irá querer maltratar
+um cliente seu.
+
+1017
+01:24:08,036 --> 01:24:11,975
+Se provocado, faz
+qualquer coisa.
+
+1018
+01:24:13,043 --> 01:24:14,978
+Não faz distinções.
+
+1019
+01:24:15,047 --> 01:24:16,981
+O que ia me contar?
+
+1020
+01:24:18,050 --> 01:24:21,988
+Vai ter de me contar um segredo
+seu. Por favor.
+
+1021
+01:24:24,059 --> 01:24:26,995
+Para confiarmos um no outro e
+ficarmos calados.
+
+1022
+01:24:27,063 --> 01:24:28,998
+Eu conto.
+
+1023
+01:24:37,010 --> 01:24:38,945
+Tenho outros advogados.
+
+1024
+01:24:40,014 --> 01:24:43,952
+- Outros? Além de Hastler?
+- Mais cinco.
+
+1025
+01:24:47,024 --> 01:24:48,958
+Sabe de uma coisa?
+
+1026
+01:24:51,030 --> 01:24:52,964
+Hastler...
+
+1027
+01:24:56,036 --> 01:24:57,971
+Escute aqui.
+
+1028
+01:24:58,038 --> 01:24:59,975
+Hastler...
+
+1029
+01:25:02,044 --> 01:25:03,980
+sempre se refere...
+
+1030
+01:25:05,049 --> 01:25:06,984
+Espere um pouco.
+
+1031
+01:25:08,053 --> 01:25:10,989
+Hastler sempre se refere
+aos outros,...
+
+1032
+01:25:11,058 --> 01:25:12,993
+como grandes advogados.
+
+1033
+01:25:17,065 --> 01:25:17,998
+Claro!
+
+1034
+01:25:20,070 --> 01:25:23,007
+Mas, no protocolo do tribunal,...
+
+1035
+01:25:23,074 --> 01:25:26,011
+- que lugar ocupa?
+- Qual?
+
+1036
+01:25:26,079 --> 01:25:30,016
+Entre os pequenos advogados,
+pequenos é claro.
+
+1037
+01:25:30,084 --> 01:25:32,019
+Hastler?
+
+1038
+01:25:33,088 --> 01:25:36,957
+Os grandes advogados, que
+nunca são vistos...
+
+1039
+01:25:37,026 --> 01:25:40,964
+Então, fez sua defesa? Queria Ihe
+perguntar sobre isso.
+
+1040
+01:25:41,032 --> 01:25:42,966
+- Como consegue?
+- É cansativo.
+
+1041
+01:25:43,035 --> 01:25:48,976
+Ir ao tribunal para ver tudo é
+demais para um homem só.
+
+1042
+01:25:53,049 --> 01:25:55,984
+Depois disso, irei lá
+mais vezes.
+
+1043
+01:25:56,053 --> 01:26:01,994
+Na primeira vez, todos se levantaram.
+Acharam que fosse juiz.
+
+1044
+01:26:02,061 --> 01:26:03,996
+Foi o guarda que estava
+com você.
+
+1045
+01:26:05,065 --> 01:26:08,002
+Foi para ele, que se
+levantaram.
+
+1046
+01:26:08,071 --> 01:26:11,007
+Há uma superstição
+ridícula.
+
+1047
+01:26:12,076 --> 01:26:17,014
+Você deve saber dizer, pelo rosto
+e pelos lábios de alguém...
+
+1048
+01:26:17,083 --> 01:26:21,020
+como o seu caso vai
+terminar.
+
+1049
+01:26:22,089 --> 01:26:26,027
+Dizem, que pela expressão
+de seus lábios...
+
+1050
+01:26:27,097 --> 01:26:32,035
+poderiam afirmar que você seria
+julgado culpado.
+
+1051
+01:26:32,103 --> 01:26:34,037
+- Num futuro próximo.
+- O advogado está esperando.
+
+1052
+01:26:34,106 --> 01:26:36,975
+- Que espere!
+- Falem depois, Bloch dormirá aqui.
+
+1053
+01:26:37,045 --> 01:26:38,979
+- Dormirá?
+- Ninguém é como você...
+
+1054
+01:26:40,049 --> 01:26:43,985
+que espera ter uma entrevista
+a qualquer hora.
+
+1055
+01:26:45,056 --> 01:26:47,991
+E o advogado está doente.
+
+1056
+01:26:54,068 --> 01:26:58,006
+Seus amigos fazem favores, e você
+aceita sem discussão.
+
+1057
+01:26:59,075 --> 01:27:01,009
+Não peço que agradeça.
+
+1058
+01:27:02,080 --> 01:27:04,014
+Só quero...
+
+1059
+01:27:05,084 --> 01:27:06,017
+Bem...
+
+1060
+01:27:06,085 --> 01:27:10,023
+- quero que goste de mim.
+- Eu gosto de você.
+
+1061
+01:27:11,092 --> 01:27:15,030
+Por que Hastler não irá
+querer me ver?
+
+1062
+01:27:15,098 --> 01:27:18,034
+É meu advogado, que favor
+é esse?
+
+1063
+01:27:18,102 --> 01:27:22,039
+- A questão não é essa.
+- Está sendo desagradável!
+
+1064
+01:27:23,109 --> 01:27:29,050
+Sabe por que o advogado recebe?
+Vou Ihe dizer o motivo.
+
+1065
+01:27:29,116 --> 01:27:32,053
+Seu caso ainda está num estágio
+em que há esperança.
+
+1066
+01:27:33,122 --> 01:27:37,994
+- Depois vai ser diferente.
+- Você fala demais.
+
+1067
+01:27:38,063 --> 01:27:43,002
+É o problema dele. Por isso o
+advogado não suporta vê-lo.
+
+1068
+01:27:45,072 --> 01:27:48,008
+Ele me vê de vez
+em quando.
+
+1069
+01:27:48,076 --> 01:27:51,013
+Mas nunca se sabe quando
+é enervante.
+
+1070
+01:27:53,084 --> 01:27:56,020
+Nunca se sabe quando
+irá recebê-lo.
+
+1071
+01:27:57,090 --> 01:28:00,026
+Pode ser a qualquer hora,
+dia ou noite.
+
+1072
+01:28:00,093 --> 01:28:04,031
+E se eu não for quando Ihe
+der na veneta...
+
+1073
+01:28:04,098 --> 01:28:08,036
+de mandar me buscar,
+perco minha chance.
+
+1074
+01:28:10,108 --> 01:28:13,044
+Aí, tenho de esperar
+mais tempo.
+
+1075
+01:28:13,112 --> 01:28:15,046
+Por isso o deixo dormir aqui.
+
+1076
+01:28:16,116 --> 01:28:21,055
+A gente depende do advogado,
+com o passar do tempo.
+
+1077
+01:28:21,122 --> 01:28:23,058
+A verdade, é que ele gosta.
+
+1078
+01:28:23,126 --> 01:28:25,061
+Não da espera.
+
+1079
+01:28:25,128 --> 01:28:29,066
+Mas gosta de passar a noite
+aqui, não gosta?
+
+1080
+01:28:31,137 --> 01:28:32,069
+ótimo.
+
+1081
+01:28:35,109 --> 01:28:37,009
+Quer ver o quarto dele?
+
+1082
+01:28:42,086 --> 01:28:44,020
+Tudo bem.
+
+1083
+01:28:53,100 --> 01:28:56,036
+Dorme no quarto da
+empregada?
+
+1084
+01:28:58,108 --> 01:29:01,044
+Ela me deixa, é muito
+apropriado.
+
+1085
+01:29:19,137 --> 01:29:22,073
+- Ponha-o para dormir.
+- Espere, Sr. K.!
+
+1086
+01:29:22,140 --> 01:29:25,077
+- Espere, Sr. K.!
+- Rudy!
+
+1087
+01:29:26,146 --> 01:29:27,079
+Sr. K.!
+
+1088
+01:29:28,149 --> 01:29:33,089
+Esqueceu-se da promessa. Ia contar
+um segredo seu.
+
+1089
+01:29:34,157 --> 01:29:36,024
+Vou Ihe contar.
+
+1090
+01:29:36,093 --> 01:29:40,032
+- Vou dispensar o advogado.
+- O advogado?
+
+1091
+01:29:40,099 --> 01:29:42,034
+Vou dispensá-lo do meu caso.
+
+1092
+01:29:44,104 --> 01:29:47,040
+- Dispensá-lo!
+- Hastler não fez nada!
+
+1093
+01:29:47,109 --> 01:29:51,046
+- É velho, doente, ou não liga.
+- Ele não é indiferente.
+
+1094
+01:29:52,116 --> 01:29:54,050
+Dispensar o advogado!
+
+1095
+01:29:55,120 --> 01:29:57,055
+Espere, por favor!
+
+1096
+01:29:59,126 --> 01:30:01,060
+Fique fora disto!
+
+1097
+01:30:05,134 --> 01:30:07,068
+Deixe-o em paz, Leni.
+
+1098
+01:30:09,140 --> 01:30:12,076
+Você andou a chateando
+de novo?
+
+1099
+01:30:12,144 --> 01:30:16,081
+- Chateando?
+- Ela gosta de todos os acusados.
+
+1100
+01:30:17,151 --> 01:30:19,085
+É uma peculiaridade dela.
+
+1101
+01:30:22,157 --> 01:30:25,094
+Ela flerta e faz amor com
+todos eles.
+
+1102
+01:30:26,163 --> 01:30:28,098
+E, quando eu autorizo,...
+
+1103
+01:30:28,166 --> 01:30:32,103
+ela me conta seus casos,
+para me divertir.
+
+1104
+01:30:34,175 --> 01:30:36,109
+Tudo sobre eles.
+
+1105
+01:30:37,179 --> 01:30:40,115
+Veio aqui por um motivo
+específico?
+
+1106
+01:30:40,183 --> 01:30:43,119
+Vim dispensar seus serviços.
+
+1107
+01:30:43,187 --> 01:30:45,121
+Não deve estar com pressa.
+
+1108
+01:30:45,189 --> 01:30:50,129
+Sei que fez tudo que podia, mas
+é preciso dinamismo.
+
+1109
+01:30:50,197 --> 01:30:54,135
+- É um plano a ser discutido.
+- Não é plano, é fato.
+
+1110
+01:30:54,203 --> 01:30:57,139
+Quantas vezes vim a toa?
+
+1111
+01:30:57,207 --> 01:31:01,144
+Quantos clientes atingem o estágio
+que você atingiu...
+
+1112
+01:31:01,212 --> 01:31:06,151
+e ficou em pé, na minha frente,
+dizendo as mesmas coisas?
+
+1113
+01:31:06,219 --> 01:31:09,156
+Talvez tivessem razão para isso,
+como eu.
+
+1114
+01:31:10,225 --> 01:31:12,159
+É verdade.
+
+1115
+01:31:15,232 --> 01:31:17,166
+Os acusados...
+
+1116
+01:31:18,236 --> 01:31:20,170
+são atraentes.
+
+1117
+01:31:20,239 --> 01:31:23,174
+Não que o fato de ser acusado,
+apareça de imediato...
+
+1118
+01:31:24,244 --> 01:31:27,180
+na aparência de um homem.
+
+1119
+01:31:28,250 --> 01:31:31,186
+Mas, se você tiver olho
+para isso...
+
+1120
+01:31:31,254 --> 01:31:34,190
+pode ver um acusado no meio
+de uma multidão.
+
+1121
+01:31:35,227 --> 01:31:37,127
+Há algo neles, algo...
+
+1122
+01:31:39,200 --> 01:31:44,138
+atraente que pode ser um
+sentimento de culpa.
+
+1123
+01:31:45,208 --> 01:31:49,145
+Não podemos ser
+todos culpados.
+
+1124
+01:31:52,217 --> 01:31:56,155
+Uns são mais que outros,
+mas todos são.
+
+1125
+01:31:56,223 --> 01:32:01,163
+Até aquela criatura horrível do Bloch.
+Vamos trazê-lo aqui.
+
+1126
+01:32:01,230 --> 01:32:05,167
+É hora de ver como os acusados
+são tratados.
+
+1127
+01:32:06,237 --> 01:32:08,171
+Traga-o aqui!
+
+1128
+01:32:08,240 --> 01:32:10,175
+Vá trazer Bloch.
+
+1129
+01:32:16,251 --> 01:32:20,189
+- Minha decisão é definitiva.
+- É melhor pensar bem.
+
+1130
+01:32:25,497 --> 01:32:27,431
+O advogado quer vê-lo.
+
+1131
+01:32:29,502 --> 01:32:31,437
+Vamos.
+
+1132
+01:32:34,509 --> 01:32:36,444
+É você, Bloch?
+
+1133
+01:32:36,513 --> 01:32:38,447
+O que quer?
+
+1134
+01:32:44,522 --> 01:32:46,459
+- Mandei chamá-lo?
+- Mandou.
+
+1135
+01:32:50,531 --> 01:32:52,467
+Chegou na hora errada!
+
+1136
+01:32:52,534 --> 01:32:55,471
+Vim assim que ouvi meu nome.
+
+1137
+01:32:59,545 --> 01:33:01,479
+Devo sair?
+
+1138
+01:33:01,547 --> 01:33:03,482
+- Não está aqui?
+- Estou.
+
+1139
+01:33:04,551 --> 01:33:06,485
+Então, fique.
+
+1140
+01:33:09,557 --> 01:33:14,497
+Ontem vi meu amigo, O
+Terceiro Juiz.
+
+1141
+01:33:14,767 --> 01:33:16,701
+A conversa girou sobre
+seu caso.
+
+1142
+01:33:18,772 --> 01:33:20,707
+Quer saber o que disse?
+
+1143
+01:33:20,775 --> 01:33:24,713
+Nestes casos, há opiniões tão
+divergentes, que a confusão...
+
+1144
+01:33:24,780 --> 01:33:28,717
+é impenetrável. Num
+certo momento...
+
+1145
+01:33:28,785 --> 01:33:31,721
+por uma velha tradição,
+um sino deve tocar.
+
+1146
+01:33:32,791 --> 01:33:37,662
+O juiz disse que isso é o início
+do processo.
+
+1147
+01:33:38,732 --> 01:33:43,672
+Há muita controvérsia a respeito
+disso, mas você não entenderia.
+
+1148
+01:33:43,740 --> 01:33:45,674
+Por que se ajoelha?
+
+1149
+01:33:45,742 --> 01:33:48,678
+- Quem é seu advogado?
+- O senhor!
+
+1150
+01:33:48,746 --> 01:33:50,681
+- Fora eu?
+- Ninguém, senhor!
+
+1151
+01:33:50,750 --> 01:33:54,686
+- Não dê atenção a ninguém!
+- Pode rastejar!
+
+1152
+01:33:55,756 --> 01:33:57,691
+Não fale assim comigo!
+
+1153
+01:34:01,363 --> 01:34:05,301
+Não na frente do advogado!
+Como se atreve?
+
+1154
+01:34:05,369 --> 01:34:07,303
+Como ousa me insultar?
+
+1155
+01:34:07,372 --> 01:34:12,311
+- Você o humilha, para mostrar poder!
+- Não dê atenção à ninguém.
+
+1156
+01:34:12,379 --> 01:34:15,315
+Faça o que sua consciência
+Ihe mandar.
+
+1157
+01:34:16,385 --> 01:34:21,324
+Estou de joelhos, advogado. De
+joelhos senhor.
+
+1158
+01:34:47,228 --> 01:34:50,163
+Como ele se comportou hoje?
+
+1159
+01:34:51,234 --> 01:34:53,168
+Calmo e trabalhador.
+
+1160
+01:34:54,238 --> 01:34:56,172
+O que fez o dia todo?
+
+1161
+01:34:57,241 --> 01:35:01,180
+Ficou trancado no quarto de empregada
+para não me amolar.
+
+1162
+01:35:01,247 --> 01:35:04,184
+É onde sempre fica.
+
+1163
+01:35:05,252 --> 01:35:08,189
+Então, não sabe com certeza
+o que fez?
+
+1164
+01:35:08,257 --> 01:35:12,194
+Olhava às vezes pelo
+exaustor.
+
+1165
+01:35:12,263 --> 01:35:18,204
+Ficava ajoelhado na cama, lendo o
+livro que Ihe emprestou.
+
+1166
+01:35:18,270 --> 01:35:23,210
+Havia pouca luz. Prova que ele fez
+o que Ihe é ordenado.
+
+1167
+01:35:24,279 --> 01:35:26,215
+Ele entendeu o que leu?
+
+1168
+01:35:26,282 --> 01:35:30,220
+Seguia as linhas com os dedos.
+
+1169
+01:35:30,288 --> 01:35:34,225
+Só sei que passou o dia todo
+na mesma página.
+
+1170
+01:35:35,294 --> 01:35:38,231
+O livro deve ser difícil.
+
+1171
+01:35:39,300 --> 01:35:42,237
+As escrituras são difíceis.
+
+1172
+01:35:43,306 --> 01:35:46,174
+Servem para Ihe dar
+uma vaga idéia...
+
+1173
+01:35:47,244 --> 01:35:50,180
+das lutas que travo em
+nome dele.
+
+1174
+01:35:50,248 --> 01:35:54,186
+- Leu sem parar?
+- Quase sem parar.
+
+1175
+01:35:54,254 --> 01:35:58,192
+Pediu água, e eu Ihe passei
+pelo exaustor.
+
+1176
+01:35:58,260 --> 01:36:02,198
+Às 8 horas, o deixei sair
+para comer.
+
+1177
+01:36:02,266 --> 01:36:08,207
+Você o elogia demais. Agora fica
+difícil dizer a verdade.
+
+1178
+01:36:08,274 --> 01:36:12,212
+As observações do juiz
+foram confortáveis.
+
+1179
+01:36:12,280 --> 01:36:13,211
+Como?
+
+1180
+01:36:13,281 --> 01:36:16,216
+Irritou-se a ouvir seu nome.
+
+1181
+01:36:16,285 --> 01:36:19,221
+Falou que estou perdendo
+tempo
+
+1182
+01:36:19,289 --> 01:36:22,225
+Ele não tem esperança.
+
+1183
+01:36:22,293 --> 01:36:26,231
+Não quis acreditar. Falei que Bloch
+era escrupuloso,...
+
+1184
+01:36:27,300 --> 01:36:31,239
+que pessoalmente era um
+tanto repugnante,...
+
+1185
+01:36:31,306 --> 01:36:35,243
+tinha péssimos modos
+e que era sujo.
+
+1186
+01:36:35,311 --> 01:36:40,251
+Mas, como cliente, falei que
+era irrepreensível.
+
+1187
+01:36:40,318 --> 01:36:43,255
+O que foi um exagero.
+
+1188
+01:36:43,323 --> 01:36:46,191
+E o juiz respondeu que meu
+cliente tinha...
+
+1189
+01:36:47,263 --> 01:36:50,199
+uma esperteza reles.
+
+1190
+01:36:50,267 --> 01:36:56,208
+Que aprendera ao longo dos anos,
+a manipular a situação.
+
+1191
+01:36:57,277 --> 01:37:00,213
+E o que acharia se Ihe
+disséssemos,...
+
+1192
+01:37:00,281 --> 01:37:05,219
+que o sino que indica o início
+do processo...
+
+1193
+01:37:07,290 --> 01:37:09,225
+nem havia sido tocado?
+
+1194
+01:37:09,293 --> 01:37:13,231
+Fique calado! Não
+tem vergonha?
+
+1195
+01:37:13,299 --> 01:37:17,236
+Está destruindo sua confiança
+em mim.
+
+1196
+01:37:17,304 --> 01:37:20,240
+O que há com você?
+Ainda está vivo.
+
+1197
+01:37:21,310 --> 01:37:26,249
+- Sob minha proteção.
+- Estou dispensando seus serviços.
+
+1198
+01:37:27,318 --> 01:37:29,253
+Vai mudar de idéia.
+
+1199
+01:37:29,321 --> 01:37:33,258
+Estar acorrentado, pode ser melhor
+que estar livre.
+
+1200
+01:37:47,279 --> 01:37:50,215
+- Aonde vai?
+- Abra a porta.
+
+1201
+01:37:50,283 --> 01:37:52,217
+- Deve estar louco.
+- Abra!
+
+1202
+01:37:52,285 --> 01:37:56,223
+- Não tem para onde ir.
+- Ele é que é louco.
+
+1203
+01:37:56,291 --> 01:38:01,231
+Quase que caio nessa. Toda essa
+encenação foi para me convencer.
+
+1204
+01:38:01,299 --> 01:38:03,234
+Até onde pensa que pode
+ir sozinho?
+
+1205
+01:38:03,301 --> 01:38:08,240
+Até agora, aonde cheguei? Para
+onde estou indo?
+
+1206
+01:38:08,308 --> 01:38:10,243
+É melhor falar com ele.
+
+1207
+01:38:11,313 --> 01:38:15,250
+- O juiz da Corte Suprema?
+- Não banque o engraçadinho.
+
+1208
+01:38:15,318 --> 01:38:20,258
+Titorelli, pintor oficial do tribunal,
+conhece todos eles.
+
+1209
+01:38:20,325 --> 01:38:25,264
+Ninguém tem mais influência com
+os juízes do que Titorelli.
+
+1210
+01:38:25,332 --> 01:38:27,267
+Ele pode me ajudar?
+
+1211
+01:38:27,336 --> 01:38:31,272
+- Ele pinta e ajuda as pessoas.
+- Abra a porta.
+
+1212
+01:38:31,341 --> 01:38:33,276
+- Vá amanhã.
+- E as chaves?
+
+1213
+01:38:33,344 --> 01:38:35,278
+Estão com o advogado.
+
+1214
+01:38:38,350 --> 01:38:41,287
+- Adeus e obrigado.
+- Vai voltar?
+
+1215
+01:38:41,354 --> 01:38:45,292
+- Não terá escolha.
+- Vi o que é ser cliente dele.
+
+1216
+01:38:46,295 --> 01:38:50,231
+Bloch não é mais cliente, é o
+o cachorrinho dele.
+
+1217
+01:39:04,319 --> 01:39:07,255
+- Conhecem o Sr. Titorelli?
+- Quem?
+
+1218
+01:39:07,324 --> 01:39:11,261
+Um artista que mora aqui. Conhece
+o Pintor Titorelli?
+
+1219
+01:39:11,330 --> 01:39:13,264
+- O que quer dele?
+- Que pinte meu retrato.
+
+1220
+01:39:54,389 --> 01:39:57,326
+Aprenda a lidar com garotas.
+
+1221
+01:39:57,394 --> 01:39:59,329
+Pestes! Fora daqui!
+
+1222
+01:39:59,396 --> 01:40:03,335
+Brincadeiras bobas! Ele
+veio à negócios!
+
+1223
+01:40:04,403 --> 01:40:06,338
+Fora, suas pestes!
+
+1224
+01:40:08,409 --> 01:40:11,345
+Por quê não vão à
+outro ateliê?
+
+1225
+01:40:11,413 --> 01:40:13,348
+Estou vendo vocês.
+
+1226
+01:40:17,421 --> 01:40:21,359
+Estou vendo vocês, não
+enganam Titorelli!
+
+1227
+01:40:28,437 --> 01:40:29,370
+Fora!
+
+1228
+01:40:29,439 --> 01:40:32,374
+Todas vocês, fora do
+meu ateliê.
+
+1229
+01:40:40,454 --> 01:40:43,390
+Peço desculpas por
+recebê-lo assim.
+
+1230
+01:40:43,457 --> 01:40:46,325
+Voltei tarde ontem. Está
+uma bagunça.
+
+1231
+01:40:46,396 --> 01:40:48,331
+Quando estava quase dormindo, uma
+mão horrível me segurou.
+
+1232
+01:40:48,399 --> 01:40:50,333
+Ela esperava embaixo
+da cama.
+
+1233
+01:40:50,402 --> 01:40:52,336
+Podemos entrar?
+
+1234
+01:40:52,404 --> 01:40:54,339
+- Não podem!
+- Nem eu?
+
+1235
+01:40:54,408 --> 01:40:59,346
+Conheço umas garotas que vão ficar
+feias quando eu as pegar.
+
+1236
+01:40:59,414 --> 01:41:04,354
+Vão preferir que suas mães as
+tivessem afogado num balde.
+
+1237
+01:41:04,422 --> 01:41:08,359
+Vou pegar meu furador de gelo.
+Vocês se lembram dele?
+
+1238
+01:41:09,428 --> 01:41:11,362
+Em que posso ajudar?
+
+1239
+01:41:12,432 --> 01:41:14,368
+Queria uns conselhos.
+
+1240
+01:41:14,435 --> 01:41:17,372
+Quer comprar algum quadro?
+
+1241
+01:41:17,440 --> 01:41:21,377
+É claro. Está pintando
+algum agora?
+
+1242
+01:41:21,445 --> 01:41:24,380
+Um retrato. Ainda
+incompleto.
+
+1243
+01:41:24,449 --> 01:41:27,385
+- Deve ser um juiz.
+- Juizes são minha especialidade.
+
+1244
+01:41:28,455 --> 01:41:30,390
+O que isso quer dizer?
+
+1245
+01:41:31,458 --> 01:41:34,395
+Não está vendo?
+Justiça.
+
+1246
+01:41:34,463 --> 01:41:38,401
+Há uma venda nos olhos, mas
+isso aqui não são...
+
+1247
+01:41:38,469 --> 01:41:44,410
+- asas nos calcanhares?
+- Fui instruído a pintar assim.
+
+1248
+01:41:44,476 --> 01:41:50,349
+A justiça deve ficar parada, senão
+as balanças se desequilibram.
+
+1249
+01:41:50,419 --> 01:41:53,354
+É a justiça e a Deusa da
+Vitória juntas.
+
+1250
+01:41:53,422 --> 01:41:55,357
+O que ela Ihe parece?
+
+1251
+01:41:56,426 --> 01:41:59,363
+A Deusa da caça em ação.
+
+1252
+01:41:59,432 --> 01:42:02,368
+Titorelli, podemos entrar?
+
+1253
+01:42:02,435 --> 01:42:05,372
+- Estamos ocupados!
+- Nem tanto.
+
+1254
+01:42:06,440 --> 01:42:10,378
+Vai pintá-lo? Não pinte
+um tipo tão feio!
+
+1255
+01:42:11,447 --> 01:42:15,386
+- As garotas são do tribunal.
+- Elas também?
+
+1256
+01:42:15,453 --> 01:42:18,390
+Quase tudo pertence
+ao tribunal.
+
+1257
+01:42:18,458 --> 01:42:23,396
+Mas é por trás do pano neste ateliê,
+que as coisas andam.
+
+1258
+01:42:24,467 --> 01:42:29,404
+Você quer absolvição ostensiva,
+definitiva, ou adiamento?
+
+1259
+01:42:29,473 --> 01:42:34,413
+A definitiva é melhor, mas não
+posso influir no veredicto.
+
+1260
+01:42:34,480 --> 01:42:40,421
+Nunca soube de um caso de
+absolvição definitiva. O que foi?
+
+1261
+01:42:40,488 --> 01:42:45,461
+- Não tem uma janela para abrir?
+- Entra bastante ar pelas frestas.
+
+1262
+01:42:45,496 --> 01:42:49,365
+Mas há essa porta. O juiz que
+estou pintando...
+
+1263
+01:42:49,434 --> 01:42:53,372
+tem a chave. Caso
+eu tenha saído.
+
+1264
+01:42:53,440 --> 01:42:57,377
+O Meritíssimo chega cedo, quando
+ainda estou dormindo.
+
+1265
+01:42:57,445 --> 01:43:01,383
+Não é gostoso acordar e dar de
+cara com um juiz,...
+
+1266
+01:43:01,450 --> 01:43:06,390
+com aquelas roupas esquisitas
+andando por cima de você.
+
+1267
+01:43:06,458 --> 01:43:08,392
+Ele tirou o casaco.
+
+1268
+01:43:08,461 --> 01:43:12,398
+Acham que vou pintá-lo, porque
+tirou o casaco.
+
+1269
+01:43:12,466 --> 01:43:14,401
+Há alternativas?
+
+1270
+01:43:15,470 --> 01:43:20,409
+As alternativas legais? Já Ihe
+disse, absolvição...
+
+1271
+01:43:20,476 --> 01:43:24,415
+ostensiva, adiamento. O que foi,
+está passando mal?
+
+1272
+01:43:29,490 --> 01:43:32,426
+Deve ser o calor.
+
+1273
+01:43:32,494 --> 01:43:35,431
+Se abrir à porta, as meninas
+invadirão.
+
+1274
+01:43:36,499 --> 01:43:39,436
+- Não abra...
+- Na absolvição ostensiva,...
+
+1275
+01:43:39,503 --> 01:43:41,439
+faço uma declaração de
+sua inocência.
+
+1276
+01:43:41,506 --> 01:43:46,377
+Levo aos juízes que conheço,
+começando pelo que pinto agora.
+
+1277
+01:43:47,447 --> 01:43:52,386
+Explico que você é inocente, e que
+garanto isso pessoalmente.
+
+1278
+01:43:52,455 --> 01:43:55,391
+- E se acreditarem?
+- Como devem acreditar.
+
+1279
+01:43:55,458 --> 01:43:59,396
+Não devemos ser tão
+pessimistas.
+
+1280
+01:43:59,464 --> 01:44:01,399
+Alguns acreditarão em mim.
+
+1281
+01:44:01,468 --> 01:44:03,402
+E eu estaria livre?
+
+1282
+01:44:03,470 --> 01:44:06,407
+Ostensivamente livre.
+
+1283
+01:44:06,474 --> 01:44:10,412
+Os juízes que conheço, são de
+um escalão inferior.
+
+1284
+01:44:10,480 --> 01:44:15,419
+Não têm poder para conceder
+absolvição final.
+
+1285
+01:44:16,488 --> 01:44:20,426
+É inacessível para todos nós.
+
+1286
+01:44:20,494 --> 01:44:23,431
+As chances que temos
+lá em cima,...
+
+1287
+01:44:23,498 --> 01:44:25,433
+não sabemos, nem
+queremos saber.
+
+1288
+01:44:25,500 --> 01:44:28,437
+- Você entende.
+- Não tenho certeza.
+
+1289
+01:44:29,506 --> 01:44:33,445
+Podem aliviar o peso
+da acusação.
+
+1290
+01:44:33,512 --> 01:44:36,449
+Tirá-la dos seus ombros
+por uns tempos.
+
+1291
+01:44:36,517 --> 01:44:41,455
+Numa absolvição definitiva, todos
+os documentos são anulados.
+
+1292
+01:44:41,523 --> 01:44:45,461
+Na ostensiva, seu dossiê
+continua circulando...
+
+1293
+01:44:45,496 --> 01:44:48,398
+nos tribunais de primeira e de
+segunda instâncias...
+
+1294
+01:44:48,467 --> 01:44:52,405
+Nem sabemos como funcionam
+essas peregrinações.
+
+1295
+01:44:52,473 --> 01:44:56,410
+- Nem adianta saber.
+- Não há chance.
+
+1296
+01:44:56,477 --> 01:44:59,415
+Conheço casos de pessoas
+absolvidas,...
+
+1297
+01:44:59,482 --> 01:45:03,420
+e que a polícia vai prendê-las
+novamente.
+
+1298
+01:45:03,488 --> 01:45:07,426
+Mas é possível obter outra
+absolvição ostensiva.
+
+1299
+01:45:07,494 --> 01:45:10,429
+Que não seria definitiva.
+
+1300
+01:45:10,498 --> 01:45:15,437
+É seguida de uma 3ª prisão, e a 3ª
+absolvição, e a 4ª prisão...
+
+1301
+01:45:17,507 --> 01:45:20,444
+Um adiamento seria melhor?
+
+1302
+01:45:21,513 --> 01:45:24,450
+- Não sei dizer.
+- Não se pode adiar para sempre.
+
+1303
+01:45:26,520 --> 01:45:30,458
+Medidas têm de ser tomadas.
+Perguntas, interrogatórios,...
+
+1304
+01:45:30,525 --> 01:45:33,462
+observações, mais interrogatórios,
+provas colhidas.
+
+1305
+01:45:34,531 --> 01:45:37,468
+- Já vai?
+- Voltarei muito em breve.
+
+1306
+01:45:37,536 --> 01:45:39,470
+Terá de manter sua palavra.
+
+1307
+01:45:39,538 --> 01:45:43,476
+Ou irei ao escritório.
+Não irá gostar.
+
+1308
+01:45:43,544 --> 01:45:46,412
+- Quer abrir a porta?
+- As meninas vão amolá-lo.
+
+1309
+01:45:47,483 --> 01:45:49,417
+É melhor sair por aqui.
+
+1310
+01:45:49,485 --> 01:45:52,421
+- Espere.
+- Por quê?
+
+1311
+01:45:52,489 --> 01:45:57,428
+Não quer ver meus quadros? Deve
+haver um que queira comprar.
+
+1312
+01:45:59,499 --> 01:46:02,435
+Este é moderno. Um quadro
+de ação.
+
+1313
+01:46:02,504 --> 01:46:06,441
+- Chamo-o de "Natureza Selvagem".
+- Eu compro.
+
+1314
+01:46:06,509 --> 01:46:09,446
+- Eis o companheiro.
+- Levo os dois.
+
+1315
+01:46:09,513 --> 01:46:12,450
+- Parece que gosta do tema.
+- Gosto.
+
+1316
+01:46:12,518 --> 01:46:17,456
+- Vou pendurar no escritório.
+- Por sorte, tenho outro parecido.
+
+1317
+01:46:17,524 --> 01:46:21,462
+- Quanto são os três?
+- Acertamos na próxima.
+
+1318
+01:46:21,530 --> 01:46:25,468
+Hoje você está com pressa. Mas nós
+vamos manter contato...
+
+1319
+01:46:25,536 --> 01:46:28,471
+freqüente de agora em
+diante, não?
+
+1320
+01:46:31,544 --> 01:46:33,478
+Aqui é o tribunal.
+
+1321
+01:46:33,547 --> 01:46:36,482
+Parece surpreso.
+
+1322
+01:46:36,551 --> 01:46:40,488
+O que mais me surpreende, é não
+conhecer esse seu tribunal.
+
+1323
+01:46:40,556 --> 01:46:44,494
+Para um acusado é um erro.
+Nunca deveria dormir...
+
+1324
+01:46:44,562 --> 01:46:48,432
+nem desviar o olhar para
+o lado.
+
+1325
+01:46:48,501 --> 01:46:50,435
+Um juiz ou alguém assim,...
+
+1326
+01:46:50,503 --> 01:46:53,440
+pode estar espiando do
+outro lado.
+
+1327
+01:46:55,510 --> 01:46:56,443
+Vocês!
+
+1328
+01:46:58,514 --> 01:47:01,451
+Deixo vocês inquietos, não?
+
+1329
+01:47:01,519 --> 01:47:05,456
+Sentem-se mal em minha
+companhia.
+
+1330
+01:47:06,525 --> 01:47:08,460
+Já me disseram isso.
+
+1331
+01:47:08,528 --> 01:47:13,468
+Pensaram que eu fosse um juiz ou
+um oficial de justiça.
+
+1332
+01:47:13,536 --> 01:47:17,473
+Achei que sentissem medo, mas
+o que sentem é dor!
+
+1333
+01:47:17,542 --> 01:47:21,478
+Não gostam do que vêem. É a
+minha boca!
+
+1334
+01:47:21,547 --> 01:47:26,486
+Acham que podem saber pela minha
+boca que serei condenado.
+
+1335
+01:47:26,554 --> 01:47:30,492
+Que serei considerado
+culpado, culpado!
+
+1336
+01:48:26,571 --> 01:48:28,505
+Joseph K.!
+
+1337
+01:48:28,573 --> 01:48:30,508
+Joseph K.!
+
+1338
+01:48:43,595 --> 01:48:45,564
+Você é Joseph K.?
+
+1339
+01:48:45,599 --> 01:48:47,465
+Um acusado?
+
+1340
+01:48:47,534 --> 01:48:51,471
+- Foi o que me informaram.
+- Seu caso está indo mal!
+
+1341
+01:48:55,545 --> 01:48:58,481
+Minha petição inicial não
+foi feita.
+
+1342
+01:48:58,549 --> 01:49:02,487
+- Parece que sua culpa não foi provada.
+- Mas não sou culpado.
+
+1343
+01:49:04,557 --> 01:49:08,495
+Por falar nisso, como pode
+qualquer um ser culpado?
+
+1344
+01:49:09,565 --> 01:49:13,501
+- Somos todos homens iguais aqui.
+- Os culpados sempre dizem isso.
+
+1345
+01:49:13,569 --> 01:49:16,507
+O que pretende fazer agora?
+
+1346
+01:49:18,577 --> 01:49:20,512
+- Conseguir mais ajuda.
+- Ajuda?
+
+1347
+01:49:20,579 --> 01:49:23,515
+Possibilidades não exploradas.
+
+1348
+01:49:23,584 --> 01:49:27,521
+Deposita muita esperança na
+ajuda das mulheres.
+
+1349
+01:49:27,590 --> 01:49:30,525
+Elas têm influência. Veja,
+o magistrado...
+
+1350
+01:49:30,593 --> 01:49:34,531
+quer derrubar o réu para pegar
+a mulher dele.
+
+1351
+01:49:34,599 --> 01:49:37,536
+É um lado da lei que
+não conhece.
+
+1352
+01:49:38,605 --> 01:49:41,542
+E a porta? Preciso
+ir trabalhar.
+
+1353
+01:49:41,609 --> 01:49:45,547
+Afinal, sou sub gerente do
+meu departamento.
+
+1354
+01:49:46,616 --> 01:49:48,551
+O que faz na igreja?
+
+1355
+01:49:48,620 --> 01:49:53,558
+- Ou isso aqui ainda é tribunal?
+- Saí da cama.
+
+1356
+01:49:53,626 --> 01:49:56,562
+- Pois pode voltar!
+- Como pode achar...
+
+1357
+01:49:56,630 --> 01:49:58,565
+que conseguirá se defender?
+
+1358
+01:49:58,632 --> 01:50:01,569
+Que escolha. Defender-me
+ou desafiá-lo.
+
+1359
+01:50:01,637 --> 01:50:03,572
+- Desafiar o tribunal.
+- O que é isso?
+
+1360
+01:50:03,640 --> 01:50:07,578
+- Usamos recursos visuais.
+- Palestras e sermões.
+
+1361
+01:50:07,646 --> 01:50:11,583
+Seus enganos peculiares estão
+descritos nas Escrituras,...
+
+1362
+01:50:11,651 --> 01:50:16,590
+que são o prefácio da lei. Diante
+da justiça, há um guarda.
+
+1363
+01:50:17,659 --> 01:50:21,597
+Um homem vem do interior
+e pede para entrar.
+
+1364
+01:50:21,664 --> 01:50:27,606
+Mas o guarda não pode deixá-lo entrar.
+Ele espera entrar depois?
+
+1365
+01:50:27,673 --> 01:50:32,613
+Todos nós já ouvimos isso. Ele morre
+de velho, de tanto esperar.
+
+1366
+01:50:32,680 --> 01:50:35,616
+E no final, o guarda diz que a
+porta era só para ele.
+
+1367
+01:50:35,685 --> 01:50:38,621
+Ele diz que ninguém
+poderia entrar.
+
+1368
+01:50:39,691 --> 01:50:42,626
+E agora, eu vou fechá-la.
+
+1369
+01:50:43,696 --> 01:50:47,565
+Alguns dizem que o homem
+foi até à porta...
+
+1370
+01:50:47,634 --> 01:50:51,572
+- por vontade própria.
+- Temos de acreditar nisso tudo?
+
+1371
+01:50:51,640 --> 01:50:56,578
+Não é preciso aceitar isso tudo.
+Somente o necessário.
+
+1372
+01:50:56,646 --> 01:51:02,588
+Que triste confusão! Faz da mentira
+um princípio universal.
+
+1373
+01:51:02,655 --> 01:51:07,595
+Quer desafiar a lei. Com esse gesto,
+espera alegar insanidade.
+
+1374
+01:51:07,662 --> 01:51:11,600
+Reforçou isso fingindo-se de
+vítima de uma conspiração.
+
+1375
+01:51:12,669 --> 01:51:15,605
+Não é sintoma de insanidade.
+
+1376
+01:51:15,673 --> 01:51:18,610
+- Mania de perseguição.
+- Mania?
+
+1377
+01:51:18,679 --> 01:51:20,613
+Não finjo ser mártir.
+
+1378
+01:51:21,682 --> 01:51:25,619
+Nem ser vítima da sociedade?
+
+1379
+01:51:26,688 --> 01:51:28,624
+Sou um membro da
+sociedade.
+
+1380
+01:51:29,693 --> 01:51:35,634
+Acha que convencerá o tribunal de que
+é irresponsável por insanidade?
+
+1381
+01:51:35,702 --> 01:51:37,637
+Eles querem que eu
+ache isso.
+
+1382
+01:51:39,707 --> 01:51:44,645
+Essa é a conspiração. Convencer
+todos de que todos são loucos.
+
+1383
+01:51:44,714 --> 01:51:49,585
+Sem forma, sem sentido, absurdos.
+Esse é o jogo sujo.
+
+1384
+01:51:49,654 --> 01:51:51,589
+Perdi meu caso, mas e daí?
+
+1385
+01:51:51,656 --> 01:51:53,592
+Você também perde.
+
+1386
+01:51:54,661 --> 01:51:57,597
+Está tudo perdido.
+Perdido!
+
+1387
+01:51:57,664 --> 01:51:59,600
+E daí?
+
+1388
+01:52:00,669 --> 01:52:04,607
+Isso condena o universo todo
+à loucura?
+
+1389
+01:52:08,680 --> 01:52:11,616
+Será que não vê nada?
+
+1390
+01:52:11,685 --> 01:52:14,621
+- Claro, sou responsável.
+- Meu filho...
+
+1391
+01:52:17,693 --> 01:52:19,628
+Não sou seu filho.
+
+1392
+01:56:19,764 --> 01:56:24,703
+Esperam que eu pegue a faca e me
+mate? Vocês terão de fazê-lo.
+
+1393
+01:56:26,774 --> 01:56:27,705
+Vocês.
+
+1394
+01:56:32,782 --> 01:56:33,714
+Vocês.
+
+1395
+01:56:40,793 --> 01:56:41,726
+Vocês.
+
+1396
+01:56:45,768 --> 01:56:46,665
+Vocês!
+
+1397
+01:56:47,737 --> 01:56:48,670
+Vocês!
+
+1398
+01:56:50,741 --> 01:56:55,681
+Vocês seus imbecis! Vocês
+terão de me matar!
+
+1399
+01:57:53,762 --> 01:57:56,699
+Este filme, "O Processo"...
+
+1400
+01:57:56,767 --> 01:58:00,704
+foi baseado no romance de
+Franz Kafka.
+
+1401
+01:58:02,775 --> 01:58:05,711
+Os atores, em ordem de
+aparição foram...
+
+1402
+01:58:05,779 --> 01:58:07,713
+Antony Perkins...
+
+1403
+01:58:07,782 --> 01:58:09,717
+Arnoldo Foa...
+
+1404
+01:58:09,785 --> 01:58:11,719
+Jess Hahn, Willian Kearns...
+
+1405
+01:58:11,787 --> 01:58:15,725
+Madeleine Robinson,
+Jeanne Moureau...
+
+1406
+01:58:15,793 --> 01:58:18,729
+Maurice Teynac, Naydra Store,
+Suzanne Flon...
+
+1407
+01:58:18,797 --> 01:58:22,735
+Raoul Delfosse, Jean-Claude Remoux,
+Max Buchsbaum...
+
+1408
+01:58:22,803 --> 01:58:25,739
+Karl Studer, Max Haufler,
+Romy Schneider...
+
+1409
+01:58:25,807 --> 01:58:29,744
+Fernand Ledoux, Akim Tamiroff,
+Elsa Martinelli...
+
+1410
+01:58:29,812 --> 01:58:33,750
+Thomas Holtzman, Wolfgang Reichman,
+William Chapel...
+
+1411
+01:58:33,818 --> 01:58:35,754
+e Michael Londsdale.
+
+1412
+01:58:40,828 --> 01:58:43,764
+Eu interpretei o advogado,
+escrevi o roteiro e dirigi.
+
+1413
+01:58:43,832 --> 01:58:47,702
+Meu nome é Orson Welles.
