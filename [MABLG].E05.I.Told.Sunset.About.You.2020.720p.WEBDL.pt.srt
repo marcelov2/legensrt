@@ -1,0 +1,2798 @@
+﻿1
+00:00:00,000 --> 00:00:02,899
+AVISO A história e os personagens do programa são fictícios.  Alguns espectadores podem achar algumas cenas
+perturbadoras, que se destinam apenas a fins de entretenimento.  A discrição dos espectadores é aconselhada.
+
+2
+00:01:21,637 --> 00:01:29,637
+'Confiar'
+
+3
+00:01:33,500 --> 00:01:36,900
+‘Dan Xin’ deve ficar preocupado.
+
+4
+00:01:43,500 --> 00:01:46,900
+'Estar preocupado'
+
+5
+00:02:21,699 --> 00:02:25,502
+‘Excluir histórico de bate-papo’
+
+6
+00:02:25,776 --> 00:02:34,100
+‘Se você excluir a história deste bate-papo, não será
+possível recuperá-la.  Você tem certeza que quer continuar?
+
+7
+00:02:34,100 --> 00:02:38,100
+'OK'
+
+8
+00:02:50,800 --> 00:02:53,299
+'Estar preocupado'
+
+9
+00:03:00,900 --> 00:03:05,900
+‘Memorizado’
+
+10
+00:03:26,538 --> 00:03:30,538
+‘Oh-aew: sobras do resort.  Hahahahahaha.
+
+11
+00:03:31,385 --> 00:03:32,781
+‘MoRaoYuLok’ (6)
+
+12
+00:03:32,781 --> 00:03:40,981
+‘Mod: Mr.FuNan vai dar uma festa de última aula.  Traga comida!’ ‘Phillip: Já é último
+dia.’ ‘Phillip: Lula grelhada.’  Hahahahahaha.’ ‘Oh-aew: Sobras do resort.  Hahahahahaha.
+
+13
+00:03:46,865 --> 00:03:49,065
+‘Teh: Hokkian Mee.  Hahahahaha.
+
+14
+00:04:28,428 --> 00:04:31,484
+O restaurante está fechado, Hoon?
+
+15
+00:04:31,484 --> 00:04:33,484
+Hum.
+
+16
+00:05:08,664 --> 00:05:10,664
+Mantê-la.
+
+17
+00:05:16,020 --> 00:05:18,020
+Guarde-o para pagar a mensalidade.
+
+18
+00:05:23,887 --> 00:05:26,587
+Não desista!
+
+19
+00:05:31,892 --> 00:05:34,326
+Meu GPA deste
+semestre está muito ruim
+
+20
+00:05:34,326 --> 00:05:38,253
+e terei que usá-lo no
+exame de admissão.
+
+21
+00:05:38,253 --> 00:05:40,692
+Tenho medo de ter uma nota
+
+22
+00:05:40,692 --> 00:05:44,523
+ruim e minha nota
+na aula também.
+
+23
+00:05:44,523 --> 00:05:46,374
+Por favor, poderia refazer o exame?
+
+24
+00:05:46,374 --> 00:05:49,148
+Eu sei que definitivamente posso fazer isso.
+
+25
+00:05:49,148 --> 00:05:51,953
+Eu sei que você é um bom aluno.
+
+26
+00:05:51,953 --> 00:05:55,308
+Se você refazer o exame, terá pontuação total.
+
+27
+00:05:55,308 --> 00:05:58,149
+Mas quero que você aprenda que esta é a consequência-
+
+28
+00:05:58,149 --> 00:05:59,565
+de ser imprudente.
+
+29
+00:05:59,565 --> 00:06:03,565
+Você conseguiu sua vaga na universidade, então não veio para a escola.
+
+30
+00:06:03,573 --> 00:06:07,496
+Ou, se o fez, não prestou muita atenção ao que os professores estavam ensinando.
+
+31
+00:06:07,496 --> 00:06:13,818
+Ignorar seu estudo assim me faz pensar que você é irresponsável.
+
+32
+00:06:13,818 --> 00:06:17,695
+Mas eu realmente administrei meu tempo para dar aulas para meus amigos.
+
+33
+00:06:17,695 --> 00:06:19,225
+Isso é bom.
+
+34
+00:06:19,225 --> 00:06:21,816
+Que bom que você está ajudando seus amigos.
+
+35
+00:06:21,816 --> 00:06:25,092
+Mas nunca se esqueça do seu dever.
+
+36
+00:06:25,092 --> 00:06:29,092
+Você é um estudante, certo?
+
+37
+00:06:31,483 --> 00:06:33,873
+Tome isso como sua lição de vida.
+
+38
+00:06:33,873 --> 00:06:38,480
+Quando você estudar na universidade, você não fará isso de novo.
+
+39
+00:06:38,480 --> 00:06:40,680
+Vou continuar torcendo por você.
+
+40
+00:06:40,680 --> 00:06:43,889
+Brigando!
+
+41
+00:06:44,090 --> 00:06:45,578
+Obrigado, senhor.
+
+42
+00:06:45,578 --> 00:06:49,054
+Esgueirando-se para falar assim comigo, a senhorita Lilly vai reclamar.
+
+43
+00:06:49,054 --> 00:06:50,817
+Vá para o seu P.E.  aula.
+
+44
+00:06:50,817 --> 00:06:52,817
+Obrigado.
+
+45
+00:06:59,000 --> 00:07:04,580
+Senhorita Lilly, estou na 12ª série agora.  Por que ainda preciso aprender basquete?
+
+46
+00:07:04,580 --> 00:07:07,860
+Por favor, permita-me estudar para o exame de admissão.
+
+47
+00:07:07,860 --> 00:07:11,408
+Talvez você não.  Todo assunto é importante.
+
+48
+00:07:11,408 --> 00:07:12,849
+Embora não seja para
+o exame de admissão,
+
+49
+00:07:12,849 --> 00:07:15,574
+você ainda precisa
+estudar para o seu futuro.
+
+50
+00:07:15,574 --> 00:07:20,252
+Mais importante ainda, estudar para os exames é a sua praia.
+
+51
+00:07:20,252 --> 00:07:22,412
+É como você administra o tempo para isso.
+
+52
+00:07:22,412 --> 00:07:25,852
+Não os misture.  Vá praticar como todo mundo.
+
+53
+00:08:13,291 --> 00:08:17,290
+Eu quero esclarecer as coisas.
+
+54
+00:08:17,290 --> 00:08:19,290
+Eu tenho uma confissão a fazer.
+
+55
+00:08:24,646 --> 00:08:27,606
+Sobre?
+
+56
+00:08:27,606 --> 00:08:33,332
+Sobre nós.
+
+57
+00:08:33,332 --> 00:08:35,332
+Pare com isso.
+
+58
+00:08:38,000 --> 00:08:40,669
+Não fale comigo sobre isso agora.
+
+59
+00:08:40,669 --> 00:08:43,786
+Assim que você tiver uma universidade para estudar, conversaremos.
+
+60
+00:08:43,786 --> 00:08:46,778
+Preste atenção em todas as aulas, continue estudando muito.
+
+61
+00:08:46,778 --> 00:08:48,778
+Ir!
+
+62
+00:09:32,994 --> 00:09:33,760
+Teh!
+
+63
+00:09:33,760 --> 00:09:36,355
+Onde está meu Sui?
+
+64
+00:09:36,355 --> 00:09:37,757
+Pensando bem, ter isso
+
+65
+00:09:37,757 --> 00:09:38,769
+todos os dias é meio chato.
+
+66
+00:09:38,769 --> 00:09:39,439
+O que?
+
+67
+00:09:39,439 --> 00:09:40,088
+Tedioso?
+
+68
+00:09:40,088 --> 00:09:41,804
+Você disse que traria Hokkian Mee!
+
+69
+00:09:41,804 --> 00:09:44,403
+Vou dar um soco nas suas costas, idiota.
+
+70
+00:09:45,488 --> 00:09:47,488
+Dê-me 2 sacos desses.
+
+71
+00:10:05,383 --> 00:10:08,871
+Ei, estamos aqui para ajudá-lo.
+
+72
+00:10:08,871 --> 00:10:10,393
+Você pode refazer o exame de admissão.
+
+73
+00:10:10,393 --> 00:10:11,375
+Ainda restam muitas vagas.
+
+74
+00:10:11,375 --> 00:10:13,574
+Vamos lá!
+
+75
+00:10:13,574 --> 00:10:15,328
+Mas deixe-me dar um soco em você primeiro!
+
+76
+00:10:15,328 --> 00:10:16,568
+Sempre nos deixe preocupados.
+
+77
+00:10:16,879 --> 00:10:19,035
+Atenda nossas malditas ligações, cara!
+
+78
+00:10:19,035 --> 00:10:22,853
+Suficiente!  É o bastante!
+
+79
+00:10:22,853 --> 00:10:23,960
+Obrigado, pessoal.
+
+80
+00:10:23,960 --> 00:10:25,053
+Sim.
+
+81
+00:10:25,053 --> 00:10:26,565
+Mas fácil…
+
+82
+00:10:26,565 --> 00:10:27,688
+você vai bagunçar meu cabelo.
+
+83
+00:10:27,688 --> 00:10:31,688
+Vaia!
+
+84
+00:10:33,115 --> 00:10:35,602
+Sim, Teh…
+
+85
+00:10:35,602 --> 00:10:38,586
+Então, como vão as coisas entre você e Oh?
+
+86
+00:10:38,586 --> 00:10:42,586
+Estamos curiosos.
+
+87
+00:10:44,184 --> 00:10:47,902
+Não é nada.
+
+88
+00:10:47,902 --> 00:10:49,302
+Você tem a mesma quantidade?
+
+89
+00:10:49,302 --> 00:10:51,305
+É o mesmo.  Por que roubar o meu?
+
+90
+00:10:51,305 --> 00:10:52,993
+Você deixou cair.
+
+91
+00:10:52,993 --> 00:10:55,067
+Desculpa, então.
+
+92
+00:10:55,067 --> 00:10:57,154
+Do que você está reclamando?
+
+93
+00:10:57,154 --> 00:11:01,154
+Quer um pouco?
+
+94
+00:11:03,000 --> 00:11:05,754
+Nossa aula terminou hoje.
+
+95
+00:11:05,754 --> 00:11:09,754
+Todos vocês farão um exame de admissão em um mês.
+
+96
+00:11:09,757 --> 00:11:12,151
+Você tem que continuar estudando muito.
+
+97
+00:11:12,151 --> 00:11:14,177
+Você terá uma folga em alguns dias, ok?
+
+98
+00:11:14,177 --> 00:11:16,600
+Então hoje vamos comer!
+
+99
+00:11:16,600 --> 00:11:19,600
+UAU!
+
+100
+00:11:21,406 --> 00:11:23,485
+Laoshi, você poderia nos dar outra bênção?
+
+101
+00:11:23,485 --> 00:11:26,169
+Tipo, uma bênção mágica que nos levará a todos para a universidade.
+
+102
+00:11:26,169 --> 00:11:30,126
+Uau.  Não sei quantas vezes já fiz isso.
+
+103
+00:11:30,126 --> 00:11:33,689
+Veja, até mesmo no meu quadro, escrevi uma bênção para você.  ‘A festa de final do curso
+de preparação para a universidade. Que todos vocês tenham sucesso em seus estudos.’
+
+104
+00:11:33,689 --> 00:11:35,552
+Isso é bom o suficiente.
+
+105
+00:11:35,552 --> 00:11:37,430
+Por que você quer que eu dê outra bênção?
+
+106
+00:11:37,430 --> 00:11:38,106
+Eu tenho uma ideia melhor.
+
+107
+00:11:38,106 --> 00:11:42,106
+Vou pedir que vocês se abençoem, certo?
+
+108
+00:11:44,055 --> 00:11:46,963
+Vou pedir que vocês se abençoem, certo?
+
+109
+00:11:46,963 --> 00:11:47,924
+Até o último.
+
+110
+00:11:47,924 --> 00:11:49,280
+Parece bom?
+
+111
+00:11:49,320 --> 00:11:51,001
+Quem vai primeiro?
+
+112
+00:11:51,001 --> 00:11:54,328
+Hum, e ele?
+
+113
+00:11:54,328 --> 00:11:55,680
+Tudo bem, vá em frente!
+
+114
+00:11:55,680 --> 00:11:57,366
+OK!  Entendi.
+
+115
+00:11:57,366 --> 00:11:59,995
+Quem seria?
+
+116
+00:11:59,995 --> 00:12:00,831
+Hum.
+
+117
+00:12:00,831 --> 00:12:01,733
+Ah.
+
+118
+00:12:01,733 --> 00:12:03,677
+Teh, um cara como você
+
+119
+00:12:03,677 --> 00:12:07,677
+terá uma classificação final.
+
+120
+00:12:08,702 --> 00:12:09,384
+Idiota!
+
+121
+00:12:09,384 --> 00:12:10,983
+Brincadeira, cara, brincadeira!
+
+122
+00:12:12,261 --> 00:12:14,231
+Eu sei que você consegue.
+
+123
+00:12:14,231 --> 00:12:17,991
+Você apenas se dedica a isso e você realizará.
+
+124
+00:12:17,991 --> 00:12:21,310
+Desejo que você esteja preparado para tudo no exame.
+
+125
+00:12:21,310 --> 00:12:25,310
+E quando você terminar, vamos para Patong?
+
+126
+00:12:28,739 --> 00:12:29,708
+Vamos, cara, me dê um abraço.
+
+127
+00:12:29,708 --> 00:12:33,879
+Obrigado, cara.
+
+128
+00:12:33,879 --> 00:12:37,879
+Patong!
+
+129
+00:12:49,660 --> 00:12:54,307
+Filipe!
+
+130
+00:12:54,307 --> 00:12:56,697
+Você sempre mostra boas intenções comigo.
+
+131
+00:12:56,697 --> 00:13:01,129
+E você é aquele amigo que sempre apoia todos nós.
+
+132
+00:13:01,129 --> 00:13:06,093
+Nunca veja a boa intenção dos amigos sem valor.
+
+133
+00:13:06,093 --> 00:13:09,329
+Nunca diga ‘Não’ ao que os amigos lhe dão.
+
+134
+00:13:09,329 --> 00:13:12,519
+Então eu, por exemplo, nunca vou deixar você.
+
+135
+00:13:12,519 --> 00:13:16,079
+Estarei bem aqui ao seu lado, sempre tenho boas intenções para você.
+
+136
+00:13:16,079 --> 00:13:18,949
+E de boa vontade ajudá-lo com tudo.
+
+137
+00:13:18,949 --> 00:13:22,949
+Espero que você alcance seu sonho, meu amigo.
+
+138
+00:13:28,636 --> 00:13:30,361
+Ah, ah!
+
+139
+00:13:30,361 --> 00:13:33,326
+Você agora obteve pontuação mais alta do que eu.
+
+140
+00:13:33,326 --> 00:13:36,000
+Antes, éramos péssimos.
+
+141
+00:13:36,000 --> 00:13:38,524
+Mas agora você está melhorando.
+
+142
+00:13:38,524 --> 00:13:40,524
+Eu irei te seguir.
+
+143
+00:13:40,524 --> 00:13:42,000
+Boa sorte meu amigo.
+
+144
+00:13:42,000 --> 00:13:47,000
+E em breve terminaremos o exame!
+
+145
+00:13:55,838 --> 00:13:58,540
+Bas.
+
+146
+00:13:58,540 --> 00:14:03,457
+Você está sempre ao meu lado.
+
+147
+00:14:03,457 --> 00:14:06,013
+E tenha sempre fé em mim,
+
+148
+00:14:06,013 --> 00:14:10,013
+acreditando que posso tudo.
+
+149
+00:14:10,232 --> 00:14:14,232
+Portanto, neste próximo exame, espero que você faça o seu melhor.
+
+150
+00:14:16,097 --> 00:14:18,863
+Eu sei que você consegue.
+
+151
+00:14:18,863 --> 00:14:25,863
+Eu vou estar la por voce.
+
+152
+00:14:38,713 --> 00:14:41,948
+Laoshi, posso abençoar a mesma pessoa?
+
+153
+00:14:41,948 --> 00:14:44,473
+Eu quero abençoar Oh-aew.
+
+154
+00:14:44,473 --> 00:14:49,481
+Claro, não há regra nisso.  Continuar.
+
+155
+00:14:49,481 --> 00:14:52,324
+Obrigado.
+
+156
+00:14:52,324 --> 00:14:56,478
+Oh.
+
+157
+00:14:56,478 --> 00:15:00,736
+Você não sabe que você é bom?
+
+158
+00:15:00,736 --> 00:15:04,538
+Então, neste próximo exame, não se esqueça do seu objetivo.
+
+159
+00:15:04,538 --> 00:15:08,785
+Você pode fazer isso de qualquer maneira.
+
+160
+00:15:08,785 --> 00:15:12,000
+E sobre você dizer que estará lá para mim,
+
+161
+00:15:12,000 --> 00:15:14,913
+EU-
+
+162
+00:15:14,913 --> 00:15:15,951
+Eu estarei lá para você também.
+
+163
+00:15:15,951 --> 00:15:19,951
+Isso nunca vai mudar.
+
+164
+00:15:22,829 --> 00:15:25,589
+Não sei se você sabe por que-
+
+165
+00:15:25,589 --> 00:15:29,589
+Eu vou te buscar e te deixar todos os dias,
+
+166
+00:15:32,375 --> 00:15:35,451
+se você não fizer isso,
+
+167
+00:15:35,451 --> 00:15:38,044
+Eu só quero te dizer isso-
+
+168
+00:15:38,044 --> 00:15:43,044
+Gosto de você.
+
+169
+00:15:51,000 --> 00:15:55,648
+Eu gosto de você desde o 10º ano.
+
+170
+00:15:55,648 --> 00:15:57,950
+Desde o primeiro dia de aula,
+
+171
+00:15:57,950 --> 00:16:00,755
+Não tenho amigos e ninguém com quem conversar.
+
+172
+00:16:00,755 --> 00:16:04,755
+Até você aparecer.
+
+173
+00:16:04,832 --> 00:16:06,201
+Me levou para brincar,
+
+174
+00:16:06,201 --> 00:16:08,294
+me levou para almoçar,
+
+175
+00:16:08,294 --> 00:16:12,815
+e pude conhecer nossos amigos.
+
+176
+00:16:12,815 --> 00:16:14,582
+Pode ser engraçado-
+
+177
+00:16:14,582 --> 00:16:16,858
+pensar que sou uma pessoa fechada,
+
+178
+00:16:16,858 --> 00:16:19,260
+sem amigos, algo assim,
+
+179
+00:16:19,260 --> 00:16:23,260
+mas naquele dia, eu senti como-
+
+180
+00:16:23,948 --> 00:16:28,345
+você é o melhor.
+
+181
+00:16:28,345 --> 00:16:31,584
+Eu queria ser seu amigo mais próximo.
+
+182
+00:16:31,584 --> 00:16:35,049
+E quando o tempo passou,
+
+183
+00:16:35,049 --> 00:16:40,048
+Eu tenho sentimentos por você cada vez mais.
+
+184
+00:16:40,048 --> 00:16:41,563
+E eu fiquei confuso como-
+
+185
+00:16:41,563 --> 00:16:44,770
+merda, eu gostei de você?
+
+186
+00:16:44,770 --> 00:16:48,770
+Isso é possível?
+
+187
+00:16:51,089 --> 00:16:54,806
+Aí eu tive certeza, quando vi que você estava tão triste.
+
+188
+00:16:54,806 --> 00:16:58,112
+Naquela época, eu me senti como-
+
+189
+00:16:58,112 --> 00:17:07,949
+merda, eu senti por você mais do que eu imaginava.
+
+190
+00:17:07,949 --> 00:17:13,264
+Embora eu seja tímido, nunca expressei sentimentos,
+
+191
+00:17:13,264 --> 00:17:14,700
+EU-
+
+192
+00:17:14,700 --> 00:17:18,700
+Não tenho vergonha de sentir por você.
+
+193
+00:17:27,496 --> 00:17:31,496
+Você tentaria se abrir comigo?
+
+194
+00:17:32,421 --> 00:17:37,765
+Tudo bem, acho que é o começo.
+
+195
+00:17:37,765 --> 00:17:42,602
+Dê uma chance para vocês dois pensarem sobre isso.
+
+196
+00:17:42,602 --> 00:17:45,017
+Tudo bem?
+
+197
+00:17:45,017 --> 00:17:47,017
+Vamos comer, vamos comer.
+
+198
+00:18:06,659 --> 00:18:13,659
+‘Dia do Exame de Admissão’
+
+199
+00:18:49,956 --> 00:18:53,673
+Cumpra seu dever da melhor maneira possível.
+
+200
+00:18:53,673 --> 00:18:55,661
+Acredito que não importa qual
+
+201
+00:18:55,661 --> 00:19:00,144
+exame seja, você consegue fazer.
+
+202
+00:19:00,144 --> 00:19:03,390
+Hum.
+
+203
+00:19:03,390 --> 00:19:04,665
+Beba.
+
+204
+00:19:04,665 --> 00:19:07,895
+Para boa sorte.
+
+205
+00:19:07,895 --> 00:19:09,890
+Não, Hoon.
+
+206
+00:19:09,890 --> 00:19:13,179
+Só um pouco, por favor.
+
+207
+00:19:13,179 --> 00:19:15,419
+Estou alimentando você, vamos.
+
+208
+00:19:15,419 --> 00:19:19,419
+Um pouco.
+
+209
+00:19:22,938 --> 00:19:25,653
+Isso é tudo.  Não seja tão duro.
+
+210
+00:19:25,653 --> 00:19:29,653
+É isso.
+
+211
+00:19:33,020 --> 00:19:36,603
+Mãe.
+
+212
+00:19:36,603 --> 00:19:38,795
+Por favor, encoraje-me.
+
+213
+00:19:38,795 --> 00:19:42,795
+O que você quer?
+
+214
+00:19:50,636 --> 00:19:54,045
+O que você quer, filho?
+
+215
+00:19:54,045 --> 00:19:59,284
+Você pode reabrir o restaurante?
+
+216
+00:19:59,284 --> 00:20:03,284
+Eu quero comer seu Hokkian Mee.
+
+217
+00:20:08,404 --> 00:20:12,404
+Não se esqueça de dar o primeiro passo com o pé esquerdo.
+
+218
+00:20:15,412 --> 00:20:17,334
+Ainda temos tempo suficiente?
+
+219
+00:20:17,635 --> 00:20:19,919
+Vou fazer de você Hokkian Mee agora.
+
+220
+00:20:20,432 --> 00:20:21,988
+Vamos, vá buscar os legumes.
+
+221
+00:20:21,988 --> 00:20:25,988
+Ok, tudo bem, sim.
+
+222
+00:20:40,445 --> 00:20:47,445
+‘A todos os transeuntes, por favor, acendam o fogo de artifício depois das
+8h. Meu filho está com medo e precisa se concentrar antes de fazer o exame.’
+
+223
+00:20:49,356 --> 00:20:49,951
+Entendi?
+
+224
+00:20:49,951 --> 00:20:53,951
+Sim, entendi.
+
+225
+00:20:54,777 --> 00:20:59,006
+Pessoal, tirem uma foto desses cartões e enviem para o nosso chat em grupo.
+
+226
+00:20:59,006 --> 00:21:01,006
+Entendi.
+
+227
+00:21:03,930 --> 00:21:05,473
+Vocês fazem o exame por aqui, certo?
+
+228
+00:21:05,473 --> 00:21:06,955
+O meu fica no prédio 7, ali.
+
+229
+00:21:06,955 --> 00:21:07,704
+Isso é longe.
+
+230
+00:21:07,704 --> 00:21:08,860
+É melhor eu ir embora.
+
+231
+00:21:08,860 --> 00:21:09,460
+Tudo bem.
+
+232
+00:21:09,460 --> 00:21:10,064
+Até mais, até mais.
+
+233
+00:21:10,064 --> 00:21:11,708
+Ei, boa sorte.
+
+234
+00:21:11,708 --> 00:21:12,998
+Faça o seu melhor!
+
+235
+00:21:12,998 --> 00:21:16,998
+Tchau.
+
+236
+00:22:43,426 --> 00:22:47,426
+Faça o seu melhor.
+
+237
+00:22:52,091 --> 00:22:55,554
+Você também.
+
+238
+00:22:55,554 --> 00:22:59,554
+Você consegue.
+
+239
+00:23:16,481 --> 00:23:20,365
+E aí?
+
+240
+00:23:20,365 --> 00:23:24,365
+Nada.
+
+241
+00:23:26,291 --> 00:23:30,291
+Você está preparado?
+
+242
+00:23:38,292 --> 00:23:42,292
+Eu vou me preparar.
+
+243
+00:23:51,348 --> 00:23:55,348
+Como vão as coisas entre você e Bas?
+
+244
+00:24:02,623 --> 00:24:06,623
+Tudo começou há algum tempo.
+
+245
+00:24:11,136 --> 00:24:15,136
+Tentei conhecê-lo mais.
+
+246
+00:24:28,276 --> 00:24:31,236
+Eu irei fazer o exame.
+
+247
+00:24:31,236 --> 00:24:33,245
+Boa sorte.
+
+248
+00:24:33,245 --> 00:24:37,245
+Boa sorte para você também.
+
+249
+00:25:21,894 --> 00:25:25,894
+Com licença, preciso ir ao banheiro.
+
+250
+00:26:00,814 --> 00:26:02,814
+'Triste'
+
+251
+00:26:28,388 --> 00:26:30,388
+Prepare-se para entregar suas folhas de respostas.
+
+252
+00:26:46,588 --> 00:26:47,278
+Acabou o tempo.
+
+253
+00:26:47,478 --> 00:26:51,478
+Abaixe seus lápis.
+
+254
+00:27:09,735 --> 00:27:11,963
+A cabeça fica limpa após o exame.
+
+255
+00:27:11,963 --> 00:27:15,122
+Muito.
+
+256
+00:27:15,122 --> 00:27:18,358
+Obrigado por me ensinar.
+
+257
+00:27:18,358 --> 00:27:19,791
+Vamos, escolha o café.
+
+258
+00:27:19,791 --> 00:27:20,985
+É por minha conta.
+
+259
+00:27:20,985 --> 00:27:24,985
+Em você?  Vamos.
+
+260
+00:27:28,701 --> 00:27:32,140
+Ainda lembro?
+
+261
+00:27:32,140 --> 00:27:34,215
+Você queria sair durante o Ano Novo Chinês.
+
+262
+00:27:34,215 --> 00:27:36,497
+Sim, por quê?
+
+263
+00:27:36,497 --> 00:27:40,497
+Você ainda quer ir junto?
+
+264
+00:27:46,645 --> 00:27:50,645
+Vamos amanhã.
+
+265
+00:27:51,447 --> 00:27:55,447
+Vamos.
+
+266
+00:28:24,329 --> 00:28:28,329
+Você não está envergonhado?
+
+267
+00:28:29,132 --> 00:28:33,132
+Porque eu estaria?
+
+268
+00:28:59,376 --> 00:29:03,376
+Vamos.
+
+269
+00:29:05,578 --> 00:29:07,578
+‘MACARNÃO KOLHAH HOKKIEN’
+
+270
+00:29:33,887 --> 00:29:36,911
+Ei ei.
+
+271
+00:29:36,911 --> 00:29:38,636
+O que há de errado com você?
+
+272
+00:29:38,636 --> 00:29:40,637
+Regar as árvores nesta hora?
+
+273
+00:29:40,637 --> 00:29:42,637
+Apenas choveu.
+
+274
+00:29:58,700 --> 00:30:01,395
+Venha aqui.
+
+275
+00:30:01,395 --> 00:30:03,345
+O que é?
+
+276
+00:30:03,345 --> 00:30:05,345
+Fale comigo.
+
+277
+00:30:11,017 --> 00:30:12,934
+Você realmente pode falar comigo.
+
+278
+00:30:12,934 --> 00:30:14,934
+Venha aqui.
+
+279
+00:30:49,817 --> 00:30:51,660
+O que está errado?
+
+280
+00:30:51,660 --> 00:30:55,660
+Brigou com a mãe?
+
+281
+00:31:00,300 --> 00:31:02,102
+Você está com o coração partido?
+
+282
+00:31:02,102 --> 00:31:06,102
+Tarn?
+
+283
+00:31:18,811 --> 00:31:22,811
+Ah, ah?
+
+284
+00:31:48,414 --> 00:31:52,414
+EU-
+
+285
+00:32:00,808 --> 00:32:04,808
+Ah, ah?
+
+286
+00:32:05,603 --> 00:32:09,603
+Eu gosto de Oh-aew.
+
+287
+00:32:27,598 --> 00:32:30,328
+Achei que você estava com o coração partido.
+
+288
+00:32:30,328 --> 00:32:34,328
+Você gosta dele, mas ele não gosta de você.
+
+289
+00:32:34,692 --> 00:32:38,692
+Se você gosta dele, você vai atrás dele.
+
+290
+00:32:43,099 --> 00:32:47,099
+Mas ele é um cara.
+
+291
+00:32:47,658 --> 00:32:51,658
+Como posso gostar dele?
+
+292
+00:32:53,002 --> 00:32:53,807
+Desde que eu nasci,
+
+293
+00:32:56,605 --> 00:33:00,605
+Achei que só poderia gostar de garotas.
+
+294
+00:33:05,166 --> 00:33:09,166
+Gostar um do outro parece estranho.
+
+295
+00:33:11,634 --> 00:33:15,634
+Estou confuso, Hoon.
+
+296
+00:33:16,917 --> 00:33:20,917
+Se eu sair com ele, como posso contar aos meus amigos?
+
+297
+00:33:23,442 --> 00:33:27,442
+Todos os meus amigos namoram garotas.
+
+298
+00:33:31,676 --> 00:33:35,676
+E naquele dia você trouxe Nozomi.
+
+299
+00:33:38,581 --> 00:33:42,581
+Ma parecia muito feliz.
+
+300
+00:33:43,191 --> 00:33:47,191
+E muito orgulhoso.
+
+301
+00:33:49,029 --> 00:33:52,816
+E se eu namorasse
+
+302
+00:33:52,816 --> 00:33:56,487
+um cara, tudo bem?
+
+303
+00:33:56,487 --> 00:33:59,480
+Como mamãe pensaria nisso?
+
+304
+00:33:59,803 --> 00:34:01,798
+Mano, mamãe não vai ficar bem com isso.
+
+305
+00:34:01,798 --> 00:34:05,798
+Ei,
+
+306
+00:34:06,752 --> 00:34:08,989
+escute-me.
+
+307
+00:34:08,989 --> 00:34:12,892
+Ouvir.
+
+308
+00:34:12,892 --> 00:34:16,416
+Como você poderia mudar o que as outras pessoas pensam?
+
+309
+00:34:16,416 --> 00:34:18,897
+Mesmo se você segurasse
+a mão de um cara,
+
+310
+00:34:18,897 --> 00:34:21,170
+haveria pessoas que
+concordariam com você.
+
+311
+00:34:21,170 --> 00:34:25,170
+E haveria outros que não o eram.
+
+312
+00:34:26,650 --> 00:34:30,650
+Mas estou bem.
+
+313
+00:34:32,949 --> 00:34:34,262
+Se meu irmão gosta de um cara,
+
+314
+00:34:34,262 --> 00:34:38,262
+Eu estou de acordo com isso.
+
+315
+00:34:40,704 --> 00:34:42,538
+E sobre a mamãe, quando você
+
+316
+00:34:42,538 --> 00:34:44,653
+estiver pronto para
+contar, vá até ela.
+
+317
+00:34:44,653 --> 00:34:48,653
+E se ela entender, você será um homem de sorte.
+
+318
+00:34:49,132 --> 00:34:53,132
+Estou certo?
+
+319
+00:34:56,453 --> 00:35:00,453
+Mas se ela não entender, não se surpreenda.
+
+320
+00:35:02,159 --> 00:35:06,159
+Dê um tempo a ela.
+
+321
+00:35:08,031 --> 00:35:12,031
+No final, se a mãe souber que você está namorando alguém que não ama,
+
+322
+00:35:13,548 --> 00:35:16,206
+e você não está feliz, ela
+
+323
+00:35:16,206 --> 00:35:19,643
+também não ficará feliz.
+
+324
+00:35:19,643 --> 00:35:23,478
+É a sua vida.
+
+325
+00:35:23,478 --> 00:35:27,478
+Faça o que te faz feliz.
+
+326
+00:35:30,711 --> 00:35:34,711
+Você pode gostar de qualquer um, depende de você.
+
+327
+00:35:45,152 --> 00:35:49,152
+Sério, Hoon?
+
+328
+00:35:50,268 --> 00:35:53,936
+Posso gostar de alguém?
+
+329
+00:35:53,936 --> 00:35:57,936
+Você sempre pode gostar de alguém.
+
+330
+00:36:21,653 --> 00:36:23,450
+E se você realmente
+
+331
+00:36:23,450 --> 00:36:24,618
+gosta dele, você vai até ele,
+
+332
+00:36:24,618 --> 00:36:26,904
+e diga a ele que você gosta dele.
+
+333
+00:36:26,904 --> 00:36:29,464
+E se ele não gosta de você, foda-se.
+
+334
+00:36:29,464 --> 00:36:31,743
+OK?
+
+335
+00:36:31,743 --> 00:36:32,937
+Mas eu acho-
+
+336
+00:36:32,937 --> 00:36:34,420
+sério,
+
+337
+00:36:34,420 --> 00:36:38,420
+Acho que Oh-aew também gosta de você.
+
+338
+00:36:50,687 --> 00:36:54,687
+Eu disse algo errado?
+
+339
+00:36:55,078 --> 00:36:58,485
+Ele já gostou de outra pessoa.
+
+340
+00:36:58,843 --> 00:37:02,244
+É tarde demais para mim, Hoon.
+
+341
+00:37:02,244 --> 00:37:06,244
+E você também é um bebê chorão.
+
+342
+00:37:20,112 --> 00:37:24,112
+Droga!  Você vai acordar mamãe.
+
+343
+00:38:07,753 --> 00:38:08,656
+Você está cheio?
+
+344
+00:38:08,656 --> 00:38:10,426
+Você quer algo mais para comer?
+
+345
+00:38:10,426 --> 00:38:10,974
+É o bastante.
+
+346
+00:38:11,057 --> 00:38:15,057
+Estou com uma barriga grande agora.
+
+347
+00:38:15,534 --> 00:38:19,534
+Eventualmente, neste Ano Novo Chinês, poderemos ficar juntos.
+
+348
+00:38:24,101 --> 00:38:28,101
+Aham.
+
+349
+00:38:32,996 --> 00:38:36,996
+Mas seria melhor se não houvesse…
+
+350
+00:38:42,760 --> 00:38:47,322
+Pessoal, peguem outra mesa, vocês estão no nosso caminho.
+
+351
+00:38:47,322 --> 00:38:49,322
+Então você está sendo mal-intencionado agora?
+
+352
+00:38:53,232 --> 00:38:55,909
+Então todos vocês agora são casais.
+
+353
+00:38:55,909 --> 00:38:59,909
+Ainda sou solteira.
+
+354
+00:39:00,617 --> 00:39:02,846
+Teh não iria junto.
+
+355
+00:39:02,846 --> 00:39:05,533
+Disse que queria ficar sozinho.
+
+356
+00:39:05,533 --> 00:39:06,457
+Apenas deixe-o ir por enquanto.
+
+357
+00:39:06,457 --> 00:39:07,856
+Ele está chateado.
+
+358
+00:39:07,856 --> 00:39:11,856
+Ele não conseguiu fazer bem o exame.
+
+359
+00:39:11,976 --> 00:39:15,976
+‘Feliz Ano Novo Chinês a todos.’
+
+360
+00:41:39,200 --> 00:41:39,929
+Realmente?
+
+361
+00:41:39,929 --> 00:41:43,929
+Preciso praticar mais?
+
+362
+00:41:45,321 --> 00:41:49,321
+Estou bem?
+
+363
+00:42:50,979 --> 00:42:54,715
+‘Dia do anúncio do resultado da admissão’
+
+364
+00:42:54,715 --> 00:42:56,149
+10 minutos, certo?
+
+365
+00:42:56,149 --> 00:43:00,149
+Eles disseram que anunciariam às 10, certo?
+
+366
+00:43:03,343 --> 00:43:04,791
+Ah, ah!
+
+367
+00:43:04,791 --> 00:43:08,791
+Você não vai estar aqui e ver o resultado?
+
+368
+00:43:09,025 --> 00:43:11,767
+Isto é uma vez na vida!
+
+369
+00:43:11,767 --> 00:43:12,809
+Não.
+
+370
+00:43:12,809 --> 00:43:13,777
+Estou muito animado.
+
+371
+00:43:13,777 --> 00:43:15,531
+Verifique para mim.
+
+372
+00:43:15,531 --> 00:43:16,804
+Oh.
+
+373
+00:43:16,804 --> 00:43:17,854
+Estou prestes a ter um ataque cardíaco.
+
+374
+00:43:17,854 --> 00:43:21,854
+Quando eles vão anunciar?
+
+375
+00:43:28,405 --> 00:43:31,632
+Eles já anunciaram, Teh?
+
+376
+00:43:31,632 --> 00:43:32,955
+Ainda não.
+
+377
+00:43:32,955 --> 00:43:36,390
+Se o fizerem, eu lhe direi.
+
+378
+00:43:37,033 --> 00:43:39,235
+Espere um pouco, ok, Tuty?
+
+379
+00:43:39,235 --> 00:43:43,235
+Eles ainda não anunciaram isso.
+
+380
+00:43:50,000 --> 00:43:51,275
+‘Mod: 2 minutos!!!!’
+
+381
+00:43:51,275 --> 00:43:52,775
+‘Phillip: 1 minuto!!!!!!!!!!!!!!!!’
+
+382
+00:43:56,518 --> 00:43:57,717
+Ei, está aqui!
+
+383
+00:43:57,717 --> 00:43:58,887
+Está aqui!
+
+384
+00:43:58,887 --> 00:44:01,587
+Coloque o número do exame!
+
+385
+00:44:09,786 --> 00:44:11,776
+‘Arquitetura, Universidade Srinakhonromkhlao’
+
+386
+00:44:13,611 --> 00:44:15,295
+Finalmente!
+
+387
+00:44:15,295 --> 00:44:17,000
+Eu entrei!
+
+388
+00:44:17,000 --> 00:44:21,000
+Papai, mamãe, entendi!!!
+
+389
+00:44:22,357 --> 00:44:26,357
+1-2-3!
+
+390
+00:44:29,000 --> 00:44:36,000
+SIM!  Entendi!  Nós conseguimos!
+
+391
+00:44:40,201 --> 00:44:44,201
+Tudo bem, aqui vamos nós!
+
+392
+00:44:51,047 --> 00:44:53,927
+Já saiu?
+
+393
+00:44:53,927 --> 00:44:57,229
+Sim, está fora!
+
+394
+00:44:57,229 --> 00:45:00,587
+Eu entrei?
+
+395
+00:45:00,587 --> 00:45:01,854
+Sua primeira escolha!
+
+396
+00:45:01,854 --> 00:45:03,711
+'Artes da Comunicação, Universidade Anantasart.'
+
+397
+00:45:03,711 --> 00:45:09,079
+Ah!  Meu filho entrou em Artes da Comunicação!
+
+398
+00:45:09,079 --> 00:45:10,476
+Eu entrei!
+
+399
+00:45:10,476 --> 00:45:16,476
+Ah!  Meu filho entrou em Artes da Comunicação!
+
+400
+00:45:23,813 --> 00:45:29,813
+‘Mod: Entendi!  Mod: Ecomônica, Pratchayanant!  Phillip: Fiz minha primeira escolha, BA!  Kai: Fiz minha terceira
+escolha, Gestão Hoteleira, Indarapichit Kai: Pelo menos, estou feliz por finalmente ter conseguido um lugar para estudar!’
+
+401
+00:45:57,342 --> 00:46:01,342
+Teh!
+
+402
+00:46:02,274 --> 00:46:03,754
+Você foi aceito!
+
+403
+00:46:03,754 --> 00:46:05,350
+Ver?
+
+404
+00:46:05,350 --> 00:46:09,350
+Teh foi aceito!  Uau!  Teh foi aceito!
+
+405
+00:46:10,711 --> 00:46:12,919
+Você foi aceito.
+
+406
+00:46:13,015 --> 00:46:17,015
+‘Segunda escolha: Artes da Comunicação, Universidade Pratchayanant’
+
+407
+00:46:17,451 --> 00:46:20,581
+Você é tão bom, filho.  Você é bom!
+
+408
+00:46:20,581 --> 00:46:22,152
+Ver?  Aqui.  Você entrou.
+
+409
+00:46:22,452 --> 00:46:24,452
+É o seu nome.
+
+410
+00:46:29,250 --> 00:46:33,250
+Você entrou, mas por que não está feliz com isso?
+
+411
+00:46:36,649 --> 00:46:37,570
+O que aconteceu?
+
+412
+00:46:37,570 --> 00:46:41,570
+Você pode me dizer?
+
+413
+00:46:41,884 --> 00:46:45,884
+O que está errado?
+
+414
+00:46:45,936 --> 00:46:49,936
+Quero entrar em Artes da Comunicação na Anantasart.
+
+415
+00:46:50,459 --> 00:46:52,961
+Você também pode estudar em outro lugar, filho.
+
+416
+00:46:52,961 --> 00:46:55,054
+Por que só lá?
+
+417
+00:46:55,054 --> 00:46:57,160
+Outras universidades também são boas.
+
+418
+00:46:57,160 --> 00:47:01,003
+Não é que os outros não sejam bons, mãe.
+
+419
+00:47:01,003 --> 00:47:06,239
+Eu quero entrar nesta universidade.
+
+420
+00:47:06,239 --> 00:47:12,314
+E mãe, você já contou a todo mundo que eu entrei.
+
+421
+00:47:12,314 --> 00:47:15,777
+Como você poderia contar a eles sobre isso?
+
+422
+00:47:15,777 --> 00:47:19,143
+Teh, qualquer que seja a universidade em que você entrou, estou feliz...
+
+423
+00:47:19,143 --> 00:47:20,143
+Espere.
+
+424
+00:47:31,458 --> 00:47:35,458
+Sinto muito, mãe.
+
+425
+00:47:56,246 --> 00:47:58,545
+Sinto muito por Teh.
+
+426
+00:47:58,545 --> 00:48:01,718
+Não sei o que ele está pensando.
+
+427
+00:48:01,919 --> 00:48:04,450
+Hum.
+
+428
+00:48:04,450 --> 00:48:06,175
+Mas é difícil, dê
+
+429
+00:48:06,175 --> 00:48:08,175
+um tempo a ele.
+
+430
+00:48:19,223 --> 00:48:20,591
+Ah, ah.
+
+431
+00:48:20,591 --> 00:48:21,595
+Hum?
+
+432
+00:48:21,595 --> 00:48:23,643
+Eu estou bem aqui.
+
+433
+00:48:23,643 --> 00:48:26,250
+Se você quiser que eu faça
+
+434
+00:48:26,250 --> 00:48:28,099
+algum comentário ou ouça você,
+
+435
+00:48:28,099 --> 00:48:31,743
+Posso fazer isso o dia todo.
+
+436
+00:48:31,743 --> 00:48:33,102
+O que você quer que eu diga?
+
+437
+00:48:33,102 --> 00:48:36,627
+Estou tão aliviado por ter passado no exame.
+
+438
+00:48:36,627 --> 00:48:40,627
+Posso fazer uma pausa.
+
+439
+00:48:40,917 --> 00:48:44,475
+Onde você quer ir comemorar?
+
+440
+00:48:44,475 --> 00:48:48,475
+Em qualquer lugar.  Você escolhe.
+
+441
+00:48:52,450 --> 00:48:54,528
+OK.
+
+442
+00:48:54,528 --> 00:48:58,528
+Eu escolherei.
+
+443
+00:49:13,257 --> 00:49:14,301
+Por que você me trouxe aqui?
+
+444
+00:49:14,301 --> 00:49:16,307
+Você quer descer?
+
+445
+00:49:16,307 --> 00:49:20,307
+Se você não quiser, posso ligar para ele para você.
+
+446
+00:49:22,582 --> 00:49:24,542
+Acho que durante
+esse período, você
+
+447
+00:49:24,542 --> 00:49:28,542
+pode ser quem
+ele tanto deseja ver.
+
+448
+00:49:29,616 --> 00:49:32,450
+Mas-
+
+449
+00:49:32,450 --> 00:49:35,022
+Você não precisa ter medo de que eu fique triste.
+
+450
+00:49:35,022 --> 00:49:39,022
+Porque me sentirei ainda pior se vir que você está triste.
+
+451
+00:49:46,452 --> 00:49:50,452
+Vamos lá.  Vá vê-lo.
+
+452
+00:50:46,780 --> 00:50:48,056
+Está tudo bem.
+
+453
+00:50:48,056 --> 00:50:50,614
+Está tudo bem.
+
+454
+00:50:50,614 --> 00:50:54,614
+Se não estiver pronto, você pode passar por aqui mais tarde.
+
+455
+00:50:56,890 --> 00:51:00,890
+Não quero vê-lo triste.
+
+456
+00:51:02,273 --> 00:51:05,157
+Sinto muito.
+
+457
+00:51:05,157 --> 00:51:08,951
+Está tudo bem, eu entendo.
+
+458
+00:51:08,951 --> 00:51:12,951
+Bas, me desculpe.
+
+459
+00:51:17,438 --> 00:51:21,438
+Sinto muito.
+
+460
+00:51:34,835 --> 00:51:38,835
+Ah.
+
+461
+00:52:46,389 --> 00:52:49,012
+E aí?
+
+462
+00:52:49,012 --> 00:52:51,012
+Por quê você está aqui?
+
+463
+00:52:53,566 --> 00:52:55,317
+Eu estou preocupado com você.
+
+464
+00:52:55,317 --> 00:52:57,317
+É por isso que estou aqui.
+
+465
+00:52:59,700 --> 00:53:02,187
+Como vai você?
+
+466
+00:53:02,187 --> 00:53:04,687
+Como você está indo?
+
+467
+00:53:08,061 --> 00:53:12,061
+Eu vou viver.
+
+468
+00:53:12,209 --> 00:53:14,804
+Parabens.
+
+469
+00:53:14,804 --> 00:53:18,270
+Você finalmente entrou.
+
+470
+00:53:18,270 --> 00:53:21,748
+Muito obrigado.
+
+471
+00:53:21,748 --> 00:53:24,631
+E você, na verdade-
+
+472
+00:53:24,631 --> 00:53:28,544
+você passou no exame também.
+
+473
+00:53:28,544 --> 00:53:31,092
+Mas se você realmente
+quer estudar na
+
+474
+00:53:31,092 --> 00:53:33,886
+Anantasart, pode
+tentar no próximo ano.
+
+475
+00:53:33,886 --> 00:53:35,757
+Você é bom.
+
+476
+00:53:35,757 --> 00:53:37,431
+Não há nada que você não possa fazer.
+
+477
+00:53:37,431 --> 00:53:39,671
+Não é verdade?
+
+478
+00:53:39,671 --> 00:53:41,471
+Não me faça começar.
+
+479
+00:53:41,471 --> 00:53:42,988
+Um cara como você não pode ser
+
+480
+00:53:42,988 --> 00:53:46,614
+derrubado facilmente
+onde quer que esteja.
+
+481
+00:53:46,614 --> 00:53:50,280
+Hum.
+
+482
+00:53:50,654 --> 00:53:51,652
+Vou avisar a todos que-
+
+483
+00:53:51,652 --> 00:53:54,493
+um cara como eu não pode ser
+
+484
+00:53:54,493 --> 00:53:58,493
+derrubado, não
+importa o que aconteça.
+
+485
+00:54:08,685 --> 00:54:09,562
+Aqui.
+
+486
+00:54:09,719 --> 00:54:11,677
+Isto é para você.
+
+487
+00:54:11,677 --> 00:54:15,305
+Abra agora.
+
+488
+00:54:15,305 --> 00:54:19,305
+Vamos lá.
+
+489
+00:54:32,533 --> 00:54:34,816
+Eu quero que você saiba disso-
+
+490
+00:54:34,816 --> 00:54:37,134
+não importa onde você esteja,
+
+491
+00:54:37,134 --> 00:54:40,800
+você ainda é quem você é, Teh.
+
+492
+00:54:40,800 --> 00:54:43,281
+Ninguém pode
+tirar sua identidade,
+
+493
+00:54:43,281 --> 00:54:47,281
+ninguém pode tirar
+de você o seu sonho.
+
+494
+00:54:47,352 --> 00:54:48,985
+E lembre-se disso,
+
+495
+00:54:48,985 --> 00:54:50,659
+um cara como você-
+
+496
+00:54:50,659 --> 00:54:51,973
+é único.
+
+497
+00:54:51,973 --> 00:54:55,973
+Tenha orgulho disso.
+
+498
+00:55:05,605 --> 00:55:07,069
+Ei, ei, ei!
+
+499
+00:55:07,069 --> 00:55:07,713
+Merda!
+
+500
+00:55:08,828 --> 00:55:10,061
+Não faça uma bagunça.
+
+501
+00:55:10,061 --> 00:55:11,655
+Demorei muito para desenhar.
+
+502
+00:55:11,655 --> 00:55:15,060
+Chega de abraços.
+
+503
+00:55:15,060 --> 00:55:19,060
+Vou pendurá-lo para você.
+
+504
+00:55:32,148 --> 00:55:36,148
+Vamos fazer disso uma batalha!
+
+505
+00:55:38,336 --> 00:55:39,202
+Como é isso?
+
+506
+00:55:40,485 --> 00:55:42,424
+Eu desenhei você muito lindamente.
+
+507
+00:55:42,424 --> 00:55:46,424
+Mais bonito do que você realmente é.
+
+508
+00:55:51,658 --> 00:55:54,141
+Hum.
+
+509
+00:55:54,141 --> 00:55:57,093
+Muito obrigado.
+
+510
+00:55:57,093 --> 00:56:01,093
+Ter você como amigo é um presente.
+
+511
+00:56:38,705 --> 00:56:42,705
+Bem...
+
+512
+00:56:42,980 --> 00:56:46,626
+Sim?
+
+513
+00:56:46,626 --> 00:56:50,626
+A coisa que nós lidamos-
+
+514
+00:56:50,855 --> 00:56:54,453
+que depois que entrei na universidade,
+
+515
+00:56:54,453 --> 00:57:00,239
+Eu lhe daria uma resposta se fôssemos ser um casal.
+
+516
+00:57:00,239 --> 00:57:03,042
+Bem, já que chegamos até aqui,
+
+517
+00:57:03,042 --> 00:57:07,042
+ainda tenho que lhe
+dar uma resposta?
+
+518
+00:57:10,601 --> 00:57:14,601
+Bem, você ainda quer responder?
+
+519
+00:57:22,218 --> 00:57:25,298
+Eu acho que eu faço.
+
+520
+00:57:25,298 --> 00:57:27,702
+E-
+
+521
+00:57:27,702 --> 00:57:31,702
+Eu tenho a resposta.
+
+522
+00:57:33,316 --> 00:57:35,750
+Mas primeiro eu quero saber-
+
+523
+00:57:35,750 --> 00:57:40,386
+quando estávamos em P.E.  e
+você disse que queria esclarecer
+
+524
+00:57:40,386 --> 00:57:44,109
+as coisas e tinha uma
+confissão a fazer sobre nós,
+
+525
+00:57:44,109 --> 00:57:47,382
+você pode me dizer primeiro o que é isso?
+
+526
+00:57:48,335 --> 00:57:52,335
+Huh?
+
+527
+00:57:54,055 --> 00:57:57,497
+Naquele dia você disse-
+
+528
+00:57:57,497 --> 00:58:01,497
+você se sentiu como se tivesse sido usado.
+
+529
+00:58:05,968 --> 00:58:08,952
+Eu só queria te dizer isso-
+
+530
+00:58:08,952 --> 00:58:14,754
+Eu nunca usei você.
+
+531
+00:58:14,754 --> 00:58:18,151
+E quando eu disse que gostava de você,
+
+532
+00:58:18,151 --> 00:58:22,075
+Eu realmente gostei de
+você, gostei de você durante
+
+533
+00:58:22,075 --> 00:58:29,703
+os 2 anos em que estive
+dando em cima de você,
+
+534
+00:58:29,703 --> 00:58:35,746
+Eu gostava de você tanto quanto um cara como eu poderia.
+
+535
+00:58:35,746 --> 00:58:39,990
+Merda, mas por um tempo fiquei confuso.
+
+536
+00:58:39,990 --> 00:58:42,294
+Estou realmente confuso.
+
+537
+00:58:42,294 --> 00:58:43,971
+Como-
+
+538
+00:58:43,971 --> 00:58:51,813
+às vezes, nem conheço meus próprios sentimentos.
+
+539
+00:58:51,813 --> 00:58:58,142
+É isso.
+
+540
+00:58:58,142 --> 00:59:04,142
+Sinto muito.
+
+541
+00:59:07,154 --> 00:59:10,912
+E-
+
+542
+00:59:10,912 --> 00:59:15,912
+E o que você queria confessar?
+
+543
+00:59:19,299 --> 00:59:23,299
+Bem-
+
+544
+00:59:24,131 --> 00:59:27,244
+Eu estava assustado.
+
+545
+00:59:27,244 --> 00:59:33,997
+Eu estava com medo de
+que, quando brigássemos,
+
+546
+00:59:33,997 --> 00:59:42,908
+você deixasse de ser meu
+amigo ou até me odiasse.
+
+547
+00:59:42,908 --> 00:59:51,546
+Eu não quero perder você.
+
+548
+00:59:51,546 --> 00:59:59,160
+Eu ainda quero ser seu amigo.
+
+549
+00:59:59,160 --> 01:00:03,760
+Mesmo agora não penso
+em você como pensava
+
+550
+01:00:03,760 --> 01:00:07,760
+antes, ainda podemos
+ser bons amigos, certo?
+
+551
+01:00:11,416 --> 01:00:15,416
+Na verdade, estou aliviado por você ter vindo.
+
+552
+01:00:17,492 --> 01:00:21,492
+Pelo menos, você ainda queria ser meu amigo.
+
+553
+01:00:25,014 --> 01:00:27,447
+Hum.
+
+554
+01:00:27,447 --> 01:00:31,447
+Sua vez agora.
+
+555
+01:00:43,756 --> 01:00:46,907
+Ou…
+
+556
+01:00:46,907 --> 01:00:50,799
+sua resposta é…
+
+557
+01:00:50,799 --> 01:00:54,799
+Minha resposta é…
+
+558
+01:00:57,514 --> 01:01:01,514
+Eu ainda quero ser seu amigo.
+
+559
+01:01:05,810 --> 01:01:07,752
+O que passamos…
+
+560
+01:01:07,752 --> 01:01:12,717
+Somos tão durões que superamos isso.
+
+561
+01:01:12,717 --> 01:01:17,552
+Se você não me ama mais, ainda podemos ser amigos, certo?
+
+562
+01:01:17,552 --> 01:01:21,552
+Hum?
+
+563
+01:01:24,952 --> 01:01:27,915
+Merda.
+
+564
+01:01:27,915 --> 01:01:31,281
+E-
+
+565
+01:01:31,281 --> 01:01:32,834
+Que tal Ah?
+
+566
+01:01:32,834 --> 01:01:36,834
+Como ele está?
+
+567
+01:01:37,756 --> 01:01:41,756
+Eu não falei com ele.
+
+568
+01:01:44,638 --> 01:01:48,638
+Desde que eu sabia que ele finalmente passou no exame.
+
+569
+01:01:53,516 --> 01:02:02,913
+Ah, se você quiser
+parabenizá-lo,
+
+570
+01:02:02,913 --> 01:02:06,913
+não se esqueça de
+dizer você mesmo.
+
+571
+01:02:18,751 --> 01:02:22,751
+Porque voce esta chorando?
+
+572
+01:02:23,991 --> 01:02:26,512
+Eu quero fazer xixi.
+
+573
+01:02:26,512 --> 01:02:30,512
+Em vez disso, a água começou a escorrer dos meus olhos.
+
+574
+01:02:39,191 --> 01:02:43,191
+Não importa o que aconteça com você,
+
+575
+01:02:47,703 --> 01:02:51,703
+Eu vou estar la por voce.
+
+576
+01:02:53,085 --> 01:02:57,085
+Eu nunca vou te abandonar.
+
+577
+01:03:45,600 --> 01:03:49,600
+‘MoRaoYuLok’‘Kai: Vamos comer a sobremesa Oh-aew, pois não nos veremos com
+muita frequência.’ ‘Mod: Droga, estamos prestes a seguir nosso caminho.  T T'
+
+578
+01:03:54,989 --> 01:03:59,389
+‘Kai: Vamos comer a sobremesa Oh-aew, pois não nos veremos com muita
+frequência.’ ‘Mod: Droga, estamos prestes a seguir nosso caminho.  T T'
+
+579
+01:04:11,500 --> 01:04:14,500
+‘Oh.aew: Como prometido.  @teh_tunn’
+
+580
+01:04:20,000 --> 01:04:24,500
+‘teh_tunn: Como prometido.’
+
+581
+01:05:56,000 --> 01:05:58,504
+Ah, ah.
+
+582
+01:05:58,504 --> 01:06:00,428
+Você está incrível!
+
+583
+01:06:00,428 --> 01:06:02,675
+Eu olhei para cima e vi você e fiquei surpreso!
+
+584
+01:06:02,675 --> 01:06:03,844
+Olá mãe.
+
+585
+01:06:03,844 --> 01:06:05,276
+Você está aqui para ver Teh?
+
+586
+01:06:05,276 --> 01:06:09,276
+Ele está lá dentro.  Vá vê-lo.
+
+587
+01:06:12,403 --> 01:06:15,007
+Oh não.
+
+588
+01:06:15,007 --> 01:06:16,608
+Na verdade, estou prestes a correr para cumprir meu voto.
+
+589
+01:06:16,608 --> 01:06:19,690
+Eu disse que começaria do seu restaurante até a ponta do Cabo Promthep.
+
+590
+01:06:20,308 --> 01:06:24,308
+Aiya!  Isso é muito longe.
+
+591
+01:06:24,702 --> 01:06:26,022
+Você quer comer alguma coisa primeiro?
+
+592
+01:06:26,022 --> 01:06:28,086
+Vou cozinhar um pouco de Hokkien Mee para você.
+
+593
+01:06:28,086 --> 01:06:31,328
+Então você terá energia para fazer o longo prazo.
+
+594
+01:06:31,328 --> 01:06:35,041
+Está tudo bem.  É melhor eu ir embora.
+
+595
+01:06:35,041 --> 01:06:36,783
+Tenho que fazer isso antes do pôr do sol.
+
+596
+01:06:36,783 --> 01:06:38,817
+Oh sério?  Tudo bem, tudo bem.
+
+597
+01:06:38,817 --> 01:06:39,991
+Boa sorte.
+
+598
+01:06:39,991 --> 01:06:44,991
+Que você consiga o que desejou, querido.
+
+599
+01:08:00,878 --> 01:08:04,878
+Você consegue, estudante universitário?
+
+600
+01:08:30,356 --> 01:08:32,266
+Beba!
+
+601
+01:08:32,266 --> 01:08:34,478
+Encha sua energia,
+
+602
+01:08:34,478 --> 01:08:38,478
+Eu comprei para você.
+
+603
+01:08:38,509 --> 01:08:42,509
+Aqui, coloque um pouco na sua bolsa.
+
+604
+01:08:52,918 --> 01:08:54,918
+Mais um, certo?
+
+605
+01:09:03,392 --> 01:09:04,392
+OK.
+
+606
+01:09:07,865 --> 01:09:09,865
+O que?
+
+607
+01:09:11,244 --> 01:09:15,244
+Vou ter que estacionar aqui.
+
+608
+01:09:16,928 --> 01:09:20,928
+Eu correrei com você.
+
+609
+01:09:43,404 --> 01:09:47,404
+Eu os peguei.
+
+610
+01:09:49,113 --> 01:09:51,361
+Por favor, deixe-me
+não usar o uniforme
+
+611
+01:09:51,361 --> 01:09:53,361
+inteiro, meus pés
+estão doendo demais.
+
+612
+01:10:38,873 --> 01:10:39,220
+Ah, ei!
+
+613
+01:10:39,220 --> 01:10:41,300
+Posso correr pela sala, Laoshi?
+
+614
+01:10:41,300 --> 01:10:42,419
+Tenho que correr por esta sala.
+
+615
+01:10:42,419 --> 01:10:44,217
+É sagrado.
+
+616
+01:10:44,217 --> 01:10:44,861
+Adeus, Laoshi.
+
+617
+01:10:44,861 --> 01:10:46,373
+Ver você de novo.
+
+618
+01:10:46,373 --> 01:10:47,573
+Obrigado!
+
+619
+01:11:08,620 --> 01:11:10,620
+Não!
+
+620
+01:11:18,096 --> 01:11:20,096
+Descanse primeiro.
+
+621
+01:11:47,035 --> 01:11:49,035
+Se apresse!
+
+622
+01:12:36,632 --> 01:12:40,632
+Não conseguimos fazer isso por causa do sol.
+
+623
+01:13:06,589 --> 01:13:10,589
+Acho que você disse sobre a ponta do Cabo Promthep.
+
+624
+01:13:11,164 --> 01:13:14,476
+Ainda temos esperança.
+
+625
+01:13:14,476 --> 01:13:16,332
+Isso mesmo.
+
+626
+01:13:16,332 --> 01:13:19,262
+Ainda está muito longe.
+
+627
+01:13:19,262 --> 01:13:20,871
+Vamos agora.
+
+628
+01:13:20,871 --> 01:13:24,871
+Vamos fazer isso antes do pôr do sol.
+
+629
+01:13:27,188 --> 01:13:31,188
+O estudante de Comm Arts da Anantasart desiste tão facilmente?
+
+630
+01:14:47,988 --> 01:14:51,988
+Ei, o sol apareceu.
+
+631
+01:16:35,262 --> 01:16:39,262
+É lindo, não é?
+
+632
+01:16:50,362 --> 01:16:54,362
+Passei no exame e consegui.
+
+633
+01:17:00,823 --> 01:17:04,625
+Você veio, finalmente.
+
+634
+01:17:04,625 --> 01:17:08,625
+Bem, eu tive que cuidar de um novo aluno da universidade.
+
+635
+01:17:10,464 --> 01:17:14,136
+Parabens.
+
+636
+01:17:14,136 --> 01:17:18,136
+Você conseguiu.
+
+637
+01:17:19,340 --> 01:17:25,340
+Se você não tivesse desistido, você teria usado este uniforme.
+
+638
+01:17:28,074 --> 01:17:30,753
+Não pense nisso.
+
+639
+01:17:30,753 --> 01:17:35,753
+Quando eu dei, eu realmente dei para você.
+
+640
+01:17:38,752 --> 01:17:41,534
+Acho que vou tentar estudar primeiro em Pratchayanant.
+
+641
+01:17:41,534 --> 01:17:45,534
+Se não estiver tudo bem, vou desistir.
+
+642
+01:17:47,212 --> 01:17:53,212
+Meu sonho está aqui.
+
+643
+01:18:02,482 --> 01:18:04,202
+Mas você!
+
+644
+01:18:04,202 --> 01:18:06,357
+Quando eu te dei, você nem me disse nada!
+
+645
+01:18:06,357 --> 01:18:10,357
+Eu fiz, na história do Instagram.
+
+646
+01:18:10,510 --> 01:18:14,510
+Isso não conta.
+
+647
+01:18:16,011 --> 01:18:18,322
+Está tudo bem.
+
+648
+01:18:18,322 --> 01:18:22,322
+De agora em diante, serei eu quem dirá primeiro.
+
+649
+01:18:24,383 --> 01:18:28,383
+Não, eu farei isso.
+
+650
+01:18:39,368 --> 01:18:44,368
+Bas e eu nos tornamos amigos mais uma vez.
+
+651
+01:18:55,706 --> 01:19:00,706
+Tarn e eu também nos tornamos amigos novamente.
+
+652
+01:19:09,480 --> 01:19:13,480
+E você e eu?
+
+653
+01:19:25,202 --> 01:19:28,122
+Hum.
+
+654
+01:19:28,122 --> 01:19:32,122
+Eu entendo.
+
+655
+01:19:37,155 --> 01:19:41,155
+Agora mesmo,
+
+656
+01:19:42,152 --> 01:19:46,152
+Eu não me importo com nada.
+
+657
+01:19:46,313 --> 01:19:49,160
+Tornando-se amigo de você mais uma vez,
+
+658
+01:19:49,160 --> 01:19:51,349
+Eu posso fazer isso.
+
+659
+01:19:51,349 --> 01:19:54,073
+Ou até mesmo se tornar um rival,
+
+660
+01:19:54,073 --> 01:19:56,278
+Eu posso fazer isso também.
+
+661
+01:19:56,278 --> 01:20:00,856
+Ou mesmo você gostando de mim ou me odiando,
+
+662
+01:20:00,856 --> 01:20:04,203
+Eu posso aguentar tudo.
+
+663
+01:20:04,203 --> 01:20:08,203
+Você pode ser o que quiser.
+
+664
+01:20:09,283 --> 01:20:13,283
+Não é mais importante para mim.
+
+665
+01:20:16,245 --> 01:20:20,245
+Mas posso te pedir uma coisa?
+
+666
+01:20:20,629 --> 01:20:24,629
+Não desapareça assim de novo, por favor.
+
+667
+01:20:37,487 --> 01:20:41,487
+Se eu puder ser qualquer coisa,
+
+668
+01:20:44,285 --> 01:20:47,974
+posso ser seu namorado?
+
+669
+01:20:47,974 --> 01:20:52,200
+‘Não consigo mais controlar isso.’
+
+670
+01:20:52,200 --> 01:20:57,886
+‘É errado pensar mais em nós do que somos agora?’
+
+671
+01:20:57,886 --> 01:20:59,887
+'Eu desisto de tudo;  Eu entrego tudo a você.
+
+672
+01:20:59,887 --> 01:21:03,160
+Não vou desaparecer nunca mais.
+
+673
+01:21:03,160 --> 01:21:07,437
+‘Eu admito que só há você em meu coração.’
+
+674
+01:21:07,437 --> 01:21:12,712
+'Quero confessar, mas o que devo dizer?'
+
+675
+01:21:12,712 --> 01:21:18,869
+'Não sei se é, se é?'
+
+676
+01:21:18,869 --> 01:21:24,249
+‘O que é isso, esse sentimento?’
+
+677
+01:21:24,249 --> 01:21:27,514
+‘Acho que é desnecessário entender isso.’
+
+678
+01:21:27,514 --> 01:21:30,514
+‘Só sei que é significativo.’
+
+679
+01:21:31,239 --> 01:21:38,239
+'Amor'
+
+680
+01:21:45,775 --> 01:21:47,775
+Ah, ah!
+
+681
+01:21:50,814 --> 01:21:55,959
+‘Não consigo mais controlar isso.’
+
+682
+01:21:55,959 --> 01:22:01,643
+‘É errado pensar mais em nós do que somos agora?’
+
+683
+01:22:01,643 --> 01:22:04,167
+'Eu desisto de tudo;  Eu entrego tudo a você.
+
+684
+01:22:04,167 --> 01:22:10,950
+EU FALEI A SUNSET SOBRE VOCÊ
+
+685
+01:22:10,950 --> 01:22:16,106
+'Quero confessar, mas o que devo dizer?'
+
+686
+01:22:16,106 --> 01:22:20,091
+EU CONTEI A SUNSET SOBRE
+VOCÊ PARTE 2: 11 DE MARÇO DE 2021
+
+687
+01:22:20,091 --> 01:22:22,379
+'Não sei se é, se é?'
+
+688
+01:22:22,379 --> 01:22:27,829
+'O que é isso, esse sentimento?'
+
+689
+01:22:27,829 --> 01:22:31,272
+'Acho que é desnecessário entender isso.''
+
+690
+01:22:31,272 --> 01:22:38,272
+'Só sei que é significativo.'
+
